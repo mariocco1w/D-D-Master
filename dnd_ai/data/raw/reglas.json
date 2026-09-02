@@ -1,0 +1,8602 @@
+[
+ {
+  "text": "Las excepciones se imponen",
+  "size": 11.0,
+  "page": 5
+ },
+ {
+  "text": "a las reglas generales",
+  "size": 11.0,
+  "page": 5
+ },
+ {
+  "text": "Las reglas generales rigen todas las partes del juego. Por",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "ejemplo, las reglas de combate determinan que los ata",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "ques cuerpo a cuerpo emplean la Fuerza y los ataques a",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "distancia usan la Destreza. Esa es una regla general, y las",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "reglas generales son las que mandan mientras no haya",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "nada en el juego que las contradiga explícitamente.",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "El juego también incluye elementos (rasgos de",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "clase, dotes, propiedades de las armas, conjuros,",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "objetos mágicos, capacidades de los monstruos, etc.)",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "que, en ocasiones, contradicen una regla general.",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "Cuando una excepción y una regla general discrepan,",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "se impone la excepción. Por ejemplo, si un rasgo dice",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "que puedes realizar ataques cuerpo a cuerpo usando",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "tu Carisma, puedes hacerlo, aunque eso no sea lo",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "que establece la regla general.",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "Redondear hacia abajo",
+  "size": 11.0,
+  "page": 5
+ },
+ {
+  "text": "Siempre que tengas que dividir o multiplicar un",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "número en la partida, redondéalo hacia abajo si no es",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "entero, incluso cuando la parte decimal sea 5 o más.",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "Algunas reglas plantean excepciones e indican que",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "redondees hacia arriba.",
+  "size": 9.0,
+  "page": 5
+ },
+ {
+  "text": "Cómo jugar",
+  "size": 26.0,
+  "page": 5
+ },
+ {
+  "text": "El ritmo de juego",
+  "size": 18.0,
+  "page": 5
+ },
+ {
+  "text": "Los tres pilares principales de las partidas de D&D",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "son las interacciones sociales, la exploración y el",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "combate. En cualquiera de esas situaciones, el juego",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "emplea la siguiente estructura básica:",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "1:\tEl Game Master describe una situación. El GM",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "explica a los jugadores dónde se encuentran sus",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "aventureros y detalla su entorno (cuántas puer",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "tas tiene una sala, qué hay en una mesa, etc.).",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "2:\tLos jugadores describen lo que hacen sus",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "personajes. Por lo general, los personajes per",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "manecen juntos al recorrer una mazmorra u otro",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "entorno. En algunas ocasiones, cada aventurero",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "hará una cosa distinta. Así, uno podría registrar",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "un cofre mientras otro examina un símbolo mis",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "terioso grabado en un muro y un tercero monta",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "guardia para evitar que les sorprenda algún",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "monstruo. Fuera del combate, el GM se asegura",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "de que cada personaje tenga la oportunidad",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "de actuar y decide cómo resolver su actividad.",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "En combate, los personajes actúan por turnos.",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "3:\tEl GM describe el resultado de las acciones",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "de los aventureros. A veces una tarea es fácil",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "de resolver. Si un aventurero cruza una estancia",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "y trata de abrir una puerta, el GM puede limitarse",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "a decir que la puerta se abre y describir lo que",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "hay tras ella. No obstante, quizá la puerta esté",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "cerrada con llave, el suelo esconda una trampa",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "o cualquier otra circunstancia dificulte la tarea",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "que el aventurero quería llevar a cabo. En estos",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "casos, el GM podría pedir al jugador que tire un",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "dado para determinar qué ocurrirá. Describir",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "los resultados suele desembocar en una nueva",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "situación en la que habrá que tomar decisiones,",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "por lo que se volvería al paso 1.",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "Esta estructura se utiliza en todas las sesiones de",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "juego (cada vez que te sientes a jugar a D&D), tanto",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "si los jugadores hablan con un noble, exploran unas",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "ruinas o luchan con un dragón. En ciertas situa",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "ciones (sobre todo en combate), la acción está más",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "estructurada y todo el mundo actúa por turnos.",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "Las seis características",
+  "size": 18.0,
+  "page": 5
+ },
+ {
+  "text": "Todas las criaturas (personajes y monstruos) tienen",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "seis características que definen sus capacidades",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "físicas y mentales, tal y como se muestra en la tabla",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "“Descripciones de las características”.",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "Descripciones de las características",
+  "size": 10.5,
+  "page": 5
+ },
+ {
+  "text": "Característica",
+  "size": 9.2,
+  "page": 5
+ },
+ {
+  "text": "La puntuación mide...",
+  "size": 9.2,
+  "page": 5
+ },
+ {
+  "text": "Fuerza",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Poderío físico",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Agilidad, reflejos y equilibrio",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Constitución",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Salud y aguante",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Raciocinio y memoria",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Perspicacia y fortaleza mental",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Confianza, aplomo y encanto",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Puntuaciones de característica",
+  "size": 14.0,
+  "page": 5
+ },
+ {
+  "text": "Cada característica tiene una puntuación de 1 a 20,",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "aunque las de algunos monstruos llegan a 30. La",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "puntuación representa la magnitud de una carac",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "terística. La tabla “Puntuaciones de característica”",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "resume el significado de las puntuaciones.",
+  "size": 10.0,
+  "page": 5
+ },
+ {
+  "text": "Puntuaciones de característica",
+  "size": 10.5,
+  "page": 5
+ },
+ {
+  "text": "Puntuación",
+  "size": 9.2,
+  "page": 5
+ },
+ {
+  "text": "Significado",
+  "size": 9.2,
+  "page": 5
+ },
+ {
+  "text": "Este es, por lo general, el mínimo que",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "puede tener una puntuación. Si un efecto",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "la reduce a 0, explica lo que ocurre.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "2–9",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Representa una capacidad débil.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "10–11",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Representa la media humana.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "12–19",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Representa una capacidad fuerte.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Este es el máximo que pueden tener",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "las puntuaciones de los aventureros salvo",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "que un rasgo indique lo contrario.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "21–29",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Representa una capacidad extraordinaria.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Este es el máximo que pueden tener",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "las puntuaciones.",
+  "size": 9.5,
+  "page": 5
+ },
+ {
+  "text": "Modificadores por característica",
+  "size": 14.0,
+  "page": 6
+ },
+ {
+  "text": "Cada característica posee un modificador que apli",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "cas al realizar una prueba con d20 de esa caracte",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "rística (se explica en el apartado “Las pruebas con",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "d20”). El modificador por característica se deriva",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de su puntuación, tal y como se muestra en la tabla",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "“Modificadores por característica”.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Modificadores por característica",
+  "size": 10.5,
+  "page": 6
+ },
+ {
+  "text": "Puntuación",
+  "size": 9.2,
+  "page": 6
+ },
+ {
+  "text": "Modificador",
+  "size": 9.2,
+  "page": 6
+ },
+ {
+  "text": "−5",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "2–3",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "−4",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "4–5",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "−3",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "6–7",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "−2",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "8–9",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "−1",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "10–11",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+0",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "12–13",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+1",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "14–15",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+2",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Puntuación",
+  "size": 9.2,
+  "page": 6
+ },
+ {
+  "text": "Modificador",
+  "size": 9.2,
+  "page": 6
+ },
+ {
+  "text": "16–17",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+3",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "18–19",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+4",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "20–21",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+5",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "22–23",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+6",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "24–25",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+7",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "26–27",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+8",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "28–29",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+9",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "+10",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Las pruebas con d20",
+  "size": 18.0,
+  "page": 6
+ },
+ {
+  "text": "Cuando el resultado de una acción no esté claro, se",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "tira 1d20 para determinar si esta tiene éxito o fra",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "casa. Estas tiradas se denominan pruebas con d20",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "y las hay de tres tipos: pruebas de característica,",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "tiradas de salvación y tiradas de ataque. Todas ellas",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "siguen estos pasos:",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "1:\tTira 1d20. Cuanto mayor sea el resultado, mejor.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Si la tirada tiene ventaja o desventaja (descritas",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "más adelante en el capítulo “Cómo jugar”), tira",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "rás 2d20, pero emplearás el resultado de uno solo",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de ellos: el mayor si tienes ventaja o el inferior si",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "tienes desventaja.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "2:\tAñade los modificadores. Añade estos modifi",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "cadores al resultado obtenido con el d20:",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "•\t El modificador por característica correspon",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "diente. Los capítulos “Cómo jugar” y “Glosario",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de reglas” explican qué modificador por caracte",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "rística se debe emplear en las diversas pruebas",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "con d20.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "•\t Tu bonificador por competencia, si procede.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Cada criatura tiene un bonificador por compe",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "tencia, un número que se suma al realizar una",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "prueba con d20 que utilice alguna aptitud, como",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "una habilidad, en la que la criatura sea compe",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "tente. Consulta el apartado “Competencia” más",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "adelante en “Cómo jugar”.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "•\t Bonificadores y penalizadores según las",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "circunstancias. Un rasgo de clase, un conjuro o",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "cualquier otra regla podrían otorgar un bonifica",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "dor o un penalizador a la tirada.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "3:\tCompara el total con un número objetivo.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Si el total del d20 y sus modificadores es igual o",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "superior al número objetivo, se supera la prueba",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "con d20. De lo contrario, se falla. El Game Master",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "decide los números objetivo y dice a los jugado",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "res si sus tiradas tienen éxito o no. El número",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "objetivo de una prueba de característica o de",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "una tirada de salvación se denomina clase de",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "dificultad (CD). El número objetivo de una tirada",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de ataque recibe el nombre de clase de armadu",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "ra (CA), que es una cifra que aparece en una hoja",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de personaje o en un perfil (consulta el capítulo",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "“Glosario de reglas”).",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Pruebas de característica",
+  "size": 14.0,
+  "page": 6
+ },
+ {
+  "text": "Las pruebas de característica representan los",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "intentos de las criaturas al usar sus capacidades",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "y su entrenamiento para superar un obstáculo,",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "como abrir a la fuerza una puerta atascada, forzar",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "una cerradura, entretener a un público o descifrar",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "un código. El GM y las reglas suelen requerir una",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "prueba de característica cuando una criatura trata",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de llevar a cabo una acción (que no sea un ataque)",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "en la que exista la posibilidad de fracasar de forma",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "significativa. Cuando el resultado no esté claro y sea",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "relevante para la narrativa, se tiran los dados para",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "determinarlo.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Modificador por característica",
+  "size": 12.0,
+  "page": 6
+ },
+ {
+  "text": "El nombre de una prueba de característica depende",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "del modificador por característica que utilice: una",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "prueba de Fuerza, una prueba de Inteligencia, etc.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Se requieren diferentes pruebas de característica",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "para distintas situaciones, en función de la carac",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "terística que sea más relevante. Consulta la tabla",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "“Ejemplos de pruebas de característica” para ver",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "para qué pueden servir las pruebas.",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "Ejemplos de pruebas de característica",
+  "size": 10.5,
+  "page": 6
+ },
+ {
+  "text": "Característica",
+  "size": 9.2,
+  "page": 6
+ },
+ {
+  "text": "Haz una prueba para...",
+  "size": 9.2,
+  "page": 6
+ },
+ {
+  "text": "Fuerza",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Levantar, empujar, tirar o romper algo.",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Moverte de forma ágil, rápida",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "o silenciosa.",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Constitución",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Rebasar tus capacidades físicas",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "normales.",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Razonar o recordar algo.",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Percatarte de algo en tu entorno",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "o en la conducta de las criaturas.",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Influir, entretener o engañar.",
+  "size": 9.5,
+  "page": 6
+ },
+ {
+  "text": "Bonificador por competencia",
+  "size": 12.0,
+  "page": 6
+ },
+ {
+  "text": "Suma tu bonificador por competencia a una prueba",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "de característica cuando tu GM determine que la",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "competencia en una habilidad o con una herramienta",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "sea relevante para la prueba y tú poseas dicha com",
+  "size": 10.0,
+  "page": 6
+ },
+ {
+  "text": "petencia. Por ejemplo, si una regla hace referencia a",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "una prueba de Fuerza (Acrobacias o Atletismo), pue",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "des sumar tu bonificador por competencia a la prue",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "ba si eres competente en una de esas dos habilidades.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Consulta el apartado “Competencia” más adelante en",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "“Cómo jugar” para obtener más información sobre",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "las competencias en habilidades o con herramientas.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Clase de dificultad",
+  "size": 12.0,
+  "page": 7
+ },
+ {
+  "text": "La clase de dificultad de una prueba de caracterís",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "tica representa la dificultad de la tarea. Cuanto más",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "difícil sea, mayor será su CD. Las reglas establecen",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "las CD de ciertas pruebas, pero el GM es quien las",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "determina en última instancia. La tabla “Clases de",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "dificultad típicas” muestra un rango de CD posibles",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "para las pruebas de característica.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Clases de dificultad típicas",
+  "size": 10.5,
+  "page": 7
+ },
+ {
+  "text": "Dificultad",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "de la tarea",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "CD",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "Muy fácil",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Fácil",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Dificultad media",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Dificultad",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "de la tarea",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "CD",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "Difícil",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Muy difícil",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Casi imposible",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Tiradas de salvación",
+  "size": 14.0,
+  "page": 7
+ },
+ {
+  "text": "Una tirada de salvación, o simplemente salvación,",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "representa un intento de evitar o resistir una",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "amenaza, como una explosión ígnea, una ráfaga",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "de gas venenoso o un conjuro que trate de invadir",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "tu mente. Normalmente no eliges hacer una tirada",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "de salvación, sino que debes hacerla porque tu per",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "sonaje o un monstruo (si eres GM) está en peligro.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "El resultado de la tirada se describe en el efecto que",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "la ha causado.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Si no quieres resistirte al efecto, puedes optar por",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "no hacer la tirada para fallarla.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Modificador por característica",
+  "size": 12.0,
+  "page": 7
+ },
+ {
+  "text": "Las tiradas de salvación usan el nombre de los",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "modificadores por característica que emplean: una",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "tirada de salvación de Constitución, una tirada de",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "salvación de Sabiduría, etc. Se utilizan diversas ti",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "radas de salvación para resistirse a diferentes tipos",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "de efectos, como se muestra en la tabla “Ejemplos",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "de tiradas de salvación”.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Ejemplos de tiradas de salvación",
+  "size": 10.5,
+  "page": 7
+ },
+ {
+  "text": "Característica",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "Haz una tirada de salvación para...",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "Fuerza",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Resistir físicamente una fuerza",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "directa.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Esquivar una amenaza.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Constitución",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Resistir un peligro tóxico.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Identificar una ilusión como falsa.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Resistir una agresión mental.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Reafirmar tu identidad.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Bonificador por competencia",
+  "size": 12.0,
+  "page": 7
+ },
+ {
+  "text": "Sumas tu bonificador por competencia a tu tirada",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "de salvación si eres competente en ese tipo de",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "salvación. Consulta el apartado “Competencia” más",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "adelante en “Cómo jugar”.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Clase de dificultad",
+  "size": 12.0,
+  "page": 7
+ },
+ {
+  "text": "La clase de dificultad de una tirada de salvación",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "la determinan el efecto que la causa o el GM. Por",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "ejemplo, si un conjuro te obliga a hacer una tirada",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "de salvación, la aptitud mágica del lanzador y su",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "bonificador por competencia determinarán la CD.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Las capacidades de los monstruos que exigen tira",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "das de salvación especifican la CD.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Tiradas de ataque",
+  "size": 14.0,
+  "page": 7
+ },
+ {
+  "text": "Una tirada de ataque determina si un ataque",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "acierta a un objetivo. Una tirada de ataque acierta",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "si la tirada es igual o superior a la clase de arma",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "dura del objetivo. Las tiradas de ataque suceden",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "normalmente en las batallas, que se describen más",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "adelante en el apartado “Combate” de “Cómo jugar”,",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "pero tu GM podría pedir una tirada de ataque en",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "otras situaciones, como en una competición de tiro",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "con arco.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Modificador por característica",
+  "size": 12.0,
+  "page": 7
+ },
+ {
+  "text": "La tabla “Características de las tiradas de ataque”",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "muestra qué modificador por característica se debe",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "emplear en los distintos tipos de tiradas de ataque.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Características de las tiradas de ataque",
+  "size": 10.5,
+  "page": 7
+ },
+ {
+  "text": "Característica",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "Tipo de ataque",
+  "size": 9.2,
+  "page": 7
+ },
+ {
+  "text": "Fuerza",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Ataque cuerpo a cuerpo con un arma",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "o un ataque sin armas (consulta el ca",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "pítulo “Glosario de reglas”).",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Ataque a distancia con un arma.",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Variable",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Ataque de conjuro (el rasgo de lan",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "zamiento de conjuros del lanzador",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "determina la característica empleada,",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "como se explica en el capítulo",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "“Conjuros”).",
+  "size": 9.5,
+  "page": 7
+ },
+ {
+  "text": "Algunos rasgos o propiedades te permiten usar",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "modificadores por característica distintos a los",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "que se indican. Por ejemplo, la propiedad “sutil”",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "(consulta el capítulo “Equipo”) te permite utilizar",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "la Fuerza o la Destreza con un arma que tenga esa",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "propiedad.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Bonificador por competencia",
+  "size": 12.0,
+  "page": 7
+ },
+ {
+  "text": "Si eres competente con el arma con la que atacas,",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "podrás sumar el bonificador por competencia a la",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "tirada de ataque. También sumarás este bonifica",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "dor a tus ataques de conjuro. Consulta el apartado",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "“Competencia” más adelante en “Cómo jugar” para",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "obtener más información sobre las competencias",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "con armas.",
+  "size": 10.0,
+  "page": 7
+ },
+ {
+  "text": "Inspiración heroica",
+  "size": 11.0,
+  "page": 8
+ },
+ {
+  "text": "A veces, tu GM o una regla te conceden inspiración",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "heroica. Si tienes inspiración heroica, puedes gastarla",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "para volver a tirar cualquier dado inmediatamente",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "después de lanzarlo; si lo haces, deberás utilizar el",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "nuevo resultado.",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "Solo una cada vez. Nunca puedes tener más de",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "una inspiración heroica a la vez. Si algo te proporcio",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "na inspiración heroica y ya dispones de ella, puedes",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "cedérsela a otro personaje jugador que no la tenga.",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "Obtener inspiración heroica. Tu GM puede",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "concederte inspiración heroica por diversos moti",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "vos. Por lo general, te recompensará con ella cuando",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "hagas algo especialmente heroico, entretenido o",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "propio de tu personaje. Se trata de una recompensa",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "por hacer que la partida sea más divertida para todos",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "los jugadores.",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "Otras reglas podrían permitir que tu personaje",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "obtenga inspiración heroica al margen de la decisión",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "de tu GM. Por ejemplo, los personajes humanos",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "comienzan cada día con inspiración heroica.",
+  "size": 9.0,
+  "page": 8
+ },
+ {
+  "text": "Clase de armadura",
+  "size": 12.0,
+  "page": 8
+ },
+ {
+  "text": "La clase de armadura de una criatura representa",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "su capacidad de evitar que la hieran en el combate.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "La CA de un personaje se determina durante su",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "creación (consulta el capítulo “Creación de persona",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "jes”), mientras que la de un monstruo se recoge en",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "su perfil.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Calcular la CA. Todas las criaturas parten del mis",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "mo cálculo de la CA base:",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "CA base = 10 + el modificador por Destreza",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "de la criatura",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "La CA de una criatura puede modificarse a con",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "tinuación mediante armaduras, objetos mágicos,",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "conjuros, etc.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Solo una CA base. Algunos conjuros y rasgos de",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "clase permiten a los personajes calcular la CA de",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "forma distinta. Un personaje con varios rasgos que",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "le permitan calcular la CA de formas diferentes de",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "berá elegir cuál quiere usar: solo puede emplearse",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "una forma de calcular la base para cada criatura.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Sacar 20 o 1",
+  "size": 12.0,
+  "page": 8
+ },
+ {
+  "text": "Si sacas un 20 en el d20 (lo que se llama un “20 na",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "tural”) al hacer una tirada de ataque, el ataque acer",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "tará sin tener en cuenta los modificadores ni la CA",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "del objetivo. Esto es lo que se conoce como “crítico”",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "(consulta el apartado “Combate” más adelante en",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "“Cómo jugar”).",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Si sacas un 1 en el d20 (un “1 natural”) al hacer",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "una tirada de ataque, el ataque fallará sin tener",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "en cuenta los modificadores ni la CA del objetivo.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Ventaja y desventaja",
+  "size": 14.0,
+  "page": 8
+ },
+ {
+  "text": "A veces, tener ventaja o desventaja modifica una",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "prueba con d20. La ventaja refleja las circunstancias",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "positivas que rodean una tirada del d20, mientras",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "que la desventaja refleja las negativas.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Lo habitual es que obtengas ventaja o desventaja",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "mediante el uso de capacidades especiales y accio",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "nes. Tu GM puede decidir también que las circuns",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "tancias otorguen ventaja o impongan desventaja.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Tirar 2d20",
+  "size": 12.0,
+  "page": 8
+ },
+ {
+  "text": "Cuando una tirada tenga ventaja o desventaja, tira",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "un segundo d20 al hacerla. Usarás el resultado más",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "alto de los dos si tienes ventaja y el más bajo si tie",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "nes desventaja. Por ejemplo, si sufres desventaja y",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "sacas un 18 y un 3, utilizarás el 3. Si, por el contra",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "rio, tuvieras ventaja, te quedarías con el 18.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "No se acumulan",
+  "size": 12.0,
+  "page": 8
+ },
+ {
+  "text": "Si varias situaciones afectan a una tirada y todas",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "le otorgan ventaja, seguirás tirando solo 2d20.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "De forma similar, si varias situaciones imponen",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "desventaja a una tirada, tirarás solo 2d20.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Si las circunstancias hacen que una tirada tenga",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "tanto ventaja como desventaja, no tendrá ninguna",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "de las dos y solo tirarás 1d20. Esto es así incluso",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "aunque varias circunstancias provoquen desventaja",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "y solo una te otorgue ventaja, o viceversa. Si esto",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "ocurre, no tendrás ni ventaja ni desventaja.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Cómo tratar las repeticiones de tiradas",
+  "size": 12.0,
+  "page": 8
+ },
+ {
+  "text": "Si tienes ventaja o desventaja y algún aspecto del",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "juego te permite volver a tirar o sustituir el d20,",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "solo podrás volver a tirar o sustituir uno de los",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "dados, no los dos. Tendrás que escoger cuál.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Por ejemplo, si tienes inspiración heroica (con",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "sulta el cuadro de debajo) y sacas un 3 y un 18 en",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "una prueba de característica que tenga ventaja o",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "desventaja, podrás usar tu inspiración heroica para",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "repetir la tirada de uno de los dados, no de ambos.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Competencia",
+  "size": 18.0,
+  "page": 8
+ },
+ {
+  "text": "A los personajes y los monstruos se les dan bien",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "diversas cosas. Algunos son habilidosos con muchas",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "armas, mientras que otros solo dominan unas po",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "cas. Hay quienes captan enseguida la motivación de",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "la gente y a quienes se les da mejor descubrir los se",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "cretos del multiverso. Todas las criaturas tienen un",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "bonificador por competencia, que refleja el efecto",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "del entrenamiento en las capacidades de la criatura.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "El bonificador por competencia de un personaje au",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "menta a medida que este va subiendo de nivel (con",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "sulta el capítulo “Creación de personajes”). El boni",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "ficador por competencia de un monstruo se basa en",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "su valor de desafío (consulta el capítulo “Glosario",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "de reglas”). La tabla “Bonificador por competencia”",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "muestra cómo se determina.",
+  "size": 10.0,
+  "page": 8
+ },
+ {
+  "text": "Este bonificador se aplica a una prueba con d20",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "cuando la criatura es competente en una habilidad,",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "en una tirada de salvación o con un objeto que la",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "criatura emplee para realizar la prueba con d20.",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "El bonificador también se utiliza para los ataques",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "de conjuro y para el calcular la CD de las tiradas de",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "salvación de conjuros.",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "Bonificador por competencia",
+  "size": 10.5,
+  "page": 9
+ },
+ {
+  "text": "Nivel o VD",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "Bonificador",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "Hasta 4",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+2",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "5–8",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+3",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "9–12",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+4",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "13–16",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+5",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Nivel o VD",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "Bonificador",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "17–20",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+6",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "21–24",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+7",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "25–28",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+8",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "29–30",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "+9",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "El bonificador no se acumula",
+  "size": 14.0,
+  "page": 9
+ },
+ {
+  "text": "Tu bonificador por competencia no se puede sumar",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "a una tirada o a otro número más de una vez. Por",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "ejemplo, si una regla te permite realizar una prueba",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "de Carisma (Engaño o Persuasión), sumarás tu",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "bonificador por competencia si eres competente en",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "alguna de esas habilidades, pero no lo sumarás dos",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "veces si eres competente en ambas.",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "En ocasiones, tu bonificador por competencia se",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "podría multiplicar o dividir (duplicarse o reducirse",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "a la mitad, por ejemplo) antes de sumarlo. Por ejem",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "plo, el rasgo Pericia (consulta el capítulo “Glosario",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "de reglas”) duplica el bonificador por competencia",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "en determinadas pruebas de característica. Cuan",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "do se emplee el bonificador, se podrá multiplicar o",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "dividir solo una vez.",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "Competencias en habilidades",
+  "size": 14.0,
+  "page": 9
+ },
+ {
+  "text": "La mayoría de pruebas de característica utilizan",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "una habilidad, que representa una categoría de",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "cosas que las criaturas podrían intentar hacer con",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "una prueba de característica. Las descripciones de",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "las acciones que llevas a cabo (consulta el apartado",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "“Acciones” más adelante en “Cómo jugar”) espe",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "cifican qué habilidad se aplica cuando hagas una",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "prueba de característica para esa acción. Además,",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "muchas otras reglas indican cuándo una habilidad",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "resulta relevante. No obstante, cada GM tiene la",
+  "size": 10.0,
+  "page": 9
+ },
+ {
+  "text": "Habilidades",
+  "size": 10.5,
+  "page": 9
+ },
+ {
+  "text": "Habilidad",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "Característica",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "Ejemplos de usos",
+  "size": 9.2,
+  "page": 9
+ },
+ {
+  "text": "Acrobacias",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Conservar el equilibrio en situaciones difíciles o realizar una proeza acrobática.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Atletismo",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Fuerza",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Saltar más lejos de lo normal, mantenerse a flote en aguas revueltas o romper",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "algo.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Conocimiento",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "arcano",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Recordar información acerca de conjuros, objetos mágicos y los planos de",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "existencia.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Engaño",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Contar una mentira convincente o llevar un disfraz de manera creíble.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Historia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Recordar información sobre acontecimientos, personas, naciones y culturas de",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "carácter histórico.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Interpretación",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Actuar, contar una historia, tocar un instrumento o bailar.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Intimidación",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Asustar o amenazar a alguien para que haga lo que tú quieres.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Investigación",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Encontrar información oculta en libros o deducir cómo funciona algo.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Juego de manos",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Vaciar los bolsillos a alguien, ocultar un objeto que llevas en la mano o hacer",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "trucos de prestidigitación.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Medicina",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Diagnosticar una enfermedad o determinar de qué ha muerto un fallecido",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "reciente.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Naturaleza",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Recordar información acerca del terreno, la flora, la fauna y el clima.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Percepción",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Mediante una combinación de sentidos, darse cuenta de algo que es fácil pasar por",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "alto.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Perspicacia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Discernir el estado de ánimo y las intenciones de una persona.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Persuasión",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Carisma",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Convencer a alguien de algo de una manera sincera y amable.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Religión",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Inteligencia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Recordar información sobre dioses, rituales religiosos y símbolos sagrados.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Sigilo",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Pasar desapercibido al caminar en silencio y ocultarse detrás de las cosas.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Supervivencia",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Seguir huellas, forrajear, encontrar un camino o evitar peligros naturales.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Trato con",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "animales",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Sabiduría",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "Tranquilizar o adiestrar a un animal, o conseguir que se comporte de una deter",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "minada forma.",
+  "size": 9.5,
+  "page": 9
+ },
+ {
+  "text": "última palabra sobre la relevancia de una habilidad",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "en una determinada situación.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Si una criatura es competente en una habilidad,",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "aplicará su bonificador por competencia a las",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "pruebas de característica que utilizan esa habilidad.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Aunque una criatura no sea competente en una",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "habilidad, podrá hacer pruebas de característica",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "que la empleen, pero no sumará su bonificador por",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "competencia. Por ejemplo, si un personaje trata",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "de trepar por un acantilado, el GM podría pedirle",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "una prueba de Fuerza (Atletismo). Si el personaje",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "es competente en Atletismo, sumará su bonifica",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "dor por competencia a la prueba de Fuerza. Por el",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "contrario, si carece de esa competencia, realizará la",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "prueba sin sumar su bonificador por competencia.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Lista de habilidades",
+  "size": 12.0,
+  "page": 10
+ },
+ {
+  "text": "Las habilidades se recogen en la tabla “Habilidades”,",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "que da ejemplos de uso de cada una e indica las",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "pruebas de característica a las que normalmente",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "se aplica la habilidad.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Determinar las habilidades",
+  "size": 12.0,
+  "page": 10
+ },
+ {
+  "text": "Las competencias en habilidades iniciales de un per",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "sonaje se determinan durante su creación, mientras",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "que las de un monstruo aparecen en su perfil.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Competencias en tiradas",
+  "size": 14.0,
+  "page": 10
+ },
+ {
+  "text": "de salvación",
+  "size": 14.0,
+  "page": 10
+ },
+ {
+  "text": "La competencia en una tirada de salvación permite",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "al personaje sumar su bonificador por competencia",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "a las tiradas de salvación que empleen una carac",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "terística concreta. Por ejemplo, la competencia en",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "tiradas de salvación de Sabiduría te permite sumar",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "tu bonificador por competencia a las tiradas de",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "salvación de Sabiduría. Algunos monstruos también",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "tienen competencias en tiradas de salvación, como",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "se indica en sus perfiles.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Cada clase otorga competencia en al menos dos",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "tiradas de salvación, lo que representa el entre",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "namiento de esa clase en evadir o resistir deter",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "minadas amenazas. Los magos, por ejemplo, son",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "competentes en tiradas de salvación de Inteligen",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "cia y Sabiduría, ya que se entrenan para resistir",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "las agresiones mentales.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Competencias con equipo",
+  "size": 14.0,
+  "page": 10
+ },
+ {
+  "text": "Un personaje adquiere competencia con diversas",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "armas y herramientas debido a su clase y a su tras",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "fondo. Existen dos categorías de competencia con",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "equipo:",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Armas. Todo el mundo puede blandir un arma,",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "pero lo haces mejor si eres competente con ella.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Si tienes competencia con un arma, sumarás tu",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "bonificador por competencia a las tiradas de",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "ataque que hagas con ella.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Herramientas. Si eres competente con una",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "herramienta, podrás sumar tu bonificador por",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "competencia a cualquier prueba de característica",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "que hagas que emplee esa herramienta. Además,",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "si eres competente en la habilidad que se utiliza",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "en esa prueba, también tendrás ventaja al hacerla.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Eso significa que puedes beneficiarte tanto de",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "la competencia en la habilidad como de la com",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "petencia con la herramienta en la misma prueba",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "de característica.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Acciones",
+  "size": 18.0,
+  "page": 10
+ },
+ {
+  "text": "Cuando haces algo que no sea moverte o comuni",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "carte, normalmente debes llevar a cabo una acción.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "La tabla “Acciones” enumera las principales accio",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "nes del juego, que se definen de forma más detallada",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "en el capítulo “Glosario de reglas”.",
+  "size": 10.0,
+  "page": 10
+ },
+ {
+  "text": "Acciones",
+  "size": 10.5,
+  "page": 10
+ },
+ {
+  "text": "Acción",
+  "size": 9.2,
+  "page": 10
+ },
+ {
+  "text": "Resumen",
+  "size": 9.2,
+  "page": 10
+ },
+ {
+  "text": "Atacar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Atacas con un arma o un ataque sin armas.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Ayudar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Ayudas a otra criatura en una prueba de",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "característica o tirada de ataque, o admi",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "nistras primeros auxilios.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Buscar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Haces una prueba de Sabiduría (Medicina,",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Percepción, Perspicacia o Supervivencia).",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Correr",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Durante el resto del turno, te concedes",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "movimiento adicional equivalente a tu",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "velocidad.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Destra",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "barse",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Tu movimiento no provocará ataques de",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "oportunidad durante el resto del turno.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Escon",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "derse",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Haces una prueba de Destreza (Sigilo).",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Esquivar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Hasta el principio de tu siguiente turno, las",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "tiradas de ataque contra ti tendrán desven",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "taja y realizarás las tiradas de salvación de",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Destreza con ventaja. Perderás este bene",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "ficio si tienes el estado de incapacitado o si",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "tu velocidad es 0.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Estudiar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Haces una prueba de Inteligencia (Cono",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "cimiento arcano, Historia, Investigación,",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Naturaleza o Religión).",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Influir",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Haces una prueba de Carisma (Engaño,",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Interpretación, Intimidación o Persuasión)",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "o Sabiduría (Trato con animales) para",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "cambiar la actitud de una criatura.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Magia",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Lanzas un conjuro, utilizas un objeto",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "mágico o empleas un rasgo mágico.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Preparar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "una acción",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Te preparas para llevar a cabo una acción",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "en respuesta a un suceso que tú definas.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Utilizar",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Usas un objeto no mágico.",
+  "size": 9.5,
+  "page": 10
+ },
+ {
+  "text": "Los personajes de los jugadores y los monstruos",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "pueden hacer otras cosas que no se abarcan en es",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "tas acciones. Muchos rasgos de clase y otras carac",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "terísticas proporcionan opciones adicionales para",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "tus acciones, y también puedes improvisar otras",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "acciones. Para realizar una acción que no aparezca",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "en las reglas, tu Game Master te dirá si esa acción",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "es posible y qué tipo de prueba con d20 tienes que",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "realizar (si fuera necesario).",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Una acción cada vez",
+  "size": 14.0,
+  "page": 11
+ },
+ {
+  "text": "El juego emplea acciones para controlar cuánto pue",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "des hacer en un momento dado. Solo puedes llevar a",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "cabo una acción cada vez. Este principio es vital en",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "el combate, como se explica en el apartado “Comba",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "te” más adelante en “Cómo jugar”.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Las acciones también pueden surgir en otras situa",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "ciones. Por ejemplo, en las interacciones sociales,",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "puedes tratar de influir en una criatura o utilizar la",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "acción de buscar para interpretar su lenguaje cor",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "poral, pero no podrás hacer las dos cosas al mismo",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "tiempo. Asimismo, cuando explores una mazmorra,",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "no podrás realizar la acción de buscar para detectar",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "trampas a la vez que usas la acción de ayudar para",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "colaborar con otro personaje que trata de abrir una",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "puerta atascada (con la acción de utilizar).",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Acciones adicionales",
+  "size": 14.0,
+  "page": 11
+ },
+ {
+  "text": "Determinados rasgos de clase, conjuros y aptitudes",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "similares te permiten realizar una acción extra en",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "tu turno, que recibe el nombre de “acción adicional”.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Por ejemplo, el rasgo Acción astuta de los pícaros les",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "permite llevar a cabo una acción adicional. Solo pue",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "des realizar una acción adicional si algún aspecto",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "del juego, como una capacidad especial o un con",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "juro, te permite hacer algo como acción adicional.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "En caso contrario, no podrás llevarla a cabo.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Además, solo puedes realizar una acción adicional",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "por turno, así que deberás elegir cuál usar si puedes",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "optar entre varias.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Tú escoges en qué momento de tu turno realizas",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "la acción adicional, salvo que esta especifique",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "alguno concreto. Si algo te impide realizar acciones,",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "también te impedirá llevar a cabo una acción",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "adicional.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Reacciones",
+  "size": 14.0,
+  "page": 11
+ },
+ {
+  "text": "Ciertas capacidades especiales, conjuros y situacio",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "nes te permitirán llevar a cabo una acción especial",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "llamada “reacción”. Una reacción es una respuesta",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "inmediata a un suceso de algún tipo, que puede ocu",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "rrir tanto en tu turno como en el de otro. El ataque",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "de oportunidad, que se describe más adelante en",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "“Cómo jugar”, es el tipo de reacción más habitual.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Cuando lleves a cabo una reacción, ya no podrás",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "volver a hacerlo hasta el principio de tu siguiente",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "turno. Si la reacción interrumpe el turno de otra",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "criatura, esta podrá continuar con su turno cuando",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "la reacción termine.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "En lo que respecta al momento para realizarla,",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "una reacción tiene lugar inmediatamente después",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "del suceso que la desencadena, salvo que la descrip",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "ción de la reacción diga otra cosa.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Interacciones sociales",
+  "size": 18.0,
+  "page": 11
+ },
+ {
+  "text": "Durante sus aventuras, los personajes de los juga",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "dores conocerán gente de muchos tipos y se toparán",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "con ciertos monstruos que preferirían hablar en",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "vez de pelear. Esas situaciones propician las inte",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "racciones sociales, que adoptan muchas formas.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Por ejemplo, podrías intentar persuadir a un ladrón",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "de que confiese una fechoría o tratar de encandilar",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "a un guardia. Tu Game Master interpretará el papel",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "de todos los personajes no jugadores que participen",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "en una interacción social.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "La actitud de un PNJ hacia tu personaje puede ser",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "amistosa, indiferente u hostil, como se define en",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "el capítulo “Glosario de reglas”. Los PNJ amistosos",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "están más predispuestos a ayudarte y los hostiles,",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "a ponerte trabas.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Las interacciones sociales avanzan de dos formas:",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "mediante la interpretación y las pruebas de carac",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "terística.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Interpretación",
+  "size": 14.0,
+  "page": 11
+ },
+ {
+  "text": "Interpretar consiste en comportarse de acuerdo a",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "un rol concreto. En este caso, eres tú como jugador",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "el que decide cómo piensa, habla y actúa tu perso",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "naje. La interpretación es una parte fundamental",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "de todas las facetas de este juego, pero pasa a un",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "primer plano durante las interacciones sociales.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Cuando interpretes, plantéate si prefieres un esti",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "lo activo o descriptivo.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Tu GM utiliza la personalidad de un PNJ y las",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "acciones y actitud de tu personaje para determi",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "nar cómo reacciona un PNJ. Un bandido cobarde",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "podría amilanarse ante las amenazas de cautiverio,",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "mientras que una mercadera testaruda se negará",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "a ayudar si los personajes le insisten demasiado",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "o un dragón vanidoso adorará que lo halaguen.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Cuando interactúes con un PNJ, presta atención",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "a cómo tu GM interpreta su personalidad. Podrías",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "descubrir los objetivos de un PNJ y luego utilizar esa",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "información para influir en él.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Si ofreces a un PNJ algo que le interese o sacas",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "provecho de sus gustos, miedos o metas, podrás",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "entablar una amistad, evitar la violencia o descubrir",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "información vital. Por otro lado, si insultas a un",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "guerrero orgulloso o hablas mal de los aliados de",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "un noble, tus intentos de convencerlos o engañarlos",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "probablemente fracasarán.",
+  "size": 10.0,
+  "page": 11
+ },
+ {
+  "text": "Pruebas de característica",
+  "size": 14.0,
+  "page": 12
+ },
+ {
+  "text": "Las pruebas de característica pueden resultar",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "claves a la hora de determinar el resultado de una",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "interacción social. Tu interpretación puede cambiar",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "la actitud de un PNJ, pero tal vez siga habiendo",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "un factor de suerte si tu GM quiere que los dados",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "desempeñen una función al determinar la reacción",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "del PNJ. En estas situaciones, tu GM normalmente",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "pedirá que utilices la acción de influir.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Presta atención a tus competencias en habilidades",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "cuando pienses en cómo interactuar con un PNJ:",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "aplica un estilo que se base en las competencias",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "en habilidades de tu grupo. Por ejemplo, si el grupo",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tiene que engañar a un guardia para entrar en",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "un castillo, lo mejor es que un pícaro competente",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "en Engaño lleve las riendas de la discusión.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Exploración",
+  "size": 18.0,
+  "page": 12
+ },
+ {
+  "text": "La exploración implica penetrar en lugares peli",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "grosos y enigmáticos. Las reglas de esta sección",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tratan algunas de las formas en las que los aventu",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "reros pueden interactuar con el entorno en dichos",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "lugares.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Equipo para aventuras",
+  "size": 14.0,
+  "page": 12
+ },
+ {
+  "text": "A medida que los aventureros exploran el entorno,",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "su equipo los ayudará de diversas formas. Por",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "ejemplo, podrán alcanzar lugares remotos con una",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "escalera, percibir cosas que, de lo contrario, pasa",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "rían inadvertidas con una antorcha u otra fuente",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "de luz, abrir puertas y recipientes cerrados usando",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "unas herramientas de ladrón o poner obstáculos",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "a perseguidores arrojando abrojos.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Consulta en el capítulo “Equipo” las reglas de di",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "versos objetos útiles para tus aventuras. Los objetos",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "de las secciones “Herramientas” y “Equipo de aven",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tureros” resultan especialmente útiles. Las armas",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "descritas en el capítulo “Equipo” no solo sirven para",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "el combate: por ejemplo, podrías emplear un bastón",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "para pulsar un siniestro botón que prefieras no",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tocar.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Visión e iluminación",
+  "size": 14.0,
+  "page": 12
+ },
+ {
+  "text": "Algunas tareas, como percibir el peligro, acertar a",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "un enemigo y elegir el objetivo de ciertos conjuros,",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "dependen de la capacidad de ver de tu personaje.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Por ello, los efectos que dificultan la visión pueden",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "convertirse en un obstáculo importante, como se",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "explica a continuación.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Zonas oscuras",
+  "size": 12.0,
+  "page": 12
+ },
+ {
+  "text": "Una zona puede estar ligeramente oscura o muy",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "oscura. En una zona ligeramente oscura (con luz",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tenue, neblinas dispersas o follaje moderado), tienes",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "desventaja en las pruebas de Sabiduría (Percepción)",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "que dependan de la vista.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Una zona muy oscura (con oscuridad, niebla espe",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "sa o follaje denso) resulta opaca y tendrás el estado",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "de cegado (consulta el capítulo “Glosario de reglas”)",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "cuando trates de ver algo en ella.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Iluminación",
+  "size": 12.0,
+  "page": 12
+ },
+ {
+  "text": "La presencia o ausencia de luz determina la cate",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "goría de iluminación de una zona, como se define",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "a continuación.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Luz brillante. La luz brillante permite a la mayoría",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "de criaturas ver con normalidad. Incluso los días",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "encapotados proporcionan luz brillante, al igual que",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "lo hacen las antorchas, linternas, hogueras y otras",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "fuentes de iluminación dentro de un radio específico.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Luz tenue. La luz tenue, también llamada “som",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "bras”, hace que la zona esté ligeramente oscura.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Una zona con luz tenue suele ser la frontera entre",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "una luz brillante y la oscuridad que la rodea. La luz",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "suave del ocaso o del amanecer se considera luz",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tenue. Una noche de luna llena bañará la tierra de",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "luz tenue.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Oscuridad. La oscuridad hace que una zona",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "esté muy oscura. Los personajes se enfrentan a la",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "oscuridad cuando están en exteriores por la noche",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "(incluso en la mayoría de noches con la luna visible),",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "en el interior de una mazmorra sin iluminar o en",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "una zona de oscuridad mágica.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Sentidos especiales",
+  "size": 12.0,
+  "page": 12
+ },
+ {
+  "text": "Algunas criaturas cuentan con sentidos especiales",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "que les permiten percibir cosas en determinadas",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "situaciones. En el capítulo “Glosario de reglas” se",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "definen los siguientes sentidos especiales:",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Sentir vibraciones",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Visión ciega",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Visión en la oscuridad",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Visión verdadera",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Esconderse",
+  "size": 14.0,
+  "page": 12
+ },
+ {
+  "text": "Los aventureros y los monstruos se esconden con",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "frecuencia, ya sea para espiar, sortear a un guar",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "dián o preparar una emboscada. Tu Game Master",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "decide si las circunstancias son adecuadas para",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "esconderse. Cuando intentes hacerlo, llevarás a cabo",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "la acción de esconderse.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "Interactuar con objetos",
+  "size": 14.0,
+  "page": 12
+ },
+ {
+  "text": "Resolver las interacciones con objetos suele resul",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "tar sencillo. Los jugadores le dicen a su GM que su",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "personaje va a hacer algo, como mover una palanca",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "o abrir una puerta, y su GM describe lo que ocurre.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "No obstante, hay ocasiones en que las reglas deter",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "minan lo que puedes hacer con un objeto, como se",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "explica en los siguientes apartados.",
+  "size": 10.0,
+  "page": 12
+ },
+ {
+  "text": "¿Qué se considera un objeto?",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "Para los fines de las reglas, un objeto es un elemen",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "to específico e inanimado, como una ventana, una",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "puerta, una espada, un libro, una mesa, una silla",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "o una piedra, pero no un edificio o un vehículo com",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "puesto por muchos objetos.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Interacciones con objetos con tiempo",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "limitado",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "En situaciones apremiantes, como en un combate,",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "las interacciones con objetos están limitadas a una",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "interacción sin coste por turno. Esa interacción",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "debe tener lugar durante el movimiento o la acción",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "de la criatura. Cualquier otra interacción adicional",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "requerirá la acción de utilizar, como se describe más",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "adelante en el apartado “Combate” de “Cómo jugar”.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Encontrar objetos escondidos",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "Cuando tu personaje busque un objeto escondido,",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "como una puerta secreta o una trampa, lo habitual",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "será que tu GM te pida una prueba de Sabiduría",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "(Percepción), siempre y cuando indiques que tu",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "personaje examina las proximidades de ese objeto.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Si la superas, encontrarás el objeto, otros detalles",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "importantes o ambas cosas.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Si indicas que tu personaje registra un sitio que",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "no esté próximo al objeto oculto, la prueba de Sabi",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "duría (Percepción) no te revelará su paradero, sea",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "cual sea el resultado.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Transportar objetos",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "Normalmente, puedes llevar tu equipo y los tesoros",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "sin preocuparte del peso de esos objetos. Si tratas",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "de transportar un objeto inusualmente pesado o",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "una cantidad enorme de objetos más ligeros, tu GM",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "podría pedirte que sigas las reglas de capacidad de",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "carga del capítulo “Glosario de reglas”.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Romper objetos",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "Como acción, puedes romper automáticamente o",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "destruir de algún modo un objeto no mágico frágil,",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "como un recipiente de cristal o un trozo de papel.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Si tratas de dañar algo más resistente, tu GM podría",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "aplicar las reglas sobre romper objetos del capítulo",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "“Glosario de reglas”.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Peligros",
+  "size": 14.0,
+  "page": 13
+ },
+ {
+  "text": "Los monstruos son las principales amenazas a las",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "que se enfrentan los personajes, pero no las únicas.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "En el capítulo “Glosario de reglas” se definen los",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "siguientes peligros:",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Asfixia",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Caídas",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Deshidratación",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Desnutrición",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Fuego",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Viajar",
+  "size": 14.0,
+  "page": 13
+ },
+ {
+  "text": "Durante una aventura, los personajes pueden",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "recorrer largas distancias en viajes que tal vez",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "duren horas o días. Tu GM puede resumir el viaje",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "sin calcular el tiempo o la distancia exactos, o bien",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "aplicar las reglas del ritmo de viaje que aparecen a",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "continuación.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Si quieres saber lo rápido que te puedes mover",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "cuando el tiempo apremia, consulta las reglas de",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "movimiento más adelante en el apartado “Combate”",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "de “Cómo jugar”.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Ritmo de viaje",
+  "size": 12.0,
+  "page": 13
+ },
+ {
+  "text": "Cuando un grupo de aventureros viaja (fuera del",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "combate), puede moverse a ritmo lento, normal o",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "rápido, como se muestra en la tabla “Ritmo de viaje”.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Esta indica la distancia que puede recorrer el grupo",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "en un periodo de tiempo determinado. Si van a",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "caballo o en otras monturas, el grupo puede reco",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "rrer el doble de distancia durante 1 hora. Después,",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "las monturas necesitarán un descanso corto o largo",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "antes de que puedan moverse a ese ritmo de nuevo",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "(consulta las monturas que hay a la venta en el capí",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "tulo “Equipo”). El capítulo “Herramientas del juego”",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "contiene reglas que afectan al ritmo que puedes",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "elegir en determinados tipos de terreno.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Ritmo de viaje",
+  "size": 10.5,
+  "page": 13
+ },
+ {
+  "text": "Ritmo",
+  "size": 9.2,
+  "page": 13
+ },
+ {
+  "text": "Distancia recorrida por…",
+  "size": 9.2,
+  "page": 13
+ },
+ {
+  "text": "Minuto",
+  "size": 9.2,
+  "page": 13
+ },
+ {
+  "text": "Hora",
+  "size": 9.2,
+  "page": 13
+ },
+ {
+  "text": "Día",
+  "size": 9.2,
+  "page": 13
+ },
+ {
+  "text": "Rápido",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "120 m",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "6 km",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "45 km",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "Normal",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "90 m",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "4,5 km",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "36 km",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "Lento",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "60 m",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "3 km",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "27 km",
+  "size": 9.5,
+  "page": 13
+ },
+ {
+  "text": "Cada ritmo de viaje tiene un efecto en el juego, como",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "se describe a continuación.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Rápido. Viajar a un ritmo rápido impone des",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "ventaja en las pruebas de Sabiduría (Percepción",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "o Supervivencia) y Destreza (Sigilo) de los viajeros.",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Normal. Viajar a un ritmo normal impone desven",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "taja en las pruebas de Destreza (Sigilo).",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Lento. Viajar a un ritmo lento otorga ventaja en",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "las pruebas de Sabiduría (Percepción o Superviven",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "cia).",
+  "size": 10.0,
+  "page": 13
+ },
+ {
+  "text": "Orden de marcha",
+  "size": 11.0,
+  "page": 13
+ },
+ {
+  "text": "Los aventureros deberían establecer un orden de",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "marcha cuando se desplazan, ya sea por interiores",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "o exteriores. El orden de marcha facilita determinar",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "qué personajes se ven afectados por las trampas,",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "quiénes pueden detectar a los enemigos ocultos",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "y cuáles están situados más cerca de ellos si esta",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "lla un combate. Podéis cambiar vuestro orden de",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "marcha cuando no estéis en un combate y registrar",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "el orden como consideréis apropiado: por ejemplo,",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "anotadlo o representadlo con miniaturas.",
+  "size": 9.0,
+  "page": 13
+ },
+ {
+  "text": "Vehículos",
+  "size": 12.0,
+  "page": 14
+ },
+ {
+  "text": "Los viajeros que van en carromatos, carruajes u",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "otros vehículos terrestres eligen su ritmo del modo",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "habitual. Los personajes que viajan en vehículos",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "acuáticos se ven limitados por la velocidad de",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "la embarcación y no eligen un ritmo de viaje.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "En función de la embarcación y de la tripulación,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "los barcos pueden llegar a viajar durante 24 horas",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "al día. En el capítulo “Equipo” se pueden consultar",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "los vehículos que hay a la venta.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Combate",
+  "size": 18.0,
+  "page": 14
+ },
+ {
+  "text": "Los aventureros pueden encontrarse con muchos",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "monstruos peligrosos y con villanos perversos.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "En esos momentos, suele estallar el combate.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Estructura de un combate",
+  "size": 14.0,
+  "page": 14
+ },
+ {
+  "text": "Los encuentros de combate suelen ser intensos cho",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "ques entre dos bandos: un torbellino de mandobles,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "fintas, paradas, maniobras y lanzamiento de conju",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "ros. El juego organiza el combate mediante un ciclo",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "de asaltos y turnos. Un asalto dura unos 6 segundos",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "dentro del mundo del juego. Durante este tiempo,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "cada participante lleva a cabo un turno. El orden",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "de estos turnos se decide al principio del combate,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "cuando todos tiran iniciativa. Si ningún bando ha",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "sido derrotado cuando todo el mundo haya jugado",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "su turno, se pasará al siguiente asalto.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "El combate paso a paso",
+  "size": 12.0,
+  "page": 14
+ },
+ {
+  "text": "El combate se desarrolla en estos pasos:",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "1:\tEstablecer posiciones. El Game Master determi",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "na dónde se sitúan todos los personajes y mons",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "truos. A partir del orden de marcha o la posición",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "previa de los personajes en la habitación (o en",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "cualquier otro sitio), tu GM hará una composición",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "del lugar: dónde se encuentran los adversarios,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "a cuánta distancia de los personajes y en qué",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "dirección.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "2:\tTirar iniciativa. Todos los implicados en el en",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "cuentro tiran iniciativa, que determina el orden",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "de los turnos de los combatientes.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "3:\tTurnarse. Cada uno de los participantes juega",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "su turno siguiendo el orden de iniciativa.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "El asalto termina cuando todos los implicados en",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "el combate han jugado sus turnos. Este paso se",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "repite hasta que concluya el combate.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Iniciativa",
+  "size": 12.0,
+  "page": 14
+ },
+ {
+  "text": "La iniciativa determina el orden de los turnos",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "durante el combate. Cuando este empiece, todos los",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "participantes tirarán iniciativa: harán una prueba",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "de Destreza que determinará el lugar que ocupan",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "en el orden de iniciativa. Tu GM tirará por los mons",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "truos. En el caso de un grupo de criaturas idénticas,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "tu GM realizará una única tirada, por lo que todos",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "los miembros del grupo tendrán la misma iniciativa.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Sorpresa. Si a un combatiente le pilla por sor",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "presa el inicio de un combate, tendrá desventaja en",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "su tirada de iniciativa. Por ejemplo, si una criatura",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "oculta inicia un combate mientras se esconde de un",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "enemigo que no sabe que el combate va a empezar,",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "ese enemigo estará sorprendido.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Orden de iniciativa. El resultado de la prueba de",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "un combatiente es lo que se conoce como su orden",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "de iniciativa o iniciativa a secas. Tu GM ordena a los",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "combatientes, empezando por la iniciativa más alta",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "y terminando por la más baja. Este es el orden en",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "el que actuarán durante cada asalto. El orden de ini",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "ciativa no cambia de un asalto a otro.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Empates. Si hay un empate en las tiradas de ini",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "ciativa, cada GM elige el orden entre los monstruos y",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "los jugadores deciden el orden entre los personajes",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "empatados. Si el empate se da entre un monstruo y",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "un personaje de un jugador, tu GM decide el orden.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Tu turno",
+  "size": 12.0,
+  "page": 14
+ },
+ {
+  "text": "En tu turno puedes moverte una distancia que",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "no supere tu velocidad y llevar a cabo una acción.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Puedes elegir si primero quieres moverte o realizar",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "tu acción.",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Las principales acciones que puedes llevar a cabo",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "se describen en el apartado “Acciones” anterior",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "mente en “Cómo jugar”. Los rasgos de un personaje",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "y el perfil de un monstruo amplían el abanico de",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "acciones. El apartado “Movimiento y posición”, que",
+  "size": 10.0,
+  "page": 14
+ },
+ {
+  "text": "Jugar con una cuadrícula",
+  "size": 11.0,
+  "page": 14
+ },
+ {
+  "text": "Si juegas con una cuadrícula y miniaturas u otras",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "fichas, sigue estas reglas.",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "Casillas. Cada casilla representa 1,5 m.",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "Velocidad. Te desplazas casilla a casilla por la cua",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "drícula, por lo que utilizas tu velocidad en incremen",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "tos de 1,5 m. Puedes traducir tu velocidad en casillas",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "dividiéndola entre 1,5. Por ejemplo, una velocidad de",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "9 m se traduce en 6 casillas. Si sueles emplear una",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "cuadrícula, plantéate anotar tu velocidad en casillas",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "en tu hoja de personaje.",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "Entrar en una casilla. Para entrar en una casilla,",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "te debe quedar movimiento suficiente que tendrás",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "que invertir. Cuesta 1 casilla de movimiento entrar",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "en una casilla sin ocupar que esté adyacente a la",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "casilla en la que te encuentras (en perpendicular",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "o diagonal). Entrar en una casilla de terreno difícil",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "cuesta 2 casillas de movimiento. Otros efectos",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "podrían aumentar el coste en casillas.",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "Esquinas. Los movimientos en diagonal no pueden",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "atravesar la esquina de un muro, un árbol grande",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "u otro elemento del terreno que ocupe su espacio.",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "Alcances. Para determinar el alcance entre dos",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "elementos (criaturas u objetos) en una cuadrícula,",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "cuenta las casillas que los separan comenzando por",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "la casilla adyacente a uno de ellos y terminando en",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "la casilla del otro. Sigue el camino más corto.",
+  "size": 9.0,
+  "page": 14
+ },
+ {
+  "text": "aparece más adelante en “Cómo jugar”, contiene",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "las normas que regulan el movimiento.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Comunicarse. En tu turno puedes comunicarte",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "en la medida que resulte posible, ya sea con frases",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "cortas o gestos. Para ello, no necesitas invertir tu",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "movimiento ni tu acción.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Sin embargo, una comunicación más amplia, como",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "una explicación detallada o un intento de persuadir",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "a un enemigo, requiere una acción. Para tratar de",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "influir en un monstruo, utiliza la acción de influir.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Interactuar con cosas. Puedes interactuar con",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "un objeto o un elemento del entorno sin coste",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "alguno como parte de tu movimiento o acción.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Por ejemplo, podrías abrir una puerta durante tu",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "movimiento cuando avances hacia un enemigo.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Si quieres interactuar con un segundo objeto,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "tendrás que realizar la acción de utilizar. Algunos",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "objetos mágicos, así como otros objetos especiales,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "precisan siempre de una acción para poder usarlos,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "como se indica en sus descripciones.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "En cualquier caso, tu GM tiene libertad de exi",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "girte usar una acción para estas actividades si se",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "requiere un cuidado especial o si se trata de un",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "obstáculo fuera de lo normal. Por ejemplo, tu GM",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "te podría pedir que uses la acción de utilizar para",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "abrir una puerta atascada o girar una manivela que",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "baje un puente levadizo.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "No hacer nada en tu turno. Si quieres, puedes",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "renunciar a moverte o a llevar a cabo tu acción,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "o incluso decidir que no haces absolutamente nada",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "en tu turno. Si no sabes qué hacer, plantéate llevar",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "a cabo la acción defensiva de esquivar o la de prepa",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "rar una acción para retrasar tu intervención.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Terminar el combate",
+  "size": 12.0,
+  "page": 15
+ },
+ {
+  "text": "El combate concluye cuando uno de los bandos",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "resulta vencido, lo que puede significar que las",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "criaturas hayan muerto, hayan perdido el sentido,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "se hayan rendido o hayan huido. El combate puede",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "acabar también cuando ambos bandos acuerden",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "terminarlo.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Movimiento y posición",
+  "size": 14.0,
+  "page": 15
+ },
+ {
+  "text": "En tu turno puedes moverte una distancia igual",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "o inferior a tu velocidad, o incluso puedes decidir",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "no moverte.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Tu movimiento puede incluir arrastrarse, nadar,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "saltar y trepar (todo ello explicado en el capítulo",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "“Glosario de reglas”). Estas formas de movimiento",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "pueden combinarse con tu movimiento normal",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "o pueden constituir la totalidad de tu movimiento.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Independientemente de cómo te muevas con",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "tu velocidad, le restarás la distancia recorrida en",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "cada parte de tu movimiento hasta que la uses por",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "completo o acabes de moverte, lo que se cumpla",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "primero.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "La velocidad de un personaje se define durante",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "su creación. La velocidad de un monstruo aparece",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "en su perfil. Consulta el capítulo “Glosario de reglas”",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "para obtener más información sobre la velocidad",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "y sobre las velocidades especiales, como la veloci",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "dad nadando, trepando o volando.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Terreno difícil",
+  "size": 12.0,
+  "page": 15
+ },
+ {
+  "text": "A veces, los combatientes se verán frenados por un",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "terreno difícil. Muebles bajos, escombros, sotobos",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "que, escaleras empinadas, nieve y lodazales poco",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "profundos son algunos ejemplos de terreno difícil.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Cada metro de movimiento en terreno difícil cues",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "ta 1 m adicional, incluso si en el mismo espacio hay",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "varios obstáculos que se consideren terreno difícil.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Dividir el movimiento",
+  "size": 12.0,
+  "page": 15
+ },
+ {
+  "text": "Puedes repartir tu movimiento y utilizar una parte",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "antes y otra después de cualquier acción, acción",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "adicional o reacción que lleves a cabo en el mismo",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "turno. Por ejemplo, si tu velocidad es de 9 m, puedes",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "moverte 3 m, hacer tu acción y después moverte",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "6 m.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Tirarse al suelo",
+  "size": 12.0,
+  "page": 15
+ },
+ {
+  "text": "En tu turno, puedes tirarte al suelo para adoptar",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "el estado de derribado (consulta el capítulo “Glosa",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "rio de reglas”) sin emplear ninguna acción ni gastar",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "parte de tu velocidad, pero no puedes hacerlo si tu",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "velocidad restante es 0.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Tamaño de una criatura",
+  "size": 12.0,
+  "page": 15
+ },
+ {
+  "text": "Cada criatura pertenece a una categoría de tamaño,",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "que determina la anchura del espacio de la casilla",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "que ocupa en un mapa, como se muestra en la tabla",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "“Tamaño y espacio de las criaturas”. En la tabla, los",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "tamaños aparecen de menor (Diminuto) a mayor",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "(Gargantuesco). El espacio de una criatura es la",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "zona que controla de forma efectiva en el combate",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "y la zona que necesita para luchar en condiciones.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "El tamaño de un personaje lo determina su espe",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "cie, mientras que el de un monstruo se detalla en",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "su perfil.",
+  "size": 10.0,
+  "page": 15
+ },
+ {
+  "text": "Tamaño y espacio de las criaturas",
+  "size": 10.5,
+  "page": 15
+ },
+ {
+  "text": "Tamaño",
+  "size": 9.2,
+  "page": 15
+ },
+ {
+  "text": "Espacio",
+  "size": 9.2,
+  "page": 15
+ },
+ {
+  "text": "(metros)",
+  "size": 9.2,
+  "page": 15
+ },
+ {
+  "text": "Espacio (casillas)",
+  "size": 9.2,
+  "page": 15
+ },
+ {
+  "text": "Diminuto",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "0,75 por 0,75 m",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "4 por casilla",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "Pequeño",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "1,5 por 1,5 m",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "1 casilla",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "Mediano",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "1,5 por 1,5 m",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "1 casilla",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "Grande",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "3 por 3 m",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "4 casillas (2 por 2)",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "Enorme",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "4,5 por 4,5 m",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "9 casillas (3 por 3)",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "Gargantuesco",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "6 por 6 m",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "16 casillas (4 por 4)",
+  "size": 9.5,
+  "page": 15
+ },
+ {
+  "text": "Atacantes y objetivos ocultos",
+  "size": 11.0,
+  "page": 16
+ },
+ {
+  "text": "Cuando ataques a un objetivo al que no puedas ver,",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "tendrás desventaja en la tirada. Esta regla se aplica",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "tanto si estás intentando adivinar la ubicación del ob",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "jetivo como si haces objetivo a una criatura a la que",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "puedes oír pero no ver. Si el objetivo no se encuen",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "tra en el lugar al que diriges tu ataque, fallarás.",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "Cuando ataques a un objetivo que no te pueda ver,",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "tendrás ventaja en la tirada de ataque.",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "Si estás escondido cuando haces una tirada de ata",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "que, revelarás tu ubicación tanto si el ataque acierta",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "como si no.",
+  "size": 9.0,
+  "page": 16
+ },
+ {
+  "text": "Moverse alrededor de otras criaturas",
+  "size": 12.0,
+  "page": 16
+ },
+ {
+  "text": "Durante tu movimiento, puedes atravesar el espacio",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "de un aliado, de una criatura que tenga el estado",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "de incapacitada (consulta el capítulo “Glosario de",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "reglas”), de una criatura Diminuta o de una criatura",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "cuyo tamaño sea dos categorías superior o inferior",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "al tuyo.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "El espacio de otra criatura es terreno difícil para",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "ti salvo que la criatura sea Diminuta o tu aliada.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "No puedes terminar voluntariamente un movi",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "miento en un espacio que ocupa otra criatura.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Si, por lo que sea, terminas tu turno en un espacio",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "con otra criatura, tendrás el estado de derribado",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "(consulta el capítulo “Glosario de reglas”) salvo que",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "seas Diminuto o tengas un tamaño superior al de la",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "otra criatura.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Atacar",
+  "size": 14.0,
+  "page": 16
+ },
+ {
+  "text": "Cuando llevas a cabo la acción de atacar, realizas",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "un ataque. Otras acciones, acciones adicionales",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "y reacciones también te permitirán hacerlo. Cuando",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "empleas un arma cuerpo a cuerpo, disparas un",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "arma a distancia o haces una tirada de ataque como",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "parte de un conjuro, el ataque tiene la siguiente",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "estructura:",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "1:\tEscoge un objetivo. Elige un objetivo que esté",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "dentro del alcance del ataque: una criatura, un",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "objeto o un lugar.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "2:\tDetermina los modificadores. Tu GM deter",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "mina si el objetivo posee cobertura (consulta la",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "siguiente sección) y si tienes ventaja o desventaja",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "contra él. Además, los conjuros, las capacidades",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "especiales y otros efectos pueden imponer pena",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "lizadores o bonificadores a la tirada de ataque.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "3:\tResuelve el ataque. Haz la tirada de ataque",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "como se explica antes en “Cómo jugar”. Si acier",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "tas, tiras el daño, salvo que ese ataque en parti",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "cular siga otras normas. Algunos ataques causan",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "efectos especiales además o en vez de hacer daño.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Cobertura",
+  "size": 14.0,
+  "page": 16
+ },
+ {
+  "text": "Los árboles, los muros, las criaturas y otros obstá",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "culos pueden proporcionar cobertura y hacer que",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "un objetivo sea más difícil de dañar. Tal y como se",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "explica en la tabla “Cobertura”, hay tres niveles de",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "cobertura, cada uno de los cuales otorga un benefi",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "cio distinto al objetivo.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "El objetivo solo puede beneficiarse de la cobertura",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "si el ataque o el efecto proceden del lado opuesto",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "de la cobertura. Si un objetivo está detrás de varios",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "obstáculos que le ofrecen cobertura, solo se aplica",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "el nivel más alto (los niveles no se suman). Por ejem",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "plo, si tu objetivo está tras una criatura, que le",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "proporciona cobertura media, y un tronco de un",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "árbol que le proporciona cobertura tres cuartos,",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "el objetivo disfrutará de cobertura tres cuartos.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Cobertura",
+  "size": 10.5,
+  "page": 16
+ },
+ {
+  "text": "Nivel",
+  "size": 9.2,
+  "page": 16
+ },
+ {
+  "text": "Beneficio para",
+  "size": 9.2,
+  "page": 16
+ },
+ {
+  "text": "el objetivo",
+  "size": 9.2,
+  "page": 16
+ },
+ {
+  "text": "Qué lo ofrece",
+  "size": 9.2,
+  "page": 16
+ },
+ {
+  "text": "Media",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Bonificador de +2",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "a la CA y a las tira",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "das de salvación de",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Otra criatura o un",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "objeto que cubra al",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "menos la mitad del",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "objetivo",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Tres",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "cuartos",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Bonificador de +5",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "a la CA y a las tira",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "das de salvación de",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Destreza",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Un objeto que cubra al",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "menos tres cuartos del",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "objetivo",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Com",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "pleta",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "No puede ser obje",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "tivo directo de ata",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "ques ni conjuros",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Un objeto que cubre",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "todo el objetivo",
+  "size": 9.5,
+  "page": 16
+ },
+ {
+  "text": "Ataques a distancia",
+  "size": 14.0,
+  "page": 16
+ },
+ {
+  "text": "Un ataque a distancia se lleva a cabo cuando dis",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "paras un arco, lanzas un hacha o arrojas cualquier",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "otro proyectil con el fin de golpear a un enemigo",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "alejado. Muchos conjuros también implican hacer",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "un ataque a distancia.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Alcance",
+  "size": 12.0,
+  "page": 16
+ },
+ {
+  "text": "Puedes hacer ataques a distancia solo contra obje",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "tivos que estén dentro de un alcance concreto. Si",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "un ataque a distancia, como el que puede realizarse",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "con un conjuro, posee un único alcance, no podrás",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "atacar a objetivos que se encuentren más allá de",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "dicho alcance.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Ciertos ataques a distancia, como los que se rea",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "lizan con un arco largo, cuentan con dos alcances:",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "el menor de los dos es el alcance normal y el mayor",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "es el alcance largo. Si tu objetivo está más allá del",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "alcance normal, tu tirada de ataque tendrá desven",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "taja, y si el objetivo está más allá del alcance largo,",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "no podrás atacarlo.",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "Ataques a distancia en combate cuerpo",
+  "size": 12.0,
+  "page": 16
+ },
+ {
+  "text": "a cuerpo",
+  "size": 12.0,
+  "page": 16
+ },
+ {
+  "text": "Intentar un ataque a distancia se complica si el ene",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "migo está junto a ti. Cuando hagas un ataque a dis",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "tancia, ya sea con un arma, un conjuro o cualquier",
+  "size": 10.0,
+  "page": 16
+ },
+ {
+  "text": "otro medio, tendrás desventaja en la tirada si estás",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "a 1,5 m o menos de un enemigo que pueda verte y no",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tenga el estado de incapacitado (consulta el capítulo",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "“Glosario de reglas”).",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Ataques cuerpo a cuerpo",
+  "size": 14.0,
+  "page": 17
+ },
+ {
+  "text": "Los ataques cuerpo a cuerpo te permiten atacar a",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "un objetivo que esté a tu alcance. Un ataque de este",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tipo suele emplear un arma de mano o bien hacerse",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "sin armas. Muchos monstruos realizan ataques",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "cuerpo a cuerpo con garras, colmillos u otras partes",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "del cuerpo. Algunos conjuros implican también",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "ataques cuerpo a cuerpo.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Alcance",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Una criatura tiene un alcance de 1,5 m, por lo que",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "podrá atacar cuerpo a cuerpo a enemigos que estén",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "a esa distancia o menos. Por otra parte, algunos",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "seres poseen un alcance cuerpo a cuerpo de más",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "de 1,5 m, como se indica en sus descripciones.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Ataques de oportunidad",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Los combatientes esperan a que sus enemigos bajen",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "la guardia. Si te mueves entre tus enemigos sin",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "cuidado, te pones en peligro y provocas un ataque",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "de oportunidad.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Evitar los ataques de oportunidad. Para no",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "provocar un ataque de oportunidad, puedes llevar",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "a cabo la acción de destrabarse. Tampoco provoca",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "rás un ataque de oportunidad si te teletransportas",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "o si alguien o algo te mueve sin que para ello gastes",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tu movimiento, tu acción, tu acción adicional ni tu",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "reacción. Por ejemplo, no provocarás ningún ataque",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "de oportunidad si una explosión te empuja fuera del",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "alcance de un enemigo o si pasas a su lado mientras",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "caes.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Realizar un ataque de oportunidad. Puedes rea",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "lizar un ataque de oportunidad cuando una criatura",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "a la que puedas ver esté saliendo de tu alcance. Para",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "ello, usa una reacción para hacer un ataque cuerpo",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "a cuerpo con un arma o un ataque sin armas contra",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "la criatura. El ataque tendrá lugar justo antes de",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "que salga de tu alcance.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Combate montado",
+  "size": 14.0,
+  "page": 17
+ },
+ {
+  "text": "Se puede usar como montura a cualquier criatura",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "voluntaria que sea al menos una categoría de",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tamaño superior al jinete y que tenga la anatomía",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "apropiada para esa función conforme a las siguien",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tes reglas.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Montar y desmontar",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Durante tu movimiento, puedes montar o desmon",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tar de una criatura que esté a 1,5 m o menos de ti.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Para ello, necesitarás invertir la mitad de tu velo",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "cidad (redondeada hacia abajo). Por ejemplo, si tu",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "velocidad fuera de 9 m, gastarías 4,5 m para montar",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "en un caballo.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Controlar una montura",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Solo puedes controlar la montura si está entrenada",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "para aceptar un jinete. Los caballos domesticados,",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "mulas y otras criaturas similares cuentan con ese",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "adiestramiento.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "La iniciativa de una montura controlada cam",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "biará para coincidir con la tuya cuando montes.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Se moverá en tu turno siguiendo tus órdenes y solo",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tendrá tres opciones para su acción durante ese",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "turno: correr, destrabarse y esquivar. Una montura",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "controlada puede moverse y actuar incluso desde el",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "mismo turno en que la montas.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Por el contrario, una montura independiente",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "(una que te deja montarla, pero no se somete a",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tu control) conserva su posición en el orden de",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "iniciativa y actúa según su criterio.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Caerse",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Si un efecto está a punto de mover tu montura",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "en contra de su voluntad mientras estás sobre",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "ella, deberás superar una tirada de salvación de",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Destreza con CD 10 o te caerás de ella y aterrizarás",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "con el estado de derribado (consulta el capítulo",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "“Glosario de reglas”) en un espacio sin ocupar a",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "1,5 m de la montura.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "También tendrás que hacer esta tirada de salva",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "ción si te derriban o derriban a la montura mientras",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "estás montado sobre ella.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Combate bajo el agua",
+  "size": 14.0,
+  "page": 17
+ },
+ {
+  "text": "Una lucha bajo el agua sigue estas reglas:",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Armas inadecuadas",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Cuando se realiza un ataque cuerpo a cuerpo con",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "un arma bajo el agua, las criaturas que carezcan de",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "velocidad nadando tendrán desventaja en la tirada",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "de ataque salvo que el arma cause daño perforante.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Un ataque a distancia con un arma bajo el agua",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "falla automáticamente si el objetivo se encuentra",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "más allá del alcance normal del arma. Además, la",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tirada de ataque tiene desventaja contra un objetivo",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "que esté dentro del alcance normal.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Resistencia al fuego",
+  "size": 12.0,
+  "page": 17
+ },
+ {
+  "text": "Todo lo que haya bajo el agua tiene resistencia",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "al daño de fuego (consulta “Daño y curación”).",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Daño y curación",
+  "size": 18.0,
+  "page": 17
+ },
+ {
+  "text": "Las heridas y el riesgo de morir son amenazas habi",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "tuales, como se detalla en las siguientes reglas.",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "Puntos de golpe",
+  "size": 14.0,
+  "page": 17
+ },
+ {
+  "text": "Los puntos de golpe representan el aguante físico",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "y la voluntad de vivir. Las criaturas que tienen más",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "puntos de golpe son más difíciles de matar. Tus",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "puntos de golpe máximos son la cantidad de puntos",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "de golpe que tienes cuando no sufres heridas. Tus",
+  "size": 10.0,
+  "page": 17
+ },
+ {
+  "text": "puntos de golpe actuales pueden oscilar entre ese",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "máximo y 0, que es el mínimo de puntos de golpe",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "que se puede tener.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Cuando sufras daño, réstalo de tus puntos de",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "golpe. Esta pérdida no afecta a tus capacidades",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "siempre y cuando no llegues a 0 puntos de golpe.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Si tienes la mitad de tus puntos de golpe o menos,",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "estarás maltrecho, lo que no tiene ningún efecto",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "por sí mismo en el juego, pero podría desencadenar",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "otros efectos.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Tiradas de daño",
+  "size": 14.0,
+  "page": 18
+ },
+ {
+  "text": "Todas las armas, conjuros y capacidades de mons",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "truos dañinas indican el daño que causan. Deberás",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "tirar los dados de daño, añadir los modificadores",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "que correspondan y aplicar el daño resultante al",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "objetivo. Si se impone un penalizador al daño, se",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "podrá causar 0 de daño, pero no un daño negativo.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Al atacar con un arma, añade al daño el mismo",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "modificador por característica que se haya usado",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "para la tirada de ataque. Un conjuro te indica qué",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "dados debes tirar para calcular el daño y si se deben",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "añadir modificadores. Salvo que una regla indique",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "lo contrario, no añadirás tu modificador por carac",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "terística a una cantidad de daño fija que no emplee",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "una tirada, como el daño de una cerbatana. Consulta",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "los dados de daño de las armas en el capítulo “Equi",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "po” y los de los conjuros en el capítulo “Conjuros”.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Críticos",
+  "size": 14.0,
+  "page": 18
+ },
+ {
+  "text": "Cuando causes un crítico, infligirás daño adicio",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "nal. Tira los dados de daño del ataque dos veces,",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "súmalos y añade los modificadores que correspon",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "dan como de costumbre. Por ejemplo, si causas un",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "crítico con una daga, tira 2d4 para el daño en lugar",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "de 1d4 y añade al total el modificador por caracte",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "rística apropiado. Si el ataque emplea dados de daño",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "adicionales, como los del Ataque furtivo del pícaro,",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "también los tirarás dos veces.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Tiradas de salvación y daño",
+  "size": 14.0,
+  "page": 18
+ },
+ {
+  "text": "El daño causado por medio de una tirada de salva",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "ción aplica estas reglas.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Daño contra varios objetivos",
+  "size": 12.0,
+  "page": 18
+ },
+ {
+  "text": "Cuando crees un efecto dañino que obligue a dos",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "o más objetivos a hacer tiradas de salvación contra",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "él al mismo tiempo, tira el daño una vez para todos",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "los objetivos. Por ejemplo, si una maga lanza una",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "bola de fuego, se tira el daño del conjuro una única",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "vez para todas las criaturas atrapadas en la defla",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "gración.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Mitad del daño",
+  "size": 12.0,
+  "page": 18
+ },
+ {
+  "text": "Muchos efectos con tiradas de salvación causan la",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "mitad del daño (redondeado hacia abajo) a un obje",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "tivo cuando este supera la tirada. El daño reducido",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "equivale a la mitad del daño que habría sufrido al",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "fallar la tirada de salvación.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Tipos de daño",
+  "size": 14.0,
+  "page": 18
+ },
+ {
+  "text": "Los efectos de daño tienen distintos tipos, como",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "cortante o de fuego. Los tipos de daño se indican",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "en el capítulo “Glosario de reglas” y no tienen reglas",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "propias, pero otras reglas, como la resistencia o la",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "vulnerabilidad al daño, se basan en ellos.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Resistencia y vulnerabilidad",
+  "size": 14.0,
+  "page": 18
+ },
+ {
+  "text": "Algunas criaturas y objetos poseen resistencia o",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "vulnerabilidad a determinados tipos de daño. Si tie",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "nes resistencia a un tipo de daño, el daño de ese tipo",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "se reduce a la mitad contra ti (redondeando hacia",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "abajo). Por el contrario, si tienes vulnerabilidad a",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "un tipo de daño, el daño de ese tipo se duplica con",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "tra ti. Por ejemplo, si tienes resistencia al daño de",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "frío, sufres la mitad de daño de ese tipo y, si tienes",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "vulnerabilidad al daño de fuego, sufres el doble de",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "daño de ese tipo.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "No se acumulan",
+  "size": 12.0,
+  "page": 18
+ },
+ {
+  "text": "Si existen varias resistencias o vulnerabilidades que",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "afectan al mismo tipo de daño, estas solo cuentan",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "como una. Por ejemplo, si posees resistencia al",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "daño necrótico y resistencia a todo el daño, el daño",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "necrótico se reducirá a la mitad contra ti.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Orden de aplicación",
+  "size": 12.0,
+  "page": 18
+ },
+ {
+  "text": "Los modificadores al daño se aplican en el siguiente",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "orden: en primer lugar, los ajustes como bonifica",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "dores, penalizadores o multiplicadores; en segundo",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "lugar, las resistencias, y en tercer lugar, las vulnera",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "bilidades.",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Por ejemplo, una criatura tiene resistencia a todo",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "el daño y vulnerabilidad al daño de fuego, y se en",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "cuentra dentro de un aura mágica que reduce todo",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "el daño en 5. Si sufre 28 de daño de fuego, el daño",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "primero se reduce en 5 (a 23), luego a la mitad por",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "la resistencia de la criatura (y se redondea hacia",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "abajo a 11) y, finalmente, se duplica por su vulnera",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "bilidad (a 22).",
+  "size": 10.0,
+  "page": 18
+ },
+ {
+  "text": "Descansar",
+  "size": 11.0,
+  "page": 18
+ },
+ {
+  "text": "Los personajes no pueden pasarse cada momento del",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "día enfrascados en sus aventuras. Necesitan descan",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "sar. Todas las criaturas pueden hacer descansos cor",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "tos de una hora durante el día y uno largo de 8 horas",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "al finalizarlo. Recuperar puntos de golpe es uno de",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "los beneficios principales de descansar. En el capítulo",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "“Glosario de reglas” se explica cómo funcionan los",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "descansos cortos y los largos.",
+  "size": 9.0,
+  "page": 18
+ },
+ {
+  "text": "Inmunidad",
+  "size": 14.0,
+  "page": 19
+ },
+ {
+  "text": "Algunas criaturas y objetos tienen inmunidad a de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "terminados tipos de daño y estados. La inmunidad",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "a un tipo de daño significa que no recibes daño de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "ese tipo y la inmunidad a un estado quiere decir que",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "este no te afecta.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Curación",
+  "size": 14.0,
+  "page": 19
+ },
+ {
+  "text": "Los puntos de golpe se pueden recuperar con magia,",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "como el conjuro curar heridas o una poción de cura",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "ción, o realizando un descanso corto o largo (con",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "sulta el capítulo “Glosario de reglas”).",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Cuando recibes curación, los puntos de golpe re",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "cuperados se suman a tus puntos de golpe actuales.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Tus puntos de golpe no pueden superar tus puntos",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de golpe máximos. Por tanto, los puntos de golpe",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "recuperados que superen este valor se pierden.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Por ejemplo, si recuperas 8 puntos de golpe como",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "curación y tienes 14 puntos de golpe, pero tus pun",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "tos de golpe máximos son 20, recuperarás 6 puntos",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de golpe y no 8.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Llegar a 0 puntos de golpe",
+  "size": 14.0,
+  "page": 19
+ },
+ {
+  "text": "Cuando los puntos de golpe de una criatura se",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "reducen a 0, muere directamente o cae inconsciente,",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "como se explica a continuación.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Muerte instantánea",
+  "size": 12.0,
+  "page": 19
+ },
+ {
+  "text": "Estas son las principales formas de que una criatura",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "muera al instante.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Muerte de monstruos. Un monstruo muere en",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "cuanto sus puntos de golpe se reducen a 0, aunque",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "tu Game Master puede saltarse esta regla con un",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "monstruo determinado y tratarlo como si fuera",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "un personaje.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Puntos de golpe máximos de 0. Una criatura",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "muere si sus puntos de golpe máximos llegan a 0.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Ciertos efectos absorben la energía vital y reducen",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "los puntos de golpe máximos de las criaturas.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Daño considerable. Si el daño reduce a 0 los pun",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "tos de golpe de un personaje y sigue quedando daño",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "por asignar, ese personaje morirá si el daño restan",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "te es mayor o igual a sus puntos de golpe máximos.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Por ejemplo, si tu personaje tiene 12 puntos de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "golpe máximos, pero ahora le quedan 6 y sufre 18",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de daño, sus puntos de golpe se reducirán a 0 y aún",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "quedarán 12 de daño por asignar. En ese caso, el",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "personaje morirá, ya que 12 es igual a sus puntos",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de golpe máximos.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Muerte de personajes",
+  "size": 12.0,
+  "page": 19
+ },
+ {
+  "text": "Si tu personaje muere, los otros podrían encontrar",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "un medio mágico de revivirlo, como el conjuro alzar",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "a los muertos. También puedes plantear a tu GM",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "crear un personaje nuevo que se unirá al grupo.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "El capítulo “Glosario de reglas” contiene más infor",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "mación sobre estar muerto.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Caer inconsciente",
+  "size": 12.0,
+  "page": 19
+ },
+ {
+  "text": "Si tus puntos de golpe se reducen a 0, pero no mue",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "res al instante, tendrás el estado de inconsciente",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "(consulta el capítulo “Glosario de reglas”) hasta",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "que recuperes cualquier cantidad de puntos de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "golpe y deberás realizar tiradas de salvación contra",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "muerte (consulta a continuación).",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Tiradas de salvación contra muerte",
+  "size": 12.0,
+  "page": 19
+ },
+ {
+  "text": "Siempre que empieces tu turno con 0 puntos de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "golpe, deberás hacer una tirada de salvación contra",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "muerte, que determinará si te acercas a la muerte",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "o te aferras a la vida. A diferencia del resto de tira",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "das de salvación, esta no está vinculada a ninguna",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "puntuación de característica. Estarás en manos del",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "destino.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Tres éxitos o fallos. Tira 1d20. Si el resultado de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "la tirada es 10 o más, tienes éxito. De lo contrario,",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "fallas. Un éxito o un fallo no tienen efecto alguno",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "en sí mismos, pero en tu tercer éxito te estabilizarás",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "(como se explica más adelante en “Estabilizar a un",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "personaje”) y con tu tercer fallo morirás.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Los éxitos y los fallos no tienen por qué ser conse",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "cutivos: lleva la cuenta de ambos hasta que tengas",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "tres de un mismo tipo. La cantidad de ambos vuelve",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "a cero si recuperas puntos de golpe o te estabilizas.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Sacar 1 o 20. Cuando sacas un 1 con el d20 en",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "una tirada de salvación contra muerte, cuenta como",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "dos fallos, mientras que si sacas un 20, recuperas",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "1 punto de golpe.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Daño con 0 puntos de golpe. Si recibes cualquier",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "cantidad de daño cuando tienes 0 puntos de golpe,",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "es lo mismo que fallar en una tirada de salvación",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "contra muerte. Si el daño lo causa un crítico, equi",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "vale a dos fallos. Además, si el daño es mayor o igual",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "a tus puntos de golpe máximos, morirás.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Estabilizar a un personaje",
+  "size": 12.0,
+  "page": 19
+ },
+ {
+  "text": "Puedes llevar a cabo la acción de ayudar para tratar",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de estabilizar a una criatura que tenga 0 puntos de",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "golpe. Para ello, tendrás que superar una prueba",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de Sabiduría (Medicina) con CD 10.",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Una criatura estable no tendrá que hacer tiradas",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "de salvación contra muerte aunque tenga 0 puntos",
+  "size": 10.0,
+  "page": 19
+ },
+ {
+  "text": "Noquear a una criatura",
+  "size": 11.0,
+  "page": 19
+ },
+ {
+  "text": "Si fueses a reducir a 0 los puntos de golpe de una",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "criatura con un ataque cuerpo a cuerpo, puedes",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "optar por dejarla con 1 punto de golpe e imponerle",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "el estado de inconsciente. En ese caso, comenzará",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "un descanso corto y, al terminarlo, se librará de",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "dicho estado. El estado concluirá antes si la criatura",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "recupera puntos de golpe o si alguien utiliza una ac",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "ción para administrarle primeros auxilios superando",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "una prueba de Sabiduría (Medicina) con CD 10.",
+  "size": 9.0,
+  "page": 19
+ },
+ {
+  "text": "de golpe, pero conservará el estado de inconsciente.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "Si la criatura sufre daño, dejará de estar estable y",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "empezará a hacer tiradas de salvación contra muer",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "te otra vez. Una criatura estable a la que no se cure",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "recuperará 1 punto de golpe tras 1d4 horas.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "Puntos de golpe temporales",
+  "size": 14.0,
+  "page": 20
+ },
+ {
+  "text": "Algunos conjuros y otros efectos otorgan puntos",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "de golpe temporales, que evitan la pérdida de pun",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "tos de golpe reales, como se explica a continuación.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "Los puntos de golpe temporales se",
+  "size": 12.0,
+  "page": 20
+ },
+ {
+  "text": "pierden primero",
+  "size": 12.0,
+  "page": 20
+ },
+ {
+  "text": "Si tienes puntos de golpe temporales y recibes daño,",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "pierdes primero estos puntos y el daño sobrante se",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "aplica a tus puntos de golpe normales. Por ejemplo,",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "si tienes 5 puntos de golpe temporales y recibes",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "7 de daño, perderás esos puntos y luego perderás",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "2 puntos de golpe.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "Duración",
+  "size": 12.0,
+  "page": 20
+ },
+ {
+  "text": "Los puntos de golpe temporales duran hasta que",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "se han consumido o hasta que finalices un descanso",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "largo (consulta el capítulo “Glosario de reglas”).",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "No se acumulan",
+  "size": 12.0,
+  "page": 20
+ },
+ {
+  "text": "Los puntos de golpe temporales no se pueden",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "sumar. Si ya tienes puntos de golpe temporales",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "y recibes más, tienes que decidir si conservas los",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "que ya posees o si te quedas con los nuevos. Por",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "ejemplo, si un conjuro te concede 12 puntos de golpe",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "temporales cuando ya tienes 10, solo puedes tener",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "12 o 10, no 22.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "No son puntos de golpe ni curación",
+  "size": 12.0,
+  "page": 20
+ },
+ {
+  "text": "Los puntos de golpe temporales no se pueden",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "sumar a tus puntos de golpe, no puedes recuperar",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "los mediante la curación y recibir puntos de golpe",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "temporales no cuenta como curación. Como los",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "puntos de golpe temporales no son puntos de golpe,",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "una criatura puede tener todos sus puntos de golpe",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "y recibir puntos de golpe temporales.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "Si tienes 0 puntos de golpe, no recuperas la cons",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "ciencia por obtener puntos de golpe temporales.",
+  "size": 10.0,
+  "page": 20
+ },
+ {
+  "text": "Solo la verdadera curación puede salvarte.",
+  "size": 10.0,
+  "page": 20
+ }
+]

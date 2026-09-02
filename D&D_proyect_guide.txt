@@ -1,0 +1,41 @@
+IDEAS PROYECTOS
+==================
+
+D&D Game:
+Crear un juego de D&D con sus reglas actualizadas, con la posibilidad de jugar campañas online y solitario,
+el DM sera interpretado por una IA que lea los registros y las estadisticas de cada personaje, y que cree una historia basada en los backstorys de cada
+de los jugadores, (EL DM tendra la misma funcionalidad en ambos modos), para el modo solitario para completar la campaña se crearan 3 bots IAs(Estas IAs 
+ya estaran quemadas dentro de los datos debido a que existen varias clases, por lo que se le hara una memoria para que vayan guardando estadisticas de combate
+carisma, etc, asi mismo guardara todos los niveles y experiencias acomuladas, de este mismo modo cada IA tendra un backstory generado aleatoriamente), 
+con estadisticas similares del jugador con posibilidad de seleccionar diferencia de campañas(one shot, Mini-Campaña,Campaña Corta, Campaña Larga, Campaña Epica). 		#IMPORTANTE- LA IA DEL DM DEBE COMPRENDER Y TENER LIMITES LA CAMPAÑA NO DEBE DE DURAR MENOS DE 1 AÑO
+Como el juego depende de estadisticas, se necesitara crear un registro para guardar las cartas estadisticas de cada personaje de cada jugador.
+
+Para la sesiones de emparejamiento sera importante considerar el nivel de los jugadores, no estaria correcto emparejar alguin con nivel 3 a una aventura
+con requerimiento de nivel 7 en adelante de igual forma seria muy ventajoso que alguien de nivel 10 se una a una sesion de nivel 4, solo se podria por 
+medio de una invitacion de amistad, al finalizar cada sesion habra una tabla de comentarios para calificar  a los jugadores y poder dar una solicitud de 
+amistad si se quiere, todos estos datos y registros de jugadores se puede manejar por medio de una pagina externa oficial del juego que sea una comunidad.
+
+Las tomas de deciciones para cada jugador se realizaran por chats, habra un chat especifico para discutir en grupo con etiquetas especiales para mencionar a algun 
+jugador en especifico, y se creara un chat privado para que alguno de los jugadores puedan dialogar entre ellos para mas inmercion como si estuvieran jugando D&D
+en mesa, en el chat privado solo las personas que hablen saben del tema y la IA esto es importante debido a que la IA puede decidir si involucrar la conversacion o 
+el beef de los personajes (si hay) y agregarlo en la historia.
+
+Si el jugador decide realizar una compra tendra un boton especializado en dado quiera regatear el objeto o comprar el objeto.
+Para el sistema de monedas, al principio del juego se les asignara un total de 1000 monedas para empezar, durante la historia el DM podra decidir si el jugador 
+gana monedas al derrotar enemigos o si completa algun objetivo etc, Tambien al finalizar la sesion se le dara una bonificacion aleatoria segun las acciones al jugador.																						EL JUEGO SE VOLVERIA ABURRIDO Y POCO ATRACTIVO RESTAR EL TIMEPO DE SESIONES EN DADO CASO EPICA A DURACION MAXIMA DE 1 SEMANA.
+																					
+																						PARAMETRO PARA LA IA EN MUTIJUGADOR LA HISTORIA PUEDE FINALIZAR POR LOS SIGUIENTES: DERROTA DE VILLANO PRINCIPAL, COMPLEMENTARON EL OBJETIVO DE CADA PERSONAJE(AQUI LA IA DEBE DECIDIR ANTES DE CREAR LA HISTORIA SI DURANTE LA CAMPAÑA 
+																						ALGUNO DE LOS OBJETIVOS DEL PERSONAJE DLE JUGADOR SE VA COMPLETAR DURANTE DE ESTA O SIMPLEENTE SERA UNA CAMPAÑA PARA PARA DERROTAR UN ENEMIGO EN COMUN),EL GURPO DECIDIO QUE FUE UN BUEN FINAL (AQUI LA IA MANDA UNA SOLICITUD DE BOTO A LOS JUAGADORES SI DESEAN SEGUIR CON LA CAMPAÑA O FINALIZARLA,
+																						SI MAS DE 3 (DEPENDIENDO DE LOS JUGADORES EN LA SESION) JUGADORES DECIDEN DARLE FIN A LA CAMPAÑA SE PUEDEN SALIR DE LA SESION LIBREMENTE, PERO SI UNO O MAS DECIDEN QUEDARSE EN LA CAMAPÑA, SE LES ASIGNARAN BOTS NECESARIOS PARA PODER CONTINUAR CON LA CAMPAÑA, ASI DE IGUAL MANERA EN MODO SOLITARIO 
+																						SE LE PERMITIRA UN BOTON SI EN DADO CASO EL JUAGADOR DECIDE FINALIZAR LA CAMAPAÑA ),LA IA DEL DM DEBE SABER COMO MANEJAR LA EXPERIENCIA DE LOS JUGADORES SI SUBIRAN DE NIVEL POR MEDIO DE ALGUN COMBATE O SOLUCION DE ARCERTIJO O SI DESPUES DE UNA BATALLA CON EL GRUPO TODOS SUBEN DE NIVEL.LA IA DEBE ESTAR
+																						PREPARADA PARA CUALQUIER DECISION ALEATORIA QUE EL JUGADOR QUIERA REALIZAR.
+
+
+
+LINKS DE REFERENCIA PARA ALIMENTAR A LA IA- PODRIA SER UNA LEARNING MACHINE?
+
+
+Link referencia para informacion = {https://www.dndbeyond.com/en?utm_source=chatgpt.com}
+
+
+

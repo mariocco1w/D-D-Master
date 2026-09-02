@@ -1,0 +1,932 @@
+[
+  {
+    "termino": "Acción",
+    "tag": null,
+    "id": "glosario-accion",
+    "definicion": "En tu turno, puedes llevar a cabo una acción. Elige\nqué acción quieres realizar entre las que aparecen\na continuación o entre las acciones especiales que\nte otorgan tus rasgos. Consulta también el capítulo\n“Cómo jugar” (“Acciones”). Estas acciones se definen\nen otras partes del glosario:\nAtacar\nAyudar\nBuscar\nCorrer\nDestrabarse\nEsconderse\nEsquivar\nEstudiar\nInfluir\nMagia\nPreparar una\nacción\nUtilizar"
+  },
+  {
+    "termino": "Acción adicional",
+    "tag": null,
+    "id": "glosario-accion-adicional",
+    "definicion": "Una acción adicional es una acción especial que pue\ndes hacer en el mismo turno en que llevas a cabo una\nacción. No puedes realizar más de una acción adicional\nen un turno y solo tienes acciones adicionales a tu dis\nposición si una regla lo indica de forma explícita. Con\nsulta también el capítulo “Cómo jugar” (“Acciones”)."
+  },
+  {
+    "termino": "Actitud",
+    "tag": null,
+    "id": "glosario-actitud",
+    "definicion": "Los monstruos tienen una actitud inicial hacia un\npersonaje de un jugador, la cual puede ser amistosa,\nhostil o indiferente. Consulta también “Amistosa”,\n“Hostil”, “Indiferente” e “Influir”."
+  },
+  {
+    "termino": "Agarrado",
+    "tag": "estado",
+    "id": "glosario-agarrado",
+    "definicion": "Mientras tengas el estado de agarrado, experimen\ntarás los siguientes efectos:\nVelocidad 0. Tu velocidad es 0 y no puede aumentar.\nAtaques afectados. Tienes desventaja en las tira\ndas de ataque contra cualquier objetivo que no sea\nquien te agarra.\nDesplazable. Quien te agarra puede arrastrarte\no transportarte al moverse, pero cada metro de\nmovimiento le cuesta 1 m adicional, salvo que seas\nDiminuto o tu tamaño sea dos o más categorías infe\nrior al suyo."
+  },
+  {
+    "termino": "Agarrar",
+    "tag": null,
+    "id": "glosario-agarrar",
+    "definicion": "Una criatura puede agarrar a otra. Por lo general,\nlos personajes realizan agarres usando un ataque\nsin armas. Muchos monstruos poseen ataques\nespeciales que les permiten agarrar a sus presas\nrápidamente. Cuando se inicia un agarre, este sigue\nlas siguientes reglas. Consulta también “Agarrado”\ny “Ataque sin armas”.\nEstado de agarrada. Agarrar a una criatura\nle impone el estado de agarrada.\nUn agarre por mano. Una criatura debe tener\nuna mano libre para agarrar a otra criatura. Algu\nnos perfiles y efectos del juego permiten que una\ncriatura agarre a otra usando un tentáculo, sus fau\nces u otra parte del cuerpo. Independientemente de\nla parte del cuerpo que emplee, podrá agarrar solo\na una criatura a la vez con esa parte y no podrá usar\nesa parte para hacer objetivo a otra criatura salvo\nque ponga fin al agarre.\nPoner fin a un agarre. Una criatura agarrada\npuede emplear su acción para hacer una prueba de\nFuerza (Atletismo) o Destreza (Acrobacias) contra\nla CD para escapar del agarre; si la supera, pondrá\nfin a su estado. El estado también termina si quien\nagarra tiene el estado de incapacitado o si la dis\ntancia entre el objetivo agarrado y quien lo agarra\nsupera el alcance del agarre. Además, quien agarra\npuede soltar al objetivo en cualquier momento\n(no requiere acción)."
+  },
+  {
+    "termino": "Al día",
+    "tag": null,
+    "id": "glosario-al-dia",
+    "definicion": "Si una regla indica que puedes utilizar algo una\ncantidad determinada de veces al día, significa que\ndebes finalizar un descanso largo para emplearlo\nde nuevo tras consumir todos los usos."
+  },
+  {
+    "termino": "Alcance",
+    "tag": null,
+    "id": "glosario-alcance",
+    "definicion": "Una criatura tiene un alcance de 1,5 m a menos que\nuna regla indique algo distinto."
+  },
+  {
+    "termino": "Aliado",
+    "tag": null,
+    "id": "glosario-aliado",
+    "definicion": "Una criatura es tu aliada si es un miembro de tu\ngrupo de aventureros, si es tu amiga, si combate en\ntu bando o si las reglas o tu GM determinan que sea\ntu aliada."
+  },
+  {
+    "termino": "Alineamiento",
+    "tag": null,
+    "id": "glosario-alineamiento",
+    "definicion": "El alineamiento de una criatura describe en térmi\nnos generales su actitud e ideales éticos. El alinea\nmiento es una combinación de dos factores: por\nuna parte, la moralidad (bueno, malvado o neutral)\ny, por otra, la actitud hacia el orden (legal, caótico\no neutral). Estos factores dan pie a nueve combina\nciones posibles, como las de legal bueno y neutral\nmalvado. Consulta también el capítulo “Creación de\npersonajes” (“Crear tu personaje”)."
+  },
+  {
+    "termino": "Amistosa",
+    "tag": "actitud",
+    "id": "glosario-amistosa",
+    "definicion": "Una criatura amistosa te verá con buenos ojos.\nTienes ventaja en las pruebas de característica para\ninfluir en una criatura amistosa. Consulta también\n“Influir”."
+  },
+  {
+    "termino": "Apresado",
+    "tag": "estado",
+    "id": "glosario-apresado",
+    "definicion": "Mientras tengas el estado de apresado, experimen\ntarás los siguientes efectos:\nVelocidad 0. Tu velocidad es 0 y no puede aumen\ntar.\nAtaques afectados. Las tiradas de ataque contra\nti tienen ventaja y tus tiradas de ataque tienen\ndesventaja.\nTiradas de salvación afectadas. Tienes\ndesventaja en las tiradas de salvación de Destreza."
+  },
+  {
+    "termino": "Área de efecto",
+    "tag": null,
+    "id": "glosario-area-de-efecto",
+    "definicion": "Las descripciones de muchos conjuros y otros\nrasgos especifican que tienen un área de efecto,\nque suele tener una de seis formas posibles. Estas\nformas se definen en otras partes del glosario:\nCilindro\nCono\nCubo\nEmanación\nEsfera\nLínea\nLas áreas de efecto poseen un punto de origen,\nun lugar desde el que surge la energía del efecto.\nLas reglas de cada forma especifican cuál es el\npunto de origen. Si todas las líneas rectas que se\nextienden desde el punto de origen hasta un lugar\ndel área de efecto están bloqueadas, ese lugar\nno estará incluido en el área de efecto. Para blo\nquear una línea, un obstáculo debe proporcionar\ncobertura completa. Consulta también “Cobertura”.\nSi el creador de un área de efecto la sitúa en un\npunto que no vea y una obstrucción (como un muro)\nestá entre dicho punto y el creador, el origen se\nmoverá hasta el lado de la obstrucción más cercano\na él."
+  },
+  {
+    "termino": "Arma",
+    "tag": null,
+    "id": "glosario-arma",
+    "definicion": "Un arma es un objeto que pertenece a la categoría\nde armas sencillas o marciales. Consulta también\nel capítulo “Equipo” (“Armas”)."
+  },
+  {
+    "termino": "Armas improvisadas",
+    "tag": null,
+    "id": "glosario-armas-improvisadas",
+    "definicion": "Un arma improvisada es cualquier objeto que utili\nces como arma provisional, como una botella rota,\nla pata de una mesa o una sartén. Un arma sencilla\no marcial también cuenta como arma improvisada\nsi se emplea de un modo contrario a su diseño: por\nejemplo, si utilizas un arma a distancia para realizar\nun ataque cuerpo a cuerpo o lanzas un arma cuerpo\na cuerpo sin la propiedad “arrojadiza”, contará como\nun arma improvisada. Un arma improvisada sigue\nestas reglas:\nCompetencia. No sumas tu bonificador por\ncompetencia a las tiradas de ataque con un arma\nimprovisada.\nDaño. Si acierta, el arma inflige 1d4 de daño de\nun tipo que tu GM considere apropiado para el\nobjeto.\nAlcance. Si arrojas el arma, tendrá un alcance\nnormal de 6 m y un alcance largo de 18 m.\nEquivalentes del arma. Si un arma improvisada\nse parece a un arma sencilla o marcial, tu GM puede\ndecidir que funcione como ella y emplear las reglas\nque se le aplican. Por ejemplo, tu GM podría tratar\nla pata de una mesa como un garrote."
+  },
+  {
+    "termino": "Arrastrarse",
+    "tag": null,
+    "id": "glosario-arrastrarse",
+    "definicion": "Cuando te arrastras, cada metro de movimiento\nte cuesta 1 m adicional (2 m adicionales en terreno\ndifícil). Consulta también “Velocidad”."
+  },
+  {
+    "termino": "Asfixia",
+    "tag": "peligro",
+    "id": "glosario-asfixia",
+    "definicion": "Una criatura puede aguantar la respiración durante\nuna cantidad de minutos igual a 1 más su modifi\ncador por Constitución (mínimo de 30 segundos)\nantes de que empiece a asfixiarse. Cuando una\ncriatura se quede sin aire o se esté ahogando, suma\nrá 1 nivel de cansancio al final de cada uno de sus\nturnos. Cuando recupere el aliento, perderá todos\nlos niveles de cansancio sumados por la asfixia."
+  },
+  {
+    "termino": "Asustado",
+    "tag": "estado",
+    "id": "glosario-asustado",
+    "definicion": "Mientras tengas el estado de asustado, experimen\ntarás los siguientes efectos:\nPruebas de característica y ataques afectados.\nTienes desventaja en las pruebas de característica\ny las tiradas de ataque mientras la fuente de tu mie\ndo esté en tu línea de visión.\nNo puedes acercarte. No puedes acercarte volun\ntariamente a la fuente de tu miedo."
+  },
+  {
+    "termino": "Atacar",
+    "tag": "accion",
+    "id": "glosario-atacar",
+    "definicion": "Cuando llevas a cabo la acción de atacar, puedes\nhacer una tirada de ataque con un arma o un ataque\nsin armas.\nEquiparse con armas y desequiparse de ellas.\nComo parte de la acción de atacar, puedes equiparte\ncon un arma o desequiparte de ella. Puedes hacerlo\nantes o después del ataque. Si te equipas con un\narma antes de un ataque, no tienes por qué usarla\nen él. Equiparse con un arma incluye desenvainarla\no recogerla. Desequiparse de un arma incluye envai\nnarla, guardarla o soltarla.\nMoverse entre ataques. Si te mueves en tu\nturno y tienes un rasgo, como Ataque adicional,\nque te permite hacer más de un ataque como\nparte de la acción de atacar, puedes usar parte\ndel movimiento o todo él para moverte entre esos\nataques."
+  },
+  {
+    "termino": "Ataque con arma",
+    "tag": null,
+    "id": "glosario-ataque-con-arma",
+    "definicion": "Un ataque con arma es una tirada de ataque\nrealizada con un arma. Consulta también “Arma”."
+  },
+  {
+    "termino": "Ataque de conjuro",
+    "tag": null,
+    "id": "glosario-ataque-de-conjuro",
+    "definicion": "Un ataque de conjuro es una tirada de ataque que se\nhace como parte de un conjuro u otro efecto mágico.\nConsulta también el capítulo “Conjuros” (“Lanzar\nconjuros”)."
+  },
+  {
+    "termino": "Ataques de oportunidad",
+    "tag": null,
+    "id": "glosario-ataques-de-oportunidad",
+    "definicion": "Puedes hacer un ataque de oportunidad cuando una\ncriatura que puedas ver salga de tu alcance usando\nsu acción, acción adicional, reacción o una de sus\nvelocidades. Para ello, usa una reacción para hacer\nun ataque cuerpo a cuerpo con un arma o un ataque\nsin armas contra la criatura que lo provoque. Este\nataque sucede justo antes de que la criatura se mue\nva fuera de tu alcance. Consulta también el capítulo\n“Cómo jugar” (“Combate”)."
+  },
+  {
+    "termino": "Ataque sin armas",
+    "tag": null,
+    "id": "glosario-ataque-sin-armas",
+    "definicion": "En lugar de utilizar un arma para realizar un\nataque cuerpo a cuerpo, puedes dar un puñetazo,\nuna patada, un cabezazo o cualquier otro golpe\nenérgico. En la terminología del juego, esto se\ndenomina un ataque sin armas: un ataque cuerpo a\ncuerpo en el que usas tu cuerpo para dañar, agarrar\no empujar a un objetivo a 1,5 m o menos de ti.\nCuando uses tu ataque sin armas, elige una de\nlas siguientes opciones para su efecto.\nDaño. Haces una tirada de ataque contra el obje\ntivo. Tu bonificador a la tirada es igual a tu modi\nficador por Fuerza más tu bonificador por compe\ntencia. Si acierta, el objetivo sufre una cantidad de\ndaño contundente igual a 1 más tu modificador por\nFuerza.\nAgarre. El objetivo deberá superar una tirada de\nsalvación de Fuerza o Destreza (a su elección) o ten\ndrá el estado de agarrado. La CD para la tirada de\nsalvación y cualquier intento de escapar será igual\na 8 más tu modificador por Fuerza y tu bonificador\npor competencia. Solo se puede ejecutar este agarre\nsi el tamaño del objetivo está, como mucho, una\ncategoría por encima de la tuya y si tienes una mano\nlibre para agarrarlo. Consulta también “Agarrar”.\nEmpujón. El objetivo deberá superar una tirada\nde salvación de Fuerza o Destreza (a su elección);\nde lo contrario, lo empujarás 1,5 m respecto a ti\no harás que tenga el estado de derribado. La CD\npara la tirada de salvación será igual a 8 más tu\nmodificador por Fuerza y tu bonificador por compe\ntencia. Solo se puede dar este empujón si el tamaño\ndel objetivo está, como mucho, una categoría por\nencima de la tuya."
+  },
+  {
+    "termino": "Aturdido",
+    "tag": "estado",
+    "id": "glosario-aturdido",
+    "definicion": "Mientras tengas el estado de aturdido, experimen\ntarás los siguientes efectos:\nIncapacitado. Tienes el estado de incapacitado.\nTiradas de salvación afectadas. Fallas automáti\ncamente las tiradas de salvación de Fuerza y Des\ntreza.\nAtaques afectados. Las tiradas de ataque contra\nti tienen ventaja."
+  },
+  {
+    "termino": "Aventura",
+    "tag": null,
+    "id": "glosario-aventura",
+    "definicion": "Una aventura es una serie de encuentros. La histo\nria surge al ir interpretándolos. Consulta también\n“Encuentro”."
+  },
+  {
+    "termino": "Ayudar",
+    "tag": "accion",
+    "id": "glosario-ayudar",
+    "definicion": "Cuando llevas a cabo la acción de ayudar, tienes\nestas opciones:\nAyudar en una prueba de característica. Elige\nuna de tus competencias en habilidades o con herra\nmientas y un aliado que esté lo bastante cerca como\npara ayudarle verbal o físicamente cuando haga una\nprueba de característica. Ese aliado tendrá ventaja\nen la siguiente prueba de característica que haga\ncon la habilidad o herramienta elegidas. Este benefi\ncio concluye si el aliado no lo usa antes del principio\nde tu siguiente turno. Tu GM tiene la última palabra\nsobre si puedes o no prestar esta ayuda.\nAyudar en una tirada de ataque. Distraes por\nun momento a un enemigo que esté a 1,5 m o menos\nde ti, lo que da ventaja a la siguiente tirada de ata\nque que uno de tus aliados haga contra ese enemigo.\nEste beneficio concluye al principio de tu siguiente\nturno."
+  },
+  {
+    "termino": "Buscar",
+    "tag": "accion",
+    "id": "glosario-buscar",
+    "definicion": "Cuando llevas a cabo la acción de buscar, realizas\nuna prueba de Sabiduría para distinguir algo que\nno resulta evidente. La tabla “Búsqueda” indica\nlas habilidades que se pueden aplicar al usar esta\nacción, en función de lo que trates de detectar.\nBúsqueda\nHabilidad\nObjeto de detección\nMedicina\nDolencia o causa de la muerte de\nuna criatura\nPercepción\nCriatura u objeto ocultos\nPerspicacia\nEstado mental de una criatura\nSupervivencia\nHuellas o alimentos"
+  },
+  {
+    "termino": "Caídas",
+    "tag": "peligro",
+    "id": "glosario-caidas",
+    "definicion": "Una criatura que sufra una caída recibirá 1d6 de\ndaño contundente por cada 3 m que haya caído\nantes de golpearse contra el suelo, hasta un máximo\nde 20d6. La criatura caerá de bruces y tendrá el es\ntado de derribada salvo que, de alguna forma, evite\nrecibir daño de la caída.\nToda criatura que caiga al agua u otro líquido\npodrá usar su reacción y hacer una prueba de Fuer\nza (Atletismo) o Destreza (Acrobacias) con CD 15\npara entrar al agua de cabeza o de pie. Si la supera,\ncualquier daño que reciba por la caída se reducirá\na la mitad."
+  },
+  {
+    "termino": "Cambio de forma",
+    "tag": null,
+    "id": "glosario-cambio-de-forma",
+    "definicion": "Si un efecto, como el rasgo Forma salvaje o el con\njuro polimorfar, te permite cambiar de forma, su\ndescripción especifica lo que te ocurre. Salvo que\nse indique lo contrario, cualquier efecto que te esté\nafectando (estados, conjuros, maldiciones y simi\nlares) se conserva de una forma a otra. Si mueres,\nrecuperas tu forma verdadera."
+  },
+  {
+    "termino": "Campaña",
+    "tag": null,
+    "id": "glosario-campana",
+    "definicion": "Una campaña es una serie de aventuras. Consulta\ntambién “Aventura”."
+  },
+  {
+    "termino": "Canalizador mágico",
+    "tag": null,
+    "id": "glosario-canalizador-magico",
+    "definicion": "Un canalizador mágico es un objeto que pueden usar\ndeterminadas criaturas en lugar de los componentes\nmateriales de un conjuro si este no los consume y los\nmateriales no tienen un coste especificado. Algunas\nclases permiten a sus miembros utilizar ciertos tipos\nde canalizadores mágicos. Consulta también el capí\ntulo “Conjuros” (“Lanzar conjuros”)."
+  },
+  {
+    "termino": "Cansancio",
+    "tag": "estado",
+    "id": "glosario-cansancio",
+    "definicion": "Mientras tengas el estado de cansancio, experimen\ntarás los siguientes efectos:\nNiveles de cansancio. Este estado es acumulativo.\nCada vez que lo recibas, sumas 1 nivel de cansancio.\nMorirás si tu nivel de cansancio es 6.\nPruebas con d20 afectadas. Cuando hagas una\nprueba con d20, el resultado se reduce en 2 × tu\nnivel de cansancio.\nVelocidad reducida. Tu velocidad se reduce en\n1,5 m × tu nivel de cansancio.\nEliminar niveles de cansancio. Tras finalizar\nun descanso largo, resta 1 nivel de cansancio.\nCuando tus niveles de cansancio se reduzcan a 0,\nel estado terminará."
+  },
+  {
+    "termino": "Capacidad de carga",
+    "tag": null,
+    "id": "glosario-capacidad-de-carga",
+    "definicion": "Tu tamaño y tu puntuación de Fuerza determinan\nel peso máximo en kilos que puedes transportar,\ncomo se muestra en la tabla “Capacidad de carga”.\nLa tabla indica también el peso máximo que puedes\narrastrar, levantar o empujar.\nSi arrastras, levantas o empujas un peso que su\npere el máximo que puedes cargar, tu velocidad no\nsuperará los 1,5 m.\nCapacidad de carga\nTamaño\nde la criatura\nMáximo\nArrastrar, levantar\no empujar\nDiminuto\nFue × 3,75 kg\nFue × 7,5 kg\nPequeño/Mediano Fue × 7,5 kg\nFue × 15 kg\nGrande\nFue × 15 kg\nFue × 30 kg\nEnorme\nFue × 30 kg\nFue × 60 kg\nGargantuesco\nFue × 60 kg\nFue × 120 kg"
+  },
+  {
+    "termino": "Cegado",
+    "tag": "estado",
+    "id": "glosario-cegado",
+    "definicion": "Mientras tengas el estado de cegado, experimenta\nrás los siguientes efectos:\nNo puedes ver. No puedes ver y fallas automáti\ncamente todas las pruebas de característica que\nrequieran la vista.\nAtaques afectados. Las tiradas de ataque contra\nti tienen ventaja y tus tiradas de ataque tienen\ndesventaja."
+  },
+  {
+    "termino": "Cilindro",
+    "tag": "area_efecto",
+    "id": "glosario-cilindro",
+    "definicion": "Un cilindro es un área de efecto que se extiende\nen líneas rectas desde un punto de origen situado\nen el centro de la parte superior o inferior circular\ndel cilindro. El efecto que crea un cilindro especifica\nel radio de la base y la altura del cilindro.\nEl punto de origen de un cilindro está incluido\nen el área de efecto."
+  },
+  {
+    "termino": "Clase de armadura",
+    "tag": null,
+    "id": "glosario-clase-de-armadura",
+    "definicion": "Una clase de armadura (CA) es el número objetivo\nde una tirada de ataque. La CA representa la dificul\ntad de acertar a un objetivo.\nEl cálculo de tu CA base es 10 más tu modificador\npor Destreza. Si una regla otorga otro cálculo de tu\nCA base, elige qué cálculo quieres usar, ya que no\npuedes usar más de uno. Consulta también “Tirada\nde ataque”."
+  },
+  {
+    "termino": "Clase de dificultad",
+    "tag": null,
+    "id": "glosario-clase-de-dificultad",
+    "definicion": "Una clase de dificultad (CD) es el número objetivo\nde una prueba de característica o de una tirada de\nsalvación. Consulta también el capítulo “Cómo jugar”\n(“Las pruebas con d20”)."
+  },
+  {
+    "termino": "Cobertura",
+    "tag": null,
+    "id": "glosario-cobertura",
+    "definicion": "La cobertura proporciona un grado de protección\na un objetivo situado tras ella. Hay tres niveles\nde cobertura, cada uno de los cuales otorga un\nbeneficio diferente al objetivo: cobertura media\n(bonificador de +2 a la CA y las tiradas de salvación\nde Destreza), cobertura tres cuartos (bonificador\nde +5 a la CA y las tiradas de salvación de Destreza)\ny cobertura completa (no puede ser el objetivo di\nrecto). Si un objetivo está detrás de más de un grado\nde cobertura, solo se beneficia del que le propor\nciona más protección. Consulta también el capítulo\n“Cómo jugar” (“Combate”)."
+  },
+  {
+    "termino": "Competencia",
+    "tag": null,
+    "id": "glosario-competencia",
+    "definicion": "Si tienes competencia en algo o con algo, puedes\nsumar tu bonificador por competencia a cualquier\nprueba con d20 que hagas con ese elemento. Una\ncriatura puede tener competencia en una habilidad\no tirada de salvación, o con un arma o herramienta.\nConsulta también el capítulo “Cómo jugar” (“Compe\ntencia”)."
+  },
+  {
+    "termino": "Concentración",
+    "tag": null,
+    "id": "glosario-concentracion",
+    "definicion": "Algunos conjuros y otros efectos requieren concen\ntración para permanecer activos, según se especi\nfique en sus descripciones. Si el creador del efecto\npierde la concentración, el efecto concluye. Si el\nefecto tiene una duración máxima, la descripción\ndetalla cuánto tiempo puede concentrarse el crea\ndor en él: hasta 1 minuto, 1 hora u otra duración.\nEl creador puede dejar de concentrarse en cualquier\nmomento (no requiere acción). Los siguientes facto\nres rompen la concentración:\nOtro efecto de concentración. Pierdes la concen\ntración en un efecto en cuanto comienzas a lanzar\nun conjuro que también requiere concentración\no activas otro efecto que requiere concentración.\nDaño. Si sufres daño, debes superar una tirada de\nsalvación de Constitución para mantener la concen\ntración. La CD es de 10 o la mitad del daño sufrido\n(redondeando hacia abajo), lo que sea mayor, hasta\nun máximo de 30.\nIncapacitado o muerto. Tu concentración acaba\nsi tienes el estado de incapacitado o mueres."
+  },
+  {
+    "termino": "Conjuro",
+    "tag": null,
+    "id": "glosario-conjuro",
+    "definicion": "Un conjuro es un efecto mágico que tiene las carac\nterísticas descritas en el capítulo “Conjuros”."
+  },
+  {
+    "termino": "Cono",
+    "tag": "area_efecto",
+    "id": "glosario-cono",
+    "definicion": "Un cono es un área de efecto que se extiende en lí\nneas rectas desde un punto de origen en la dirección\nque elija su creador. El ancho del cono en un punto\ncualquiera a lo largo de su extensión es igual a la\ndistancia entre dicho punto y el origen. Por ejemplo,\nun cono tiene un ancho de 4,5 m en un punto a lo\nlargo de su extensión que esté a 4,5 m del punto de\norigen. El efecto que crea un cono especifica su ex\ntensión máxima.\nEl punto de origen de un cono no está incluido\nen el área de efecto, salvo que su creador decida\nlo contrario."
+  },
+  {
+    "termino": "Correr",
+    "tag": "accion",
+    "id": "glosario-correr",
+    "definicion": "Cuando llevas a cabo la acción de correr, consigues\nmovimiento adicional para ese turno. Este aumento\nes igual a tu velocidad tras aplicar cualquier modi\nficador pertinente. Así, si tu velocidad fuera de 9 m,\npodrías moverte hasta 18 m en un turno en el que\ncorras. Si tu velocidad de 9 m se redujera a 4,5 m,\npodrías moverte hasta 9 m en un turno en el que\nrealizaras la acción de correr.\nSi tienes una velocidad especial, como una\nvelocidad nadando o una velocidad volando, puedes\nemplearla en lugar de tu velocidad normal cuando\nllevas a cabo esta acción. Eliges la velocidad que vas\na emplear cada vez que realizas la acción. Consulta\ntambién “Velocidad”."
+  },
+  {
+    "termino": "Criatura",
+    "tag": null,
+    "id": "glosario-criatura",
+    "definicion": "Cualquier ser que aparece en el juego, incluidos los\npersonajes de los jugadores, se considera una cria\ntura. Consulta también “Tipo de criatura”."
+  },
+  {
+    "termino": "Crítico",
+    "tag": null,
+    "id": "glosario-critico",
+    "definicion": "Si sacas un 20 en el d20 al hacer una tirada de\nataque, causarás un crítico y el ataque acertará\nsin tener en cuenta los modificadores ni la CA del\nobjetivo. Un crítico te permite tirar dados de daño\nadicionales contra el objetivo: tira todos los dados\nde daño del ataque dos veces, suma los resultados\ny luego añade los modificadores pertinentes. Consul\nta también el capítulo “Cómo jugar” (“Daño y cura\nción”)."
+  },
+  {
+    "termino": "Cubo",
+    "tag": "area_efecto",
+    "id": "glosario-cubo",
+    "definicion": "Un cubo es un área de efecto que se extiende en\nlíneas rectas desde un punto de origen situado en\ncualquier parte de una cara del cubo. El efecto que\ncrea un cubo especifica su tamaño, que es la longi\ntud de cada lado.\nEl punto de origen de un cubo no está incluido\nen el área de efecto, salvo que su creador decida\nlo contrario."
+  },
+  {
+    "termino": "Curación",
+    "tag": null,
+    "id": "glosario-curacion",
+    "definicion": "La curación es el medio para recuperar puntos de\ngolpe. Consulta también el capítulo “Cómo jugar”\n(“Daño y curación”)."
+  },
+  {
+    "termino": "Dados de puntos de golpe",
+    "tag": null,
+    "id": "glosario-dados-de-puntos-de-golpe",
+    "definicion": "Los dados de puntos de golpe (o “dados de golpe”\npara abreviar) ayudan a determinar los puntos\nde golpe máximos de un personaje jugador, como\nse explica en el capítulo “Creación de personajes”.\nLa mayoría de monstruos tienen también dados\nde golpe. Durante un descanso corto, una criatura\npuede gastar dados de golpe para recuperar puntos\nde golpe. Consulta también “Descanso corto”."
+  },
+  {
+    "termino": "Daño",
+    "tag": null,
+    "id": "glosario-dano",
+    "definicion": "Recibir daño hace que una criatura o un objeto\npierda puntos de golpe."
+  },
+  {
+    "termino": "Derribado",
+    "tag": "estado",
+    "id": "glosario-derribado",
+    "definicion": "Mientras tengas el estado de derribado, experimen\ntarás los siguientes efectos:\nMovimiento restringido. Tus únicas opciones de\nmovimiento son arrastrarte o gastar una cantidad\nde movimiento igual a la mitad de tu velocidad\n(redondeando hacia abajo) para levantarte y, por\ntanto, poner fin a este estado. Si tu velocidad es 0,\nno puedes levantarte.\nAtaques afectados. Tienes desventaja en las tira\ndas de ataque. Las tiradas de ataque contra ti tienen\nventaja si el atacante está a 1,5 m o menos de ti. De\nlo contrario, las tiradas de ataque tienen desventaja."
+  },
+  {
+    "termino": "Descanso corto",
+    "tag": null,
+    "id": "glosario-descanso-corto",
+    "definicion": "Un descanso corto es un periodo de inactividad de\n1 hora en el que una criatura no hace nada más ex\ntenuante que leer, charlar, comer o montar guardia.\nPara comenzar un descanso corto, debes tener al\nmenos 1 punto de golpe.\nBeneficios del descanso. Tras finalizar el\ndescanso obtendrás los siguientes beneficios:\nGastar dados de puntos de golpe. Puedes gastar\nuno o más dados de puntos de golpe para recu\nperar puntos de golpe. Por cada dado de puntos\nde golpe que gastes de esta forma, tira el dado\ny suma tu modificador por Constitución al resul\ntado. Recuperas una cantidad de puntos de golpe\nequivalente al total obtenido (con un mínimo\nde 1). Puedes decidir si gastas otro dado de pun\ntos de golpe tras cada tirada.\nRasgo especial. Algunos rasgos se recargan con\nun descanso corto. Si tienes uno de estos rasgos,\nse recargará de la forma que indique su descrip\nción.\nInterrumpir el descanso. Un descanso corto se\npuede interrumpir de las siguientes formas:\n•\t si se tira iniciativa;\n•\t si se lanza un conjuro que no sea un truco;\n•\t si se sufre daño.\nUn descanso corto interrumpido no otorga ningún\nbeneficio."
+  },
+  {
+    "termino": "Descanso largo",
+    "tag": null,
+    "id": "glosario-descanso-largo",
+    "definicion": "Un descanso largo es un periodo de inactividad\nprolongado (al menos 8 horas) a disposición de cual\nquier criatura. Durante un descanso largo, duermes\ndurante al menos 6 horas y realizas como máximo\n2 horas de actividades ligeras, como leer, hablar,\ncomer o montar guardia.\nMientras duermes, tienes el estado de\ninconsciente. Tras finalizar un descanso largo, debe\nrás esperar al menos 16 horas para comenzar otro.\nBeneficios del descanso. Para comenzar un des\ncanso largo, debes tener al menos 1 punto de golpe.\nTras finalizar el descanso obtendrás los siguientes\nbeneficios:\nPuntos de golpe al máximo. Recuperas todos\nlos puntos de golpe perdidos y todos los dados de\npuntos de golpe gastados. Si tus puntos de golpe\nmáximos se habían reducido, vuelven a la norma\nlidad.\nPuntuaciones de característica restablecidas.\nSi alguna de tus puntuaciones de característica se\nhabía reducido, vuelve a la normalidad.\nCansancio reducido. Si tienes el estado de cansan\ncio, su nivel se reduce en 1.\nRasgo especial. Algunos rasgos se recargan con\nun descanso largo. Si tienes uno de estos rasgos,\nse recargará de la forma que indique su descrip\nción.\nInterrumpir el descanso. Un descanso largo se\npuede interrumpir de las siguientes formas:\n•\t si se tira iniciativa;\n•\t si se lanza un conjuro que no sea un truco;\n•\t si se sufre daño;\n•\t si se camina o se hace algún otro ejercicio físico\ndurante 1 hora.\nSi logras descansar al menos 1 hora antes de la\ninterrupción, obtienes los beneficios de un descanso\ncorto. Consulta también “Descanso corto”.\nPuedes reanudar un descanso largo inmediata\nmente después de una interrupción. Si lo haces,\nel descanso requerirá 1 hora adicional por cada\ninterrupción para finalizarlo."
+  },
+  {
+    "termino": "Deshidratación",
+    "tag": "peligro",
+    "id": "glosario-deshidratacion",
+    "definicion": "Las criaturas requieren cierta cantidad de agua\nal día en función de su tamaño, como se muestra\nen la tabla “Consumo de agua al día”. Si una criatura\nbebe menos de la mitad del agua que necesita al día,\nsumará 1 nivel de cansancio al final del día. El can\nsancio causado por la deshidratación no puede\neliminarse hasta que la criatura beba la cantidad\ncompleta de agua necesaria al día. Consulta también\n“Cansancio”.\nConsumo de agua al día\nTamaño\nAgua\nDiminuto\n1 l\nPequeño\n4 l\nMediano\n4 l\nTamaño\nAgua\nGrande\n16 l\nEnorme\n64 l\nGargantuesco\n256 l"
+  },
+  {
+    "termino": "Desnutrición",
+    "tag": "peligro",
+    "id": "glosario-desnutricion",
+    "definicion": "Las criaturas necesitan cierta cantidad de alimen\ntos al día en función de su tamaño, como se muestra\nen la tabla “Consumo de alimentos al día”. Si una\ncriatura come, pero ingiere menos de la mitad de\nlos alimentos que necesita al día, deberá superar\nuna tirada de salvación de Constitución con CD 10\no sumará 1 nivel de cansancio al final del día. Si una\ncriatura no come nada durante 5 días, sumará auto\nmáticamente 1 nivel de cansancio al final del quinto\ndía y un nivel adicional al final de cada día posterior\nsin comer.\nEl cansancio causado por la desnutrición no puede\neliminarse hasta que la criatura coma la cantidad\ncompleta de alimentos necesarios al día. Consulta\ntambién “Cansancio”.\nConsumo de alimentos al día\nTamaño\nAlimentos\nTamaño\nAlimentos\nDiminuto\n125 g\nGrande\n2 kg\nPequeño\n0,5 kg\nEnorme\n8 kg\nMediano\n0,5 kg\nGargan\ntuesco\n32 kg"
+  },
+  {
+    "termino": "Destrabarse",
+    "tag": "accion",
+    "id": "glosario-destrabarse",
+    "definicion": "Si llevas a cabo la acción de destrabarse, tu\nmovimiento no provocará ataques de oportunidad\ndurante el resto del turno actual."
+  },
+  {
+    "termino": "Desventaja",
+    "tag": null,
+    "id": "glosario-desventaja",
+    "definicion": "Si tienes desventaja en una prueba con d20, tira\n2d20 y utiliza el resultado más bajo. Una tirada no\npuede verse afectada por más de una desventaja,\ny una ventaja y una desventaja en la misma tirada se\nanulan entre sí. Consulta también el capítulo “Cómo\njugar” (“Las pruebas con d20”)."
+  },
+  {
+    "termino": "Efecto mágico",
+    "tag": null,
+    "id": "glosario-efecto-magico",
+    "definicion": "Un efecto es mágico si lo crea un conjuro, un objeto\nmágico o un fenómeno que una regla etiquete como\nmágico."
+  },
+  {
+    "termino": "Efectos simultáneos",
+    "tag": null,
+    "id": "glosario-efectos-simultaneos",
+    "definicion": "Si ocurren dos o más cosas a la vez en un turno,\nla persona (jugador o GM) de la partida cuyo turno\nesté en marcha decidirá el orden en el que ocurren\nesas cosas. Por ejemplo, si dos efectos ocurren al\nprincipio del turno del personaje de un jugador,\nel jugador decidirá qué efecto ocurre primero."
+  },
+  {
+    "termino": "Emanación",
+    "tag": "area_efecto",
+    "id": "glosario-emanacion",
+    "definicion": "Una emanación es un área de efecto que se extiende\nen líneas rectas desde una criatura o un objeto en\ntodas las direcciones. El efecto que crea una emana\nción especifica la distancia que abarca.\nUna emanación se mueve con la criatura o el obje\nto que sea su origen, salvo que se trate de un efecto\ninstantáneo o estático.\nEl origen de una emanación (criatura u objeto) no\nse incluye en el área de efecto, salvo que su creador\ndecida lo contrario."
+  },
+  {
+    "termino": "Encuentro",
+    "tag": null,
+    "id": "glosario-encuentro",
+    "definicion": "Un encuentro es una escena de una aventura que\nforma parte de al menos uno de los tres pilares del\njuego: interacciones sociales, exploración o comba\nte. Consulta también el capítulo “Cómo jugar” (“Inte\nracciones sociales”, “Exploración” y “Combate”)."
+  },
+  {
+    "termino": "Enemigo",
+    "tag": null,
+    "id": "glosario-enemigo",
+    "definicion": "Una criatura es tu enemiga si se opone a ti en com\nbate, si tiene intención de perjudicarte o si las re\nglas o tu GM la designan como tal."
+  },
+  {
+    "termino": "Ensordecido",
+    "tag": "estado",
+    "id": "glosario-ensordecido",
+    "definicion": "Mientras tengas el estado de ensordecido, experi\nmentarás el siguiente efecto:\nNo puedes oír. No puedes oír y fallas automática\nmente las pruebas de característica que requieran\nel oído."
+  },
+  {
+    "termino": "Entrenamiento con armaduras",
+    "tag": null,
+    "id": "glosario-entrenamiento-con-armaduras",
+    "definicion": "El entrenamiento con armaduras te permite utilizar\nuna armadura de una determinada categoría sin los\nsiguientes inconvenientes. Si llevas una armadura\nligera, media o pesada, pero no te has entrenado\ncon ella, tendrás desventaja en cualquier prueba\ncon d20 que implique la Fuerza o la Destreza y no\npodrás lanzar conjuros. Si embrazas un escudo,\npero no te has entrenado con él, no obtendrás su\nbonificador a la CA. Consulta también “Desventaja”\ny el capítulo “Equipo” (“Armaduras”)."
+  },
+  {
+    "termino": "Envenenado",
+    "tag": "estado",
+    "id": "glosario-envenenado",
+    "definicion": "Mientras tengas el estado de envenenado, experi\nmentarás el siguiente efecto:\nPruebas de característica y ataques afectados.\nTienes desventaja en las tiradas de ataque y las\npruebas de característica."
+  },
+  {
+    "termino": "Esconderse",
+    "tag": "accion",
+    "id": "glosario-esconderse",
+    "definicion": "Con la acción de esconderse, tratas de ocultarte.\nPara ello, debes superar una prueba de Destreza\n(Sigilo) con CD 15 mientras estás en una zona muy\noscura o detrás de una cobertura tres cuartos o\ncompleta, y deberás estar fuera de la línea de visión\nde cualquier enemigo; si puedes ver a una criatura,\nsabrás si te puede ver o no.\nSi la superas, tendrás el estado de invisible\nmientras permanezcas oculto. Anota el resultado\nde tu prueba, que es la CD para que una criatura te\ndetecte con una prueba de Sabiduría (Percepción).\nDejas de estar oculto inmediatamente después de\nque ocurra algo de lo siguiente: haces un ruido más\nalto que un susurro, un enemigo te detecta, haces\nuna tirada de ataque o lanzas un conjuro con un\ncomponente verbal."
+  },
+  {
+    "termino": "Esfera",
+    "tag": "area_efecto",
+    "id": "glosario-esfera",
+    "definicion": "Una esfera es un área de efecto que se extiende en\nlíneas rectas desde un punto de origen hacia fuera\nen todas las direcciones. El efecto que crea una\nesfera especifica la distancia que se extiende como\nel radio de la esfera.\nEl punto de origen de una esfera está incluido\nen su área de efecto."
+  },
+  {
+    "termino": "Espacio ocupado",
+    "tag": null,
+    "id": "glosario-espacio-ocupado",
+    "definicion": "Un espacio se considera ocupado si una criatura se\nencuentra en él o si está completamente lleno de\nobjetos."
+  },
+  {
+    "termino": "Espacio sin ocupar",
+    "tag": null,
+    "id": "glosario-espacio-sin-ocupar",
+    "definicion": "Un espacio está sin ocupar si no hay criaturas\nen él y si no está completamente lleno de objetos."
+  },
+  {
+    "termino": "Esquivar",
+    "tag": "accion",
+    "id": "glosario-esquivar",
+    "definicion": "Si llevas a cabo la acción de esquivar, obtienes\nlos siguientes beneficios: hasta el principio de tu\nsiguiente turno, las tiradas de ataque contra ti ten\ndrán desventaja si puedes ver al atacante y tendrás\nventaja en las tiradas de salvación de Destreza.\nPerderás estos beneficios si tienes el estado de\nincapacitado o si tu velocidad es 0."
+  },
+  {
+    "termino": "Estable",
+    "tag": null,
+    "id": "glosario-estable",
+    "definicion": "Una criatura está estable si tiene 0 puntos de golpe\npero no debe hacer tiradas de salvación contra\nmuerte. Consulta también el capítulo “Cómo jugar”\n(“Daño y curación”)."
+  },
+  {
+    "termino": "Estado",
+    "tag": null,
+    "id": "glosario-estado",
+    "definicion": "Un estado es una situación temporal que experi\nmenta una criatura en la partida. La definición\nde un estado indica cómo afecta a su destinatario\ny diversas reglas explican cómo poner fin a un\nestado. El glosario define los siguientes estados:\nAgarrado\nApresado\nAsustado\nAturdido\nCansancio\nCegado\nDerribado\nEnsordecido\nEnvenenado\nHechizado\nIncapacitado\nInconsciente\nInvisible\nParalizado\nPetrificado\nUn estado no se acumula: el destinatario lo tiene\no no lo tiene. El estado de cansancio es una excep\nción a esta regla."
+  },
+  {
+    "termino": "Estudiar",
+    "tag": "accion",
+    "id": "glosario-estudiar",
+    "definicion": "Cuando llevas a cabo la acción de estudiar, haces una\nprueba de Inteligencia para explorar tus recuerdos o\nexaminar un libro, una pista u otra fuente de conoci\nmiento y recordar algún dato importante.\nLa tabla “Áreas de conocimiento” sugiere qué\nhabilidades se pueden aplicar a diversos ámbitos.\nÁreas de conocimiento\nHabilidad\nÁreas\nConocimiento\narcano\nConjuros, objetos mágicos, símbolos\nsobrenaturales, tradiciones mágicas,\nplanos de existencia y determinadas\ncriaturas (aberraciones, autómatas, ele\nmentales, feéricos y monstruosidades)\nHistoria\nAcontecimientos y personajes histó\nricos, civilizaciones antiguas, guerras\ny determinadas criaturas (gigantes\ny humanoides)\nInvestigación\nTrampas, códigos, enigmas y artilugios\nNaturaleza\nTerreno, flora, clima y determinadas\ncriaturas (bestias, cienos, dragones\ny plantas)\nReligión\nDeidades, jerarquías religiosas y ritos,\nsímbolos sagrados, sectas y determi\nnadas criaturas (celestiales, infernales\ny muertos vivientes)"
+  },
+  {
+    "termino": "Fuego",
+    "tag": "peligro",
+    "id": "glosario-fuego",
+    "definicion": "Una criatura u objeto que arda sufre 1d4 de daño\nde fuego al principio de cada uno de sus turnos.\nComo acción, puedes apagar el fuego que te afecta\nadoptando el estado de derribado y rodando por\nel suelo. El fuego también se extingue si se empapa,\nse sumerge o se ahoga."
+  },
+  {
+    "termino": "Habilidad",
+    "tag": null,
+    "id": "glosario-habilidad",
+    "definicion": "Una habilidad es un área de especialización aso\nciada a una prueba de característica. Si eres com\npetente en una habilidad, puedes sumar tu bonifi\ncador por competencia cuando hagas una prueba\nde característica asociada a esa habilidad. Consulta\ntambién el capítulo “Cómo jugar” (“Competencia”)."
+  },
+  {
+    "termino": "Hechizado",
+    "tag": "estado",
+    "id": "glosario-hechizado",
+    "definicion": "Mientras tengas el estado de hechizado, experimen\ntarás los siguientes efectos:\nNo puedes dañar a quien te haya hechizado.\nNo puedes atacar ni elegir como objetivo de efectos\ndañinos o mágicos a quien te haya hechizado.\nVentaja social. Quien te haya hechizado tiene ven\ntaja en las pruebas de característica para interac\ntuar socialmente contigo."
+  },
+  {
+    "termino": "Hoja de personaje",
+    "tag": null,
+    "id": "glosario-hoja-de-personaje",
+    "definicion": "Una hoja de personaje es un registro en papel\no digital en el que apuntas la información sobre\ntu personaje. Consulta también el capítulo “Creación\nde personajes”."
+  },
+  {
+    "termino": "Hostil",
+    "tag": "actitud",
+    "id": "glosario-hostil",
+    "definicion": "Una criatura hostil te ve con malos ojos. Tienes des\nventaja en las pruebas de característica para influir\nen una criatura hostil. Consulta también “Influir”."
+  },
+  {
+    "termino": "Ilusiones",
+    "tag": null,
+    "id": "glosario-ilusiones",
+    "definicion": "Los conjuros y otros efectos a veces crean ilusiones\nmágicas. Estos efectos definen lo que hace la ilusión\ny con qué sentidos o facultades mentales juega.\nSi una ilusión se manifiesta en un lugar, será\ninsustancial e ingrávida, aunque parecerá que le\nafecta el entorno como si la ilusión fuera real, salvo\nque el efecto que la haya creado especifique algo\ndistinto. Por ejemplo, una ilusión visual de una cria\ntura proyecta sombras y reflejos, y el viento parece\nafectar a la criatura ilusoria. De manera similar,\nuna ilusión audible resuena en un lugar con eco."
+  },
+  {
+    "termino": "Incapacitado",
+    "tag": "estado",
+    "id": "glosario-incapacitado",
+    "definicion": "Mientras tengas el estado de incapacitado, experi\nmentarás los siguientes efectos:\nInactivo. No puedes llevar a cabo ninguna acción,\nacción adicional o reacción.\nPérdida de concentración. Pierdes la concentra\nción.\nMudo. No puedes hablar.\nSorprendido. Si tienes el estado de incapacitado\ncuando tiras iniciativa, tendrás desventaja en la\ntirada."
+  },
+  {
+    "termino": "Inconsciente",
+    "tag": "estado",
+    "id": "glosario-inconsciente",
+    "definicion": "Mientras tengas el estado de inconsciente, experi\nmentarás los siguientes efectos:\nInerte. Tienes los estados de derribado e inca\npacitado y sueltas lo que estés sujetando. Cuando\nconcluya este estado, permanecerás derribado.\nVelocidad 0. Tu velocidad es 0 y no puede aumen\ntar.\nAtaques afectados. Las tiradas de ataque contra\nti tienen ventaja.\nTiradas de salvación afectadas. Fallas automáti\ncamente las tiradas de salvación de Fuerza y Des\ntreza.\nCríticos automáticos. Cualquier tirada de ataque\nque te acierte es un crítico si el atacante está a 1,5 m\no menos de ti.\nIgnorante. No eres consciente de tu entorno."
+  },
+  {
+    "termino": "Indiferente",
+    "tag": "actitud",
+    "id": "glosario-indiferente",
+    "definicion": "Una criatura indiferente no tiene interés ni en\nayudarte ni en obstaculizarte. Esta es la actitud por\ndefecto de un monstruo. Consulta también “Influir”."
+  },
+  {
+    "termino": "Influir",
+    "tag": "accion",
+    "id": "glosario-influir",
+    "definicion": "Con la acción de influir, instas a un monstruo a que\nhaga algo. Describe o interpreta cómo te comunicas\ncon ese monstruo. ¿Tratas de engañarlo, intimidarlo,\nentretenerlo o persuadirlo disimuladamente? Tu\nGM determinará si el monstruo muestra disposición\n(voluntario) o no (no voluntario), o si está indeciso\npor tu interacción; conforme a esto, establecerá si\nse necesita o no hacer una prueba de característica,\ncomo se explica a continuación.\nVoluntario. Si tu afán concuerda con los deseos\ndel monstruo, no será necesaria ninguna prueba\nde característica: el monstruo cumplirá con lo que\nle pidas de la forma que estime pertinente.\nNo voluntario. Si tu deseo resulta aversivo para\nel monstruo u opuesto a su alineamiento, no será\nnecesaria ninguna prueba de característica: no\nlo aceptará.\nIndeciso. Si instas al monstruo a que haga algo so\nbre lo que siente dudas, deberás realizar una prueba\nde característica, en la que influirá la actitud del\nmonstruo: indiferente, amistosa u hostil, todas ellas\ndefinidas en este glosario. La tabla “Pruebas de\ninfluencia” sugiere qué prueba de característica se\ndebe hacer en función de cómo interactúas con el\nmonstruo. Tu GM elegirá la prueba, que tendrá por\ndefecto una CD igual a 15 o la puntuación de Inteli\ngencia del monstruo, la que sea más alta. Si la su\nperas, el monstruo hará lo que le pides. Si la fallas,\ndeberás esperar 24 horas (o el plazo que establezca\ntu GM) antes de volver a insistir.\nPruebas de influencia\nPrueba de característica\nInteracción\nCarisma (Engaño)\nEngañar a un monstruo que\nte entienda.\nCarisma (Interpretación)\nEntretener a un monstruo.\nCarisma (Intimidación)\nIntimidar a un monstruo.\nCarisma (Persuasión)\nPersuadir a un monstruo\nque te entienda.\nSabiduría (Trato con\nanimales)\nConvencer poco a poco a\nuna bestia o monstruosidad."
+  },
+  {
+    "termino": "Iniciativa",
+    "tag": null,
+    "id": "glosario-iniciativa",
+    "definicion": "La iniciativa determina el orden de los turnos\ndurante el combate. Las reglas del combate del capí\ntulo “Cómo jugar” explican cómo tirar iniciativa.\nA veces, los GM pueden hacer que los combatien\ntes utilicen sus puntuaciones de iniciativa en vez de\ntirar iniciativa. Tu puntuación de iniciativa es igual\na 10 más tu modificador por Destreza. Si tienes\nventaja en las tiradas de iniciativa, aumenta tu pun\ntuación de iniciativa en 5. Si, por el contrario, tienes\ndesventaja en estas tiradas, reduce esa puntuación\nen 5. Consulta también el capítulo “Cómo jugar”\n(“Combate”)."
+  },
+  {
+    "termino": "Inmunidad",
+    "tag": null,
+    "id": "glosario-inmunidad",
+    "definicion": "Si tienes inmunidad a un tipo de daño o un estado,\nno te afectará de ningún modo."
+  },
+  {
+    "termino": "Inspiración heroica",
+    "tag": null,
+    "id": "glosario-inspiracion-heroica",
+    "definicion": "Si tienes inspiración heroica (como personaje juga\ndor), puedes gastarla para volver a tirar cualquier\ndado inmediatamente después de lanzarlo; si lo\nhaces, deberás utilizar el nuevo resultado.\nSi obtienes inspiración heroica y ya tenías, se des\nperdiciará salvo que se la concedas a un personaje\njugador que carezca de ella."
+  },
+  {
+    "termino": "Invisible",
+    "tag": "estado",
+    "id": "glosario-invisible",
+    "definicion": "Mientras tengas el estado de invisible, experimenta\nrás los siguientes efectos:\nSorpresa. Si tienes el estado de invisible cuando\ntiras iniciativa, tendrás ventaja en la tirada.\nOculto. No te afecta ningún efecto que requiera\nver a su objetivo, salvo que el creador del efecto\npueda verte de alguna forma. Cualquier equipo que\nvistas o lleves contigo también se oculta.\nAtaques afectados. Las tiradas de ataque contra\nti tienen desventaja y tus tiradas de ataque tienen\nventaja. Si una criatura puede verte de alguna for\nma, no obtienes este beneficio contra esa criatura."
+  },
+  {
+    "termino": "Levitar",
+    "tag": null,
+    "id": "glosario-levitar",
+    "definicion": "Algunas criaturas pueden levitar, como se indica\nen sus perfiles, y algunos conjuros y otros efectos\notorgan la capacidad de levitar. Si levitas al volar,\nevitarás caerte en determinadas circunstancias.\nConsulta también “Volar”."
+  },
+  {
+    "termino": "Ligeramente oscuro",
+    "tag": null,
+    "id": "glosario-ligeramente-oscuro",
+    "definicion": "Tienes desventaja en las pruebas de Sabiduría (Per\ncepción) para ver algo en un espacio ligeramente\noscuro. Consulta también “Luz tenue” y el capítulo\n“Cómo jugar” (“Exploración”)."
+  },
+  {
+    "termino": "Línea",
+    "tag": "area_efecto",
+    "id": "glosario-linea",
+    "definicion": "Una línea es un área de efecto que se extiende desde\nun punto de origen en una trayectoria recta a lo\nlargo de su extensión y cubre un área delimitada\npor su ancho. El efecto que crea una línea especifica\nsu longitud y anchura.\nEl punto de origen de una línea no está incluido\nen el área de efecto, salvo que su creador decida\nlo contrario."
+  },
+  {
+    "termino": "Luz brillante",
+    "tag": null,
+    "id": "glosario-luz-brillante",
+    "definicion": "La luz brillante es la iluminación normal. Consulta\ntambién el capítulo “Cómo jugar” (“Exploración”)."
+  },
+  {
+    "termino": "Luz tenue",
+    "tag": null,
+    "id": "glosario-luz-tenue",
+    "definicion": "Una zona con luz tenue está ligeramente oscura.\nConsulta también “Ligeramente oscuro” y el capítulo\n“Cómo jugar” (“Exploración”)."
+  },
+  {
+    "termino": "Magia",
+    "tag": "accion",
+    "id": "glosario-magia",
+    "definicion": "Cuando llevas a cabo la acción de magia, puedes lan\nzar un conjuro que tenga un tiempo de lanzamiento\nde una acción o usar un rasgo u objeto mágico que\nrequiera una acción de magia para activarlo.\nSi lanzas un conjuro que tiene un tiempo de lanza\nmiento de 1 minuto o superior, deberás realizar la\nacción de magia en cada turno de ese lanzamiento\ny mantener la concentración mientras lo haces.\nSi pierdes la concentración, el conjuro fallará, pero\nno gastarás un espacio de conjuro. Consulta también\n“Concentración”."
+  },
+  {
+    "termino": "Maldiciones",
+    "tag": null,
+    "id": "glosario-maldiciones",
+    "definicion": "Algunos efectos del juego maldicen a una criatura\no un objeto. El efecto que impone la maldición\ndefine lo que esta hace. Las maldiciones se pueden\neliminar con los conjuros levantar maldición y res\ntablecimiento mayor u otros efectos mágicos que\nespecifiquen esa capacidad."
+  },
+  {
+    "termino": "Maltrecho",
+    "tag": null,
+    "id": "glosario-maltrecho",
+    "definicion": "Una criatura está maltrecha cuando le quedan\nla mitad de sus puntos de golpe o menos."
+  },
+  {
+    "termino": "Monstruo",
+    "tag": null,
+    "id": "glosario-monstruo",
+    "definicion": "Un monstruo es una criatura que controla el GM,\naunque dicha criatura sea bondadosa. Consulta\ntambién “Criatura” y “PNJ”."
+  },
+  {
+    "termino": "Muerto",
+    "tag": null,
+    "id": "glosario-muerto",
+    "definicion": "Una criatura muerta no tiene puntos de golpe ni\npuede recuperarlos salvo que antes la revivan\ncon magia, como los conjuros alzar a los muertos\no revivir. Cuando se lanza un conjuro de ese estilo,\nel espíritu sabe quién lo lanza y puede rechazarlo.\nEl espíritu de una criatura muerta abandona su\ncuerpo y parte a los Planos Exteriores, por lo que\nrevivir a la criatura requiere llamar a su espíritu\npara que regrese.\nSi la criatura vuelve a la vida, el efecto que la re\nvive determina sus puntos de golpe actuales. Salvo\nque indique lo contrario, la criatura vuelve a la vida\ncon cualquier estado, enfermedad mágica o mal\ndición que la afectara en el momento de su muerte\nsi las duraciones de esos efectos no han concluido.\nSi la criatura murió con algún nivel de cansancio,\nregresará con 1 nivel menos. Si la criatura estaba\nsintonizada con uno o varios objetos mágicos, deja\nrá de estarlo."
+  },
+  {
+    "termino": "Muy oscuro",
+    "tag": null,
+    "id": "glosario-muy-oscuro",
+    "definicion": "Cuando tratas de ver algo en un espacio muy oscuro,\ntienes el estado de cegado. Consulta también “Cega\ndo”, “Oscuridad” y el capítulo “Cómo jugar” (“Explo\nración”)."
+  },
+  {
+    "termino": "Nadar",
+    "tag": null,
+    "id": "glosario-nadar",
+    "definicion": "Cuando nadas, cada metro de movimiento te cuesta\n1 m adicional (2 m adicionales en terreno difícil).\nIgnoras este coste adicional si tienes una velocidad\nnadando y la usas para nadar. Si tu GM lo cree\nconveniente, para recorrer cualquier distancia por\naguas revueltas podría tener que superarse una\nprueba de Fuerza (Atletismo) con CD 15."
+  },
+  {
+    "termino": "Noquear a una criatura",
+    "tag": null,
+    "id": "glosario-noquear-a-una-criatura",
+    "definicion": "Si fueses a reducir a 0 los puntos de golpe de una\ncriatura con un ataque cuerpo a cuerpo, puedes\noptar por dejarla con 1 punto de golpe. En tal\ncaso, la criatura tendrá el estado de inconsciente y\ncomenzará un descanso corto.\nLa criatura permanecerá inconsciente hasta que\nrecupere algún punto de golpe o hasta que alguien\nutilice una acción para administrarle primeros\nauxilios, para lo que deberá superar una prueba\nde Sabiduría (Medicina) con CD 10."
+  },
+  {
+    "termino": "Objetivo",
+    "tag": null,
+    "id": "glosario-objetivo",
+    "definicion": "Un objetivo es la criatura o el objeto al que una\ntirada de ataque hace objetivo, al que un efecto\nobliga a hacer una tirada de salvación o al que se\nselecciona para recibir los efectos de un conjuro\nu otro fenómeno."
+  },
+  {
+    "termino": "Objeto",
+    "tag": null,
+    "id": "glosario-objeto",
+    "definicion": "Un objeto es una cosa individual y sin vida. Las co\nsas compuestas, como los edificios, constan de más\nde un objeto. Consulta también “Romper objetos”."
+  },
+  {
+    "termino": "Oscuridad",
+    "tag": null,
+    "id": "glosario-oscuridad",
+    "definicion": "Una zona de oscuridad está muy oscura. Consulta\ntambién “Muy oscuro” y el capítulo “Cómo jugar”\n(“Exploración”)."
+  },
+  {
+    "termino": "Paralizado",
+    "tag": "estado",
+    "id": "glosario-paralizado",
+    "definicion": "Mientras tengas el estado de paralizado, experimen\ntarás los siguientes efectos:\nIncapacitado. Tienes el estado de incapacitado.\nVelocidad 0. Tu velocidad es 0 y no puede aumen\ntar.\nTiradas de salvación afectadas. Fallas automáti\ncamente las tiradas de salvación de Fuerza y Des\ntreza.\nAtaques afectados. Las tiradas de ataque contra\nti tienen ventaja.\nCríticos automáticos. Cualquier tirada de ataque\nque te acierte es un crítico si el atacante está a 1,5 m\no menos de ti."
+  },
+  {
+    "termino": "Peligro",
+    "tag": null,
+    "id": "glosario-peligro",
+    "definicion": "Un peligro es una situación contextual\ncomprometida. Consulta también “Asfixia”, “Caídas,\n“Deshidratación”, “Desnutrición” y “Fuego”."
+  },
+  {
+    "termino": "Percepción pasiva",
+    "tag": null,
+    "id": "glosario-percepcion-pasiva",
+    "definicion": "La Percepción pasiva es una puntuación que refleja\nla atención general de una criatura al entorno.\nEl GM usa esta puntuación para determinar si una\ncriatura se percata de algo sin tener que realizar\nadrede una prueba de Sabiduría (Percepción).\nLa Percepción pasiva de una criatura es igual\na 10 más su bonificador a las pruebas de Sabiduría\n(Percepción). Si la criatura tiene ventaja en estas\npruebas, aumenta la puntuación en 5. Si la criatura\ntiene desventaja en ellas, reduce la puntuación en\n5. Por ejemplo, un personaje de nivel 1 con una\nSabiduría de 15 y competencia en Percepción tiene\nuna Percepción pasiva de 14 (10 + 2 + 2). Si ese\npersonaje tiene ventaja en las pruebas de Sabiduría\n(Percepción), la puntuación será de 19."
+  },
+  {
+    "termino": "Perfil",
+    "tag": null,
+    "id": "glosario-perfil",
+    "definicion": "Un perfil contiene las estadísticas de juego de un\nmonstruo. Cada perfil incluye la siguiente informa\nción tras el nombre del monstruo.\nTamaño. Un monstruo puede ser Diminuto,\nPequeño, Mediano, Grande, Enorme o Gargantuesco.\nConsulta también “Tamaño”.\nTipo de criatura. Este apartado indica la familia\nde seres a la que pertenece un monstruo, junto con\ncualquier etiqueta descriptiva. Consulta también\n“Tipo de criatura”.\nAlineamiento. Se sugiere un alineamiento para\nel monstruo, aunque cada GM determina su alinea\nmiento real. Consulta también “Alineamiento”.\nCA, iniciativa y PG. Estos apartados muestran\nla clase de armadura, la iniciativa y los puntos de\ngolpe del monstruo, que se explican en el capítulo\n“Cómo jugar”. Después de los puntos de golpe apa\nrecen los dados de puntos de golpe del monstruo\nentre paréntesis, junto con la contribución de su\nConstitución a sus puntos de golpe, si corresponde.\nTras el modificador a la iniciativa se encuentra la\npuntuación de iniciativa. Algunas criaturas creadas\nmediante magia no tienen información sobre los\ndados de golpe y la iniciativa.\nVelocidad. Aquí se indica la velocidad del mons\ntruo, junto con cualquier velocidad especial que\ntenga. Consulta también “Velocidad excavando,”\n“Velocidad nadando”, “Velocidad trepando” y “Velo\ncidad volando”.\nPuntuaciones de característica. Una tabla mues\ntra las puntuaciones de característica, los modifica\ndores y los modificadores a las tiradas de salvación\ndel monstruo, todos ellos explicados en el capítulo\n“Cómo jugar”.\nHabilidades. Este apartado indica las competen\ncias en habilidades del monstruo, si es que tiene\nalguna. Consulta también el capítulo “Cómo jugar”\n(“Competencia”).\nResistencias y vulnerabilidades. Estos aparta\ndos recogen las resistencias y vulnerabilidades del\nmonstruo si es que tiene alguna. Consulta también\n“Resistencia” y “Vulnerabilidad”.\nInmunidades. Este apartado recoge las inmunida\ndes a daños y a estados del monstruo si es que tiene\nalguna. Consulta también “Inmunidad”.\nEquipo. Si el monstruo tiene algún equipo que\nse puede entregar o recuperar, aparecerá en este\napartado.\nSentidos. Este apartado incluye los sentidos\nespeciales (como la visión en la oscuridad) y la\nPercepción pasiva del monstruo. Consulta también\n“Percepción pasiva”.\nIdiomas. En este apartado aparecen los idiomas\nque sabe el monstruo.\nVD. El valor de desafío resume la amenaza que\nsupone un monstruo y se explica en el capítulo\n“Monstruos”. Luego se muestran los puntos de expe\nriencia que los personajes reciben por derrotar a un\nmonstruo y su bonificador por competencia. Algu\nnas criaturas creadas mediante magia no tienen VD.\nConsulta también “Puntos de experiencia” y “Valor\nde desafío”.\nAtributos. Los atributos del monstruo (si tiene)\nson capacidades que están activas todo el tiempo\no en determinadas situaciones.\nAcciones. El monstruo puede llevar a cabo estas\nacciones además de las detalladas en este glosario.\nConsulta también el capítulo “Cómo jugar” (“Accio\nnes”).\nAcciones adicionales. Si el monstruo tiene op\nciones como acción adicional, aparecerán en este\napartado.\nReacciones. Si el monstruo puede llevar a cabo\nalguna reacción especial, aparecerá en esta sección.\nNotación de ataques. Los apartados de los ata\nques de un monstruo comienzan identificando si\nel ataque es cuerpo a cuerpo o a distancia. Luego\nindican el bonificador a la tirada de ataque, su\nalcance y lo que ocurre si acierta. Un ataque se lleva\na cabo contra un objetivo salvo que este apartado\ndiga lo contrario.\nNotación de tiradas de salvación. Si un efecto\nobliga a realizar una tirada de salvación, el apar\ntado del efecto comienza identificando el tipo de\ntirada de salvación necesaria. Luego indica la CD\nde la tirada de salvación y describe qué criaturas\ndeben realizar la tirada y lo que ocurre si la fallan\no la superan.\nNotación del daño. Los perfiles suelen proporcio\nnar un número estático y la tirada de dados usada\ncon cada efecto de daño. Por ejemplo, un ataque\npodría causar 4 (1d4 +2) de daño si acierta. Cada\nGM determina si se emplea el número estático\no la tirada de dados que aparece entre paréntesis:\nno se usan los dos."
+  },
+  {
+    "termino": "Pericia",
+    "tag": null,
+    "id": "glosario-pericia",
+    "definicion": "La pericia es un rasgo que mejora el uso de tu\ncompetencia en una habilidad. Cuando hagas una\nprueba de característica con una competencia en\nuna habilidad en la que tengas pericia, tu bonifica\ndor por competencia se duplica en esa prueba salvo\nque otro rasgo lo duplique.\nSi ganas pericia, la ganas en una habilidad en la\nque tengas competencia. No puedes tener pericia\nmás de una vez en la misma habilidad.\nConsulta también el capítulo “Cómo jugar” (“Com\npetencia”)."
+  },
+  {
+    "termino": "Personaje jugador",
+    "tag": null,
+    "id": "glosario-personaje-jugador",
+    "definicion": "Un personaje jugador (también llamado personaje\nde un jugador) es un personaje que controla un\njugador. Consulta también el capítulo “Creación\nde personajes”."
+  },
+  {
+    "termino": "Personaje no jugador",
+    "tag": null,
+    "id": "glosario-personaje-no-jugador",
+    "definicion": "Un personaje no jugador (PNJ) es un monstruo que\ntiene un nombre propio y una personalidad particu\nlar. Consulta también “Monstruo”."
+  },
+  {
+    "termino": "Petrificado",
+    "tag": "estado",
+    "id": "glosario-petrificado",
+    "definicion": "Mientras tengas el estado de petrificado, experi\nmentarás los siguientes efectos:\nTransformación en sustancia inanimada. Te\ntransformas, junto con cualquier objeto no mágico\nque vistas o lleves contigo, en una sustancia sólida\ne inanimada (normalmente piedra). Tu peso se mul\ntiplica por diez y dejas de envejecer.\nIncapacitado. Tienes el estado de incapacitado.\nVelocidad 0. Tu velocidad es 0 y no puede aumen\ntar.\nAtaques afectados. Las tiradas de ataque contra\nti tienen ventaja.\nTiradas de salvación afectadas. Fallas automáti\ncamente las tiradas de salvación de Fuerza y Des\ntreza.\nResistencia al daño. Tienes resistencia a todo\nel daño.\nInmunidad al veneno. Tienes inmunidad al estado\nde envenenado."
+  },
+  {
+    "termino": "Posesión",
+    "tag": null,
+    "id": "glosario-posesion",
+    "definicion": "Algunos efectos hacen que una criatura sea poseída\npor otra criatura o entidad. Un efecto de posesión\ndefine cómo funciona la misma. Una posesión se\npuede prevenir con el conjuro protección contra\nel bien y el mal y deshacer con el conjuro disipar\nel bien y el mal."
+  },
+  {
+    "termino": "Preparar una acción",
+    "tag": "accion",
+    "id": "glosario-preparar-una-accion",
+    "definicion": "Preparas una acción para esperar a que ocurra\nalgo concreto antes de actuar. Para ello, llevas a\ncabo esta acción en tu turno, lo que te permitirá\nactuar usando tu reacción antes del principio de tu\nsiguiente turno.\nEn primer lugar, decide qué circunstancia (que\npuedas percibir) activará tu reacción. A continua\nción, elige la acción que realizarás en respuesta a\ndicha circunstancia. Como alternativa, en vez de\nuna acción puedes decidir moverte hasta tu veloci\ndad. Por ejemplo: “Si los sectarios pisan la trampilla,\ntiraré de la palanca que la abre” o “si el zombi se\nacerca, me alejaré de él”.\nCuando se produzca la circunstancia de activa\nción, podrás elegir entre usar tu reacción cuando\ndicha circunstancia termine o ignorarla.\nCuando te preparas para lanzar un conjuro, lo\nlanzas con normalidad (gastando cualquier recurso\nempleado para lanzarlo), pero retienes su energía\ny la liberas usando tu reacción cuando se produzca\nla circunstancia que la desencadene. Solo los conju\nros cuyo tiempo de lanzamiento sea de una acción\npueden formar parte de una acción preparada. Ade\nmás, el esfuerzo que implica contener las energías\nmágicas exige concentración, que podrás mantener\nhasta el principio de tu siguiente turno. Si pierdes\nla concentración, el conjuro se disipará sin causar\nefecto alguno."
+  },
+  {
+    "termino": "Prueba con d20",
+    "tag": null,
+    "id": "glosario-prueba-con-d20",
+    "definicion": "Las pruebas con d20 abarcan las tres principales ti\nradas con el d20 en el juego: las pruebas de caracte\nrística, las tiradas de ataque y las tiradas de salva\nción. Si algo en el juego afecta a las pruebas con d20,\nafecta a estas tres tiradas. Cada GM decide si una\nprueba con d20 está justificada en una circunstan\ncia determinada. Consulta también el capítulo “Cómo\njugar” (“Las pruebas con d20”)."
+  },
+  {
+    "termino": "Prueba de característica",
+    "tag": null,
+    "id": "glosario-prueba-de-caracteristica",
+    "definicion": "Una prueba de característica es una prueba con d20\nque representa el uso de una de las seis caracterís\nticas (o de una habilidad asociada a una caracte\nrística) para superar un desafío. Consulta también\nel capítulo “Cómo jugar” (“Las pruebas con d20”\ny “Competencia”)."
+  },
+  {
+    "termino": "Puntos de experiencia",
+    "tag": null,
+    "id": "glosario-puntos-de-experiencia",
+    "definicion": "A medida que los personajes superan desafíos\ny completan aventuras, ganan puntos de experien\ncia (PX) otorgados por su Game Master. Cuando\nel total de PX de un personaje supera ciertos um\nbrales, el personaje sube de nivel. Consulta también\nel apartado “Progresión de niveles”."
+  },
+  {
+    "termino": "Puntos de golpe",
+    "tag": null,
+    "id": "glosario-puntos-de-golpe",
+    "definicion": "Los puntos de golpe (pg) miden lo difícil que\nresulta matar o destruir a una criatura u objeto.\nEl daño reduce los puntos de golpe y la curación\nlos restaura. No puedes tener más puntos de golpe\nque tus puntos de golpe máximos ni puedes tener\nmenos de 0. Consulta también “Romper objetos” y el\ncapítulo “Cómo jugar” (“Daño y curación”)."
+  },
+  {
+    "termino": "Puntos de golpe temporales",
+    "tag": null,
+    "id": "glosario-puntos-de-golpe-temporales",
+    "definicion": "Algunos efectos otorgan puntos de golpe\ntemporales, que evitan la pérdida de puntos de\ngolpe reales. Consulta también el capítulo “Cómo\njugar” (“Daño y curación”)."
+  },
+  {
+    "termino": "Puntuación de característica y modificador",
+    "tag": null,
+    "id": "glosario-puntuacion-de-caracteristica-y-modificador",
+    "definicion": "Las criaturas tienen seis puntuaciones de caracte\nrística: Fuerza, Destreza, Constitución, Inteligencia,\nSabiduría y Carisma, que tienen su modificador\ncorrespondiente. Suma el modificador cuando\nhagas una prueba con d20 con la característica que\ncorresponda o cuando una regla te lo pida. Consulta\ntambién el capítulo “Cómo jugar” (“Las seis caracte\nrísticas”)."
+  },
+  {
+    "termino": "Reacción",
+    "tag": null,
+    "id": "glosario-reaccion",
+    "definicion": "Una reacción es una acción especial que se realiza\nen respuesta a un suceso definido en su descrip\nción. Puedes llevar a cabo una reacción en el turno\nde otra criatura, y si es en tu turno, puedes hacerlo\nincluso si también realizas una acción, una acción\nadicional o ambas. Cuando lleves a cabo una reac\nción, ya no podrás volver a hacerlo hasta el princi\npio de tu siguiente turno. El ataque de oportunidad\nes una reacción disponible para todas las criaturas.\nConsulta también “Ataques de oportunidad” y el\ncapítulo “Cómo jugar” (“Acciones”)."
+  },
+  {
+    "termino": "Redondear hacia abajo",
+    "tag": null,
+    "id": "glosario-redondear-hacia-abajo",
+    "definicion": "Siempre que tengas que dividir o multiplicar un\nnúmero en la partida, redondéalo hacia abajo si no\nes entero, incluso cuando la parte decimal sea 5 o\nmás. Algunas reglas plantean excepciones e indican\nque redondees hacia arriba."
+  },
+  {
+    "termino": "Resistencia",
+    "tag": null,
+    "id": "glosario-resistencia",
+    "definicion": "Si tienes resistencia a un tipo de daño, el daño de\nese tipo se reduce a la mitad contra ti (redondeando\nhacia abajo). La resistencia se aplica solo una vez\na un efecto de daño. Consulta también el capítulo\n“Cómo jugar” (“Daño y curación”)."
+  },
+  {
+    "termino": "Ritual",
+    "tag": null,
+    "id": "glosario-ritual",
+    "definicion": "Si tienes preparado un conjuro marcado como “ri\ntual”, puedes lanzarlo como un ritual. Lanzar un con\njuro de forma ritual requiere 10 minutos más del\ntiempo normal, pero, a cambio, no se gasta ningún\nespacio de conjuro. Por tanto, no se puede lanzar\nla versión ritual de un conjuro a un nivel superior\nal de este. Consulta también el capítulo “Conjuros”."
+  },
+  {
+    "termino": "Romper objetos",
+    "tag": null,
+    "id": "glosario-romper-objetos",
+    "definicion": "Los objetos pueden dañarse con ataques y algunos\nconjuros, conforme a las siguientes reglas. Si un ob\njeto es extremadamente frágil, tu GM puede permi\ntir que una criatura lo rompa automáticamente con\nlas acciones de atacar o utilizar.\nClase de armadura. La tabla “Clase de armadura\nde objetos” muestra las CA de varias sustancias.\nClase de armadura de objetos\nCA\nSustancia\nCA\nSustancia\nTela, papel, cuerda\nHierro, acero\nCristal, vidrio, hielo\nMithral\nMadera\nAdamantina\nPiedra\nPuntos de golpe. Un objeto se destruye cuando sus\npuntos de golpe se reducen a 0. La tabla “Puntos de\ngolpe de objetos” sugiere puntos de golpe para ob\njetos frágiles y resistentes de tamaño Grande o más\npequeño. Para asignar puntos de golpe a un objeto\nEnorme o Gargantuesco, divídelo en secciones Gran\ndes o más pequeñas y lleva la cuenta de cada una por\nseparado. Cada GM determina si destruir parte de\nun objeto hará que se desmorone por completo.\nPuntos de golpe de objetos\nTamaño\nFrágil\nResistente\nDiminuto (botella, cerradura)\n2 (1d4)\n5 (2d4)\nPequeño (cofre, laúd)\n3 (1d6)\n10 (3d6)\nMediano (barril, candelabro)\n4 (1d8)\n18 (4d8)\nGrande (carreta, mesa de\ncomedor)\n5 (1d10)\n27 (5d10)\nTipos de daño y objetos. Los objetos tienen inmu\nnidad al daño psíquico y de veneno. Cada GM puede\ndecidir que determinados tipos de daño sean más\no menos efectivos contra un objeto. Por ejemplo,\nel daño contundente sirve para destrozar cosas a\ngolpes, pero no para cortar. Los objetos de papel o\ntela pueden ser vulnerables al daño de fuego.\nUmbral de daño. Los objetos de gran tamaño,\ncomo los muros de un castillo, suelen tener una\nresistencia mayor, lo que se representa mediante un\numbral de daño. Consulta también “Umbral de daño”.\nSin puntuaciones de característica. Los objetos\nno tienen puntuaciones de característica, salvo que\nuna regla les asigne puntuaciones. Al no tener pun\ntuaciones de característica, los objetos no pueden\nhacer pruebas de característica y fallan todas las\ntiradas de salvación."
+  },
+  {
+    "termino": "Saltar",
+    "tag": null,
+    "id": "glosario-saltar",
+    "definicion": "Cuando saltas, puedes hacer un salto de longitud\n(horizontal) o un salto de altura (vertical). Consulta\ntambién “Salto de altura” y “Salto de longitud”."
+  },
+  {
+    "termino": "Salto de altura",
+    "tag": null,
+    "id": "glosario-salto-de-altura",
+    "definicion": "Cuando hagas un salto de altura, ascenderás una\ndistancia de 90 cm + 30 cm × tu modificador por\nFuerza (como mínimo 0 m) si te mueves al menos\n3 m a pie antes de saltar. Si saltas sin coger carreri\nlla, solo podrás ascender la mitad de esa distancia.\nEn cualquier caso, cada metro que saltes te costará\nun metro de tu movimiento.\nMientras saltas, puedes estirar los brazos una\ndistancia equivalente a la mitad de tu altura por\nencima de ti. De esta forma, podrás alcanzar con\nlas manos una distancia igual a la de la altura del\nsalto más una vez y media tu altura."
+  },
+  {
+    "termino": "Salto de longitud",
+    "tag": null,
+    "id": "glosario-salto-de-longitud",
+    "definicion": "Cuando hagas un salto de longitud, avanzarás\nhorizontalmente una distancia de hasta 30 cm × tu\npuntuación de Fuerza si recorres al menos 3 m\nantes de saltar. Si saltas sin coger carrerilla, solo\npodrás recorrer la mitad de esa distancia. En cual\nquier caso, cada metro que saltes te costará 1 m de\ntu movimiento.\nSi aterrizas en terreno difícil, deberás superar\nuna prueba de Destreza (Acrobacias) con CD 10\no tendrás el estado de derribado.\nLa regla de los saltos de longitud da por supuesto\nque la altura del salto no influye, como cuando se\nsalta para cruzar un río o una grieta. Si tu GM lo\ncree conveniente, deberás superar una prueba de\nFuerza (Atletismo) con CD 10 para superar un obs\ntáculo de una altura no superior a la cuarta parte de\nla distancia del salto, como puede ser un seto o un\nmuro bajo. De lo contrario, chocarás contra el obs\ntáculo."
+  },
+  {
+    "termino": "Salvación",
+    "tag": null,
+    "id": "glosario-salvacion",
+    "definicion": "Salvación es otro nombre para referirse a una\ntirada de salvación. Consulta también “Tirada de\nsalvación”."
+  },
+  {
+    "termino": "Sentir vibraciones",
+    "tag": null,
+    "id": "glosario-sentir-vibraciones",
+    "definicion": "Una criatura con la capacidad de sentir vibraciones\npuede localizar criaturas y objetos en movimien\nto dentro de un alcance determinado, siempre\ny cuando la criatura que pueda sentir vibraciones\ny cualquier cosa que detecte estén en contacto con\nla misma superficie (como el suelo, una pared o un\ntecho) o con el mismo líquido.\nSentir vibraciones no sirve para detectar criatu\nras u objetos en el aire y no cuenta como una forma\nde visión."
+  },
+  {
+    "termino": "Sintonización",
+    "tag": null,
+    "id": "glosario-sintonizacion",
+    "definicion": "Algunos objetos mágicos requieren que una criatu\nra forme un vínculo llamado sintonización antes de\nusar sus propiedades mágicas. Una criatura no pue\nde sintonizarse con más de tres objetos mágicos a la\nvez. Consulta también el capítulo “Equipo” (“Objetos\nmágicos”)."
+  },
+  {
+    "termino": "Sorpresa",
+    "tag": null,
+    "id": "glosario-sorpresa",
+    "definicion": "Si el comienzo de un combate pilla desprevenida\na una criatura, estará sorprendida, lo que le hará\ntener desventaja en su tirada de iniciativa. Consulta\ntambién el capítulo “Cómo jugar” (“Combate”)."
+  },
+  {
+    "termino": "Tamaño",
+    "tag": null,
+    "id": "glosario-tamano",
+    "definicion": "Cada criatura u objeto pertenece a una categoría\nde tamaño: Diminuto, Pequeño, Mediano, Grande,\nEnorme o Gargantuesco. El tamaño de una cria\ntura determina el espacio que ocupa en combate.\nEl tamaño de un objeto afecta a sus puntos de golpe.\nConsulta también “Romper objetos” y el capítulo\n“Cómo jugar” (“Combate”)."
+  },
+  {
+    "termino": "Telepatía",
+    "tag": null,
+    "id": "glosario-telepatia",
+    "definicion": "La telepatía es una facultad mágica que permite\na una criatura comunicarse mentalmente con otra\ncriatura que esté dentro del alcance indicado. Salvo\nque una regla indique algo distinto, no es necesa\nrio que la criatura contactada tenga un idioma en\ncomún con el telépata para entender esta comuni\ncación, pero deberá poder entender al menos un\nidioma o ejercer ella misma la telepatía para poder\nentenderse.\nUn telépata no necesita ver a la criatura\ncontactada y puede comenzar o terminar la cone\nxión telepática cuando quiera (no requiere acción).\nLa conexión telepática no puede iniciarse y se inte\nrrumpe de inmediato si el telépata o la otra criatura\ntiene el estado de incapacitado. La conexión telepá\ntica se interrumpe también si la criatura contactada\ndeja de estar al alcance del telépata o si el telépata\ncontacta con otra criatura a su alcance.\nLas criaturas sin telepatía pueden recibir mensa\njes telepáticos, pero no pueden iniciar una conversa\nción telepática. En cuanto comienza una conversa\nción telepática, la criatura que no sea telépata podrá\ncomunicarse mentalmente con el telépata hasta que\nse interrumpa la conexión."
+  },
+  {
+    "termino": "Teletransporte",
+    "tag": null,
+    "id": "glosario-teletransporte",
+    "definicion": "El teletransporte es un tipo especial de transpor\nte mágico. Si te teletransportas, desapareces y\nreapareces en otra parte al instante, sin atravesar\nel espacio entre medias. Este transporte no gasta\nmovimiento, salvo que una regla diga lo contrario,\ny nunca provoca ataques de oportunidad.\nCuando te teletransportas, todo el equipo que\nvistas o lleves se teletransporta contigo. Si estás\ntocando a otra criatura en el momento en el que te\nteletransportes, la criatura no se teletransportará\ncontigo salvo que el efecto de teletransporte diga\nlo contrario.\nSi el lugar de destino del teletransporte está\nocupado por otra criatura o bloqueado por un\nobstáculo sólido, aparecerás en el espacio sin ocu\npar más cercano que elijas.\nLa descripción de un efecto de teletransporte\nindica si debes ver el destino del teletransporte."
+  },
+  {
+    "termino": "Terreno difícil",
+    "tag": null,
+    "id": "glosario-terreno-dificil",
+    "definicion": "Si un espacio es terreno difícil, cada metro de\nmovimiento en ese espacio cuesta 1 m adicional.\nPor ejemplo, si te mueves 1,5 m por terreno difícil,\nte cuesta 3 m de movimiento. El terreno difícil no es\nacumulativo; un espacio es terreno difícil o no lo es.\nUn espacio es terreno difícil si contiene algo de\nlo siguiente u otro elemento similar:\n•\t una criatura que no sea Diminuta o aliada tuya;\n•\t un mueble diseñado para criaturas de tu tamaño\no superior;\n•\t escombros, hielo, maleza o nieve espesa;\n•\t líquido que llegue entre las espinillas y la cintura;\n•\t una abertura estrecha en la que quepa una criatura\ncuyo tamaño sea una categoría inferior al tuyo;\n•\t una pendiente de 20 grados o más."
+  },
+  {
+    "termino": "Tipo de criatura",
+    "tag": null,
+    "id": "glosario-tipo-de-criatura",
+    "definicion": "Todas las criaturas, incluidos los personajes de los\njugadores, tienen una etiqueta en las reglas que\nidentifica su tipo de criatura. La mayoría de los\npersonajes de los jugadores son de tipo humanoide.\nEstos son los tipos de criaturas del juego:\nAberración\nAutómata\nBestia\nCelestial\nCieno\nDragón\nElemental\nFeérico\nGigante\nHumanoide\nInfernal\nMonstruosidad\nMuerto viviente\nPlanta\nEstos tipos no tienen reglas en sí mismos, pero hay\nreglas del juego que afectan de manera distinta\na criaturas de ciertos tipos."
+  },
+  {
+    "termino": "Tipos de daño",
+    "tag": null,
+    "id": "glosario-tipos-de-dano",
+    "definicion": "Los ataques y otros efectos dañinos causan diferen\ntes tipos de daño. Los tipos de daño no tienen reglas\npropias, pero otras reglas, como la resistencia,\ndependen de ellos. La tabla “Tipos de daño” plantea\nejemplos para que cada GM sepa qué tipo puede\nasignar a los efectos nuevos.\nTipos de daño\nTipo\nEjemplos\nÁcido\nEnzimas digestivas, líquidos corrosivos\nContundente Aplastamientos, caídas, objetos romos\nCortante\nGarras, objetos cortantes\nFrío\nAgua gélida, ráfagas heladas\nFuego\nCalor insoportable, llamas\nFuerza\nEnergía mágica pura\nNecrótico\nEnergía que absorbe la vida\nPerforante\nColmillos, objetos punzantes\nPsíquico\nEnergía que desgarra la mente\nRadiante\nEnergía sagrada, radiación abrasadora\nRelámpago\nElectricidad\nTrueno\nSonido conmocionador\nVeneno\nGas tóxico, veneno"
+  },
+  {
+    "termino": "Tirada de ataque",
+    "tag": null,
+    "id": "glosario-tirada-de-ataque",
+    "definicion": "Una tirada de ataque es una prueba con d20 que\nrepresenta hacer un ataque con un arma, un ataque\nsin armas o un conjuro. Consulta también el capítulo\n“Cómo jugar” (“Las pruebas con d20”)."
+  },
+  {
+    "termino": "Tirada de daño",
+    "tag": null,
+    "id": "glosario-tirada-de-dano",
+    "definicion": "Una tirada de daño es una tirada de dados a la que\nse le aplican los modificadores que correspondan\ny que causa daño a un objetivo. Consulta también\nel capítulo “Cómo jugar” (“Daño y curación”)."
+  },
+  {
+    "termino": "Tirada de salvación",
+    "tag": null,
+    "id": "glosario-tirada-de-salvacion",
+    "definicion": "Una tirada de salvación, o simplemente salvación,\nrepresenta un intento de evitar o resistir una ame\nnaza. Por lo general, las tiradas de salvación solo se\nhacen cuando una regla lo requiere, pero puedes op\ntar por no hacer la tirada para fallarla. El resultado\nde una tirada de salvación se describe en el efecto\nque la ha provocado. Si un objetivo debe hacer una\ntirada de salvación y carece de la puntuación de\ncaracterística empleada en ella, la fallará automáti\ncamente. Consulta también el capítulo “Cómo jugar”\n(“Las pruebas con d20”)."
+  },
+  {
+    "termino": "Tirada de salvación contra muerte",
+    "tag": null,
+    "id": "glosario-tirada-de-salvacion-contra-muerte",
+    "definicion": "Si un personaje jugador comienza su turno con\n0 puntos de golpe, deberá realizar una tirada de\nsalvación contra muerte (también llamada salvación\ncontra muerte). Consulta también el capítulo “Cómo\njugar” (“Daño y curación”)."
+  },
+  {
+    "termino": "Trepar",
+    "tag": null,
+    "id": "glosario-trepar",
+    "definicion": "Cuando trepas, cada metro de movimiento te cuesta\n1 m adicional (2 m adicionales en terreno difícil).\nIgnoras este coste adicional si tienes una velocidad\ntrepando y la usas para trepar.\nA discreción de cada GM, trepar por una superficie\nresbaladiza o con pocos agarres podría requerir su\nperar una prueba de Fuerza (Atletismo) con CD 15."
+  },
+  {
+    "termino": "Truco",
+    "tag": null,
+    "id": "glosario-truco",
+    "definicion": "Un truco es un conjuro de nivel 0 que se lanza sin\nun espacio de conjuro. Consulta también el capítulo\n“Conjuros”."
+  },
+  {
+    "termino": "Umbral de daño",
+    "tag": null,
+    "id": "glosario-umbral-de-dano",
+    "definicion": "Una criatura u objeto que posea un umbral de daño\ntendrá inmunidad a todo el daño excepto si recibe\nuna cantidad de daño procedente de un único ata\nque o efecto igual o mayor que su umbral de daño,\nen cuyo caso sufrirá todo ese daño. Cualquier daño\nque no iguale o supere el umbral de daño se consi\ndera superficial y no reduce los puntos de golpe. Por\nejemplo, si un objeto tiene un umbral de daño de 10,\nno sufrirá daño si se le causa 9 de daño, ya que no\nsupera el umbral. Si ese mismo objeto recibe 11 de\ndaño, sufrirá todo ese daño."
+  },
+  {
+    "termino": "Utilizar",
+    "tag": "accion",
+    "id": "glosario-utilizar",
+    "definicion": "Normalmente, interactúas con un objeto mientras\nhaces otra cosa, como cuando desenvainas una es\npada como parte de una acción de atacar. Si quieres\nutilizar un objeto que requiera una acción para ello,\ntendrás que llevar a cabo la acción de utilizar."
+  },
+  {
+    "termino": "Valor de desafío",
+    "tag": null,
+    "id": "glosario-valor-de-desafio",
+    "definicion": "El valor de desafío (VD) resume la amenaza que\nsupone un monstruo para un grupo de cuatro\npersonajes jugadores. Compara el VD del monstruo\ncon el nivel de los personajes. Si el VD es superior,\nel monstruo seguramente suponga un peligro. Si el\nVD es inferior, el monstruo probablemente no sea\nuna gran amenaza. No obstante, las circunstancias\ny la cantidad de personajes jugadores pueden\nalterar considerablemente lo peligroso que puede\nser un monstruo en realidad. En el capítulo “Herra\nmientas del juego” (“Encuentros de combate”) se\nexplica cómo usar el VD al planear posibles encuen\ntros de combate. Consulta también “Perfil”."
+  },
+  {
+    "termino": "Velocidad",
+    "tag": null,
+    "id": "glosario-velocidad",
+    "definicion": "Las criaturas tienen una velocidad, que es la dis\ntancia en metros que pueden recorrer cuando se\nmueven en su turno. Consulta también “Arrastrarse”,\n“Nadar”, “Trepar”, “Saltar” y “Volar”, y el capítulo\n“Cómo jugar” (“Combate”).\nVelocidades especiales. Algunas criaturas tienen\nvelocidades especiales, como una velocidad ex\ncavando, velocidad nadando, velocidad trepando\no velocidad volando, todas ellas definidas en este\nglosario. Si tienes más de una velocidad, elige cuál\nvas a usar al moverte. Podrás alternar entre las\nvelocidades durante el movimiento. Cada vez que\nlo hagas, resta la distancia que ya te hayas movido\na la nueva velocidad. Lo que quede será lo que aún\nte puedas mover. Si te quedan 0 metros o menos,\nno podrás usar la nueva velocidad durante el movi\nmiento actual. Por ejemplo, si tienes una velocidad\ncaminando de 9 m y una velocidad volando de 12 m,\nentonces podrías volar 3 m, caminar 3 m y levantar\nel vuelo para recorrer otros 6 m más.\nCambios en tus velocidades. Si un efecto aumenta\no reduce tu velocidad durante un tiempo, cualquier\nvelocidad especial que tengas aumentará o se redu\ncirá en la misma cantidad durante el mismo periodo\nde tiempo. Por ejemplo, si tu velocidad se reduce\na 0 y tienes una velocidad trepando, tu velocidad\ntrepando también se reducirá a 0. De igual forma,\nsi tu velocidad se reduce a la mitad y tienes una\nvelocidad volando, tu velocidad volando también\nse reducirá a la mitad."
+  },
+  {
+    "termino": "Velocidad excavando",
+    "tag": null,
+    "id": "glosario-velocidad-excavando",
+    "definicion": "Si una criatura tiene una velocidad excavando, pue\nde usar esa velocidad para desplazarse a través de\narena, tierra, lodo o hielo. No puede excavar a través\nde roca sólida a menos que tenga un atributo que se\nlo permita. Consulta también “Velocidad”."
+  },
+  {
+    "termino": "Velocidad nadando",
+    "tag": null,
+    "id": "glosario-velocidad-nadando",
+    "definicion": "Una velocidad nadando sirve para nadar sin gastar\nel movimiento adicional que normalmente se asocia\na nadar. Consulta también “Nadar” y “Velocidad”."
+  },
+  {
+    "termino": "Velocidad trepando",
+    "tag": null,
+    "id": "glosario-velocidad-trepando",
+    "definicion": "Una velocidad trepando se puede utilizar en lugar\nde la velocidad para recorrer una superficie vertical\nsin gastar el movimiento adicional que normal\nmente se asocia a trepar. Consulta también “Trepar”\ny “Velocidad”."
+  },
+  {
+    "termino": "Velocidad volando",
+    "tag": null,
+    "id": "glosario-velocidad-volando",
+    "definicion": "Una velocidad volando sirve para viajar por el aire.\nMientras tengas una velocidad volando, podrás\npermanecer en el aire hasta que aterrices, caigas\no mueras. Consulta también “Velocidad” y “Volar”."
+  },
+  {
+    "termino": "Ventaja",
+    "tag": null,
+    "id": "glosario-ventaja",
+    "definicion": "Si tienes ventaja en una prueba con d20, tira 2d20\ny utiliza el resultado más alto. Una tirada no puede\nverse afectada por más de una ventaja, y una ven\ntaja y una desventaja en la misma tirada se anulan\nentre sí. Consulta también el capítulo “Cómo jugar”\n(“Las pruebas con d20”)."
+  },
+  {
+    "termino": "Visión ciega",
+    "tag": null,
+    "id": "glosario-vision-ciega",
+    "definicion": "Si tienes visión ciega, puedes ver dentro de un\nalcance determinado sin recurrir a la vista. Dentro\nde ese alcance, puedes ver cualquier cosa que no\nesté tras una cobertura completa, incluso si tienes\nel estado de cegado o te encuentras en la oscuridad.\nAsimismo, en ese alcance puedes ver cosas que ten\ngan el estado de invisibles."
+  },
+  {
+    "termino": "Visión en la oscuridad",
+    "tag": null,
+    "id": "glosario-vision-en-la-oscuridad",
+    "definicion": "Si tienes visión en la oscuridad dentro de un alcance\nespecífico, puedes ver con luz tenue como si hubiera\nluz brillante y, en la oscuridad, como si hubiera luz\ntenue. En esa oscuridad, solo disciernes los colores\ncomo tonos de gris. Consulta también el capítulo\n“Cómo jugar” (“Exploración”)."
+  },
+  {
+    "termino": "Visión verdadera",
+    "tag": null,
+    "id": "glosario-vision-verdadera",
+    "definicion": "Si tienes visión verdadera, tu visión mejora dentro\nde un alcance especificado. En él, tu visión es capaz\nde atravesar lo siguiente:\nOscuridad. Puedes ver en la oscuridad normal\ny mágica.\nInvisibilidad. Puedes ver criaturas y objetos que\ntengan el estado de invisibles.\nIlusiones visuales. Las ilusiones visuales te pare\ncen transparentes y superas automáticamente las\ntiradas de salvación contra ellas.\nTransformaciones. Distingues la forma verdadera\nde cualquier criatura u objeto que veas y que esté\ntransformado por un efecto mágico.\nPlano Etéreo. Puedes ver en el Plano Etéreo."
+  },
+  {
+    "termino": "Volar",
+    "tag": null,
+    "id": "glosario-volar",
+    "definicion": "Diversos efectos permiten que las criaturas vuelen.\nCuando vueles, te caerás si tienes los estados de\nderribado o incapacitado o si tu velocidad volando\nse reduce a 0. Puedes permanecer en el aire en esas\ncircunstancias si tienes la capacidad de levitar. Con\nsulta también “Caídas” y “Velocidad volando”."
+  },
+  {
+    "termino": "Vulnerabilidad",
+    "tag": null,
+    "id": "glosario-vulnerabilidad",
+    "definicion": "Si tienes vulnerabilidad a un tipo de daño, el daño\nde ese tipo se duplica contra ti. La vulnerabilidad\nse aplica solo una vez a un efecto de daño. Consulta\ntambién el capítulo “Cómo jugar” (“Daño y cura\nción”)."
+  }
+]
