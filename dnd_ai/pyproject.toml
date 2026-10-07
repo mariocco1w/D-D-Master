@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dnd-ai"
+version = "0.2.0"
+description = "Catálogo de clases del SRD 5.2.1 y consulta local para D&D Master."
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb==1.5.9",
+    "pymupdf==1.28.2",
+    "sentence-transformers==5.7.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
@@ -14,6 +15,10 @@ JSON_DIR = DATA_DIR / "json"
 CHROMA_DIR = DATA_DIR / "chroma"
 MODELS_DIR = DATA_DIR / "models"
 ML_DIR = DATA_DIR / "ml"
+LLM_DIR = DATA_DIR / "llm"
+CLASS_PRIMER_PATH = LLM_DIR / "clases_contexto.md"
+GUIDE_DIR = DATA_DIR / "guides"
+FIRST_CLASS_GUIDE_PATH = GUIDE_DIR / "primera_clase.md"
 
 SRD_ATTRIBUTION = (
     "Esta obra incluye material procedente del documento de referencia del sistema 5.2.1 "
@@ -48,8 +53,11 @@ CHUNK_SIZE = 900
 CHUNK_OVERLAP = 120
 
 EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
-OLLAMA_BASE_URL = "http://127.0.0.1:11434"
-OLLAMA_MODEL = "qwen3:4b"
+OLLAMA_BASE_URL = os.environ.get("DND_OLLAMA_URL", "http://127.0.0.1:11434")
+# qwen2.5:3b cabe en 8 GB de RAM por CPU. qwen3:4b se reserva para un equipo con más memoria.
+OLLAMA_MODEL = os.environ.get("DND_OLLAMA_MODEL", "qwen2.5:3b")
+OLLAMA_SMALL_MODEL = "qwen2.5:1.5b"
+OLLAMA_NUM_CTX = 4096
 
 
 def ensure_dirs() -> None:

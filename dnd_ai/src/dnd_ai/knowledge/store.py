@@ -6,7 +6,7 @@ from typing import Any
 
 import chromadb
 
-from .config import CHROMA_DIR, JSON_DIR, CHUNK_OVERLAP, CHUNK_SIZE, ensure_dirs
+from ..config import CHROMA_DIR, CHUNK_OVERLAP, CHUNK_SIZE, JSON_DIR, ensure_dirs
 from .embeddings import MultilingualEmbeddingFunction
 from .parsers.common import chunk_text, slugify
 

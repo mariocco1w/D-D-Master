@@ -1,6 +1,7 @@
 """Utilidades comunes para los parsers del SRD."""
 from __future__ import annotations
 
+import json
 import re
 from typing import Any
 
@@ -41,7 +42,5 @@ def chunk_text(
 
 
 def write_json(path: Any, data: Any) -> None:
-    import json
-
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

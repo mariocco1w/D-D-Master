@@ -7,7 +7,7 @@ import re
 
 import pymupdf
 
-from .config import PDF_PATH, RAW_DIR, SECTIONS, ensure_dirs
+from ..config import PDF_PATH, RAW_DIR, SECTIONS, ensure_dirs
 
 RUNNING_HEADER = "Documento de referencia del sistema 5.2.1"
 

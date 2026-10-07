@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pruebas de texto · D&amp;D Master</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1c1915;
+      --muted: #5c564c;
+      --line: #ddd6c8;
+      --paper: #f7f4ee;
+      --panel: #fffdf8;
+      --accent: #6e3b2e;
+      --ok: #1f6b45;
+      --bad: #8d2b2b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background: var(--paper);
+    }
+    header, main { max-width: 1080px; margin: 0 auto; padding: 28px 20px; }
+    header { padding-bottom: 0; }
+    h1 { font-size: 2rem; font-weight: 600; margin: 0 0 8px; }
+    h2 { font-size: 1.15rem; margin: 0 0 8px; }
+    p { line-height: 1.45; }
+    .lede { color: var(--muted); max-width: 42rem; }
+    .status, .plan, .workspace, .result {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+    }
+    .status { padding: 16px 18px; margin: 18px 0 22px; }
+    .status strong { color: var(--accent); }
+    ol { margin: 8px 0 0; padding-left: 1.2rem; }
+    code { font-family: Consolas, "Courier New", monospace; font-size: 0.92em; }
+    .layout { display: grid; grid-template-columns: 280px 1fr; gap: 18px; }
+    .plans { display: flex; flex-direction: column; gap: 8px; }
+    button.plan {
+      text-align: left;
+      padding: 12px;
+      cursor: pointer;
+      font: inherit;
+      color: inherit;
+    }
+    button.plan[aria-pressed="true"] { border-color: var(--accent); }
+    button.plan small { display: block; color: var(--muted); margin-top: 4px; }
+    .workspace, .result { padding: 16px 18px; }
+    label { display: block; font-size: 0.95rem; margin-bottom: 6px; }
+    textarea {
+      width: 100%;
+      min-height: 120px;
+      resize: vertical;
+      padding: 10px;
+      font: 1rem/1.4 Georgia, serif;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: #fff;
+    }
+    .row { display: flex; gap: 12px; align-items: center; margin-top: 12px; }
+    button.send {
+      font: inherit;
+      background: var(--accent);
+      color: #fffdf8;
+      border: 0;
+      border-radius: 6px;
+      padding: 10px 16px;
+      cursor: pointer;
+    }
+    button.send:disabled { opacity: 0.55; cursor: wait; }
+    .note { color: var(--muted); }
+    .result { margin-top: 18px; white-space: pre-wrap; }
+    .checks { list-style: none; padding: 0; margin: 12px 0 0; }
+    .checks li { padding: 4px 0; }
+    .pass { color: var(--ok); }
+    .fail { color: var(--bad); }
+    @media (max-width: 800px) {
+      .layout { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Pruebas de texto</h1>
+    <p class="lede">Cada plan manda una pregunta corta a Ollama con el contexto que ya tiene el proyecto. La respuesta tiene que salir de ese contexto.</p>
+    <section class="status" id="status">Comprobando este equipo y Ollama…</section>
+  </header>
+  <main>
+    <div class="layout">
+      <div class="plans" id="plans"></div>
+      <section class="workspace">
+        <h2 id="plan-title">Elige un plan</h2>
+        <p id="plan-summary" class="note"></p>
+        <label for="question">Pregunta</label>
+        <textarea id="question"></textarea>
+        <div class="row">
+          <button class="send" id="send" type="button">Probar</button>
+          <span class="note" id="wait"></span>
+        </div>
+      </section>
+    </div>
+    <section class="result" id="result" hidden></section>
+  </main>
+  <script>
+    const state = { plans: [], current: null };
+
+    function escapeHtml(value) {
+      return value
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;");
+    }
+
+    function renderStatus(data) {
+      const box = document.querySelector("#status");
+      const modelLine = data.model_ready
+        ? `Modelo listo: <strong>${escapeHtml(data.configured_model)}</strong>.`
+        : `Modelo configurado: <strong>${escapeHtml(data.configured_model)}</strong>. Todavía no está descargado.`;
+      const online = data.ok
+        ? `Ollama responde en ${escapeHtml(data.base_url)}.`
+        : "Ollama no responde en este equipo.";
+      const steps = (data.install_steps || []).map((step) => `<li><code>${escapeHtml(step)}</code></li>`).join("");
+      box.innerHTML = `
+        <p>${online} ${modelLine}</p>
+        <p>RAM ${data.free_ram_gb} GB libres de ${data.total_ram_gb} GB. Disco C: ${data.free_disk_gb} GB libres. Contexto máximo: ${data.num_ctx} tokens.</p>
+        <p>${escapeHtml(data.warning)}</p>
+        ${data.model_ready ? "" : `<p>Para instalar y dejar el modelo:</p><ol>${steps}</ol>`}
+      `;
+    }
+
+    function selectPlan(plan) {
+      state.current = plan;
+      document.querySelector("#plan-title").textContent = plan.title;
+      document.querySelector("#plan-summary").textContent = plan.ready
+        ? plan.summary
+        : plan.blocked_reason;
+      document.querySelector("#question").value = plan.sample_question;
+      document.querySelectorAll("button.plan").forEach((button) => {
+        button.setAttribute("aria-pressed", button.dataset.id === plan.id ? "true" : "false");
+      });
+    }
+
+    function renderPlans(plans) {
+      const host = document.querySelector("#plans");
+      host.replaceChildren();
+      plans.forEach((plan) => {
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "plan";
+        button.dataset.id = plan.id;
+        button.innerHTML = `<strong>${escapeHtml(plan.title)}</strong><small>${plan.ready ? "Listo para Ollama" : "Aún no se consulta"}</small>`;
+        button.addEventListener("click", () => selectPlan(plan));
+        host.appendChild(button);
+      });
+      if (plans.length) selectPlan(plans[0]);
+    }
+
+    function renderResult(data) {
+      const box = document.querySelector("#result");
+      box.hidden = false;
+      if (!data.ok) {
+        box.innerHTML = `<p class="fail">${escapeHtml(data.error || "No se pudo probar.")}</p>`;
+        return;
+      }
+      const checks = (data.checks || []).map((check) => {
+        const mark = check.passed ? "pass" : "fail";
+        const word = check.passed ? "Cumple" : "No cumple";
+        return `<li class="${mark}">${word}: ${escapeHtml(check.label)}</li>`;
+      }).join("");
+      const meta = data.meta && data.meta.roll ? `<p>El programa tiró un ${data.meta.roll}.</p>` : "";
+      box.innerHTML = `
+        <p class="note">${escapeHtml(data.title)} · ${escapeHtml(data.model)} · ${data.context_chars} caracteres de contexto</p>
+        ${meta}
+        <p>${escapeHtml(data.answer)}</p>
+        <ul class="checks">${checks}</ul>
+      `;
+    }
+
+    async function load() {
+      const [status, plans] = await Promise.all([
+        fetch("/api/status").then((response) => response.json()),
+        fetch("/api/plans").then((response) => response.json()),
+      ]);
+      renderStatus(status);
+      state.plans = plans.plans;
+      renderPlans(state.plans);
+    }
+
+    document.querySelector("#send").addEventListener("click", async () => {
+      const button = document.querySelector("#send");
+      const wait = document.querySelector("#wait");
+      if (!state.current) return;
+      button.disabled = true;
+      wait.textContent = "Consultando. En este portátil puede tardar cerca de un minuto.";
+      const started = Date.now();
+      try {
+        const response = await fetch("/api/test", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            plan: state.current.id,
+            question: document.querySelector("#question").value,
+          }),
+        });
+        const data = await response.json();
+        renderResult(data);
+        wait.textContent = `Tardó ${Math.round((Date.now() - started) / 1000)} s.`;
+      } catch (error) {
+        renderResult({ ok: false, error: "No se pudo hablar con la página de pruebas." });
+        wait.textContent = "";
+      } finally {
+        button.disabled = false;
+      }
+    });
+
+    load();
+  </script>
+</body>
+</html>

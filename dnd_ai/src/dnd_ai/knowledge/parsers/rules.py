@@ -7,7 +7,7 @@ from __future__ import annotations
 import json
 import re
 
-from ..config import JSON_DIR, RAW_DIR
+from ...config import JSON_DIR, RAW_DIR
 from .common import slugify, write_json
 
 CHAPTER_SIZE = 18.0

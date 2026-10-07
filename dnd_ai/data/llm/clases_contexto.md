@@ -1,0 +1,464 @@
+Generado por python -m dnd_ai.classes a partir de data/json/clases.json.
+No editar a mano: vuelve a generar el archivo si cambia el JSON.
+
+Catálogo de clases del SRD 5.2.1 (español).
+
+Hay doce clases. Cada una trae una sola subclase de ejemplo, la que publica el SRD.
+
+Este texto es la fuente para hablar de clases. No añadas clases ni subclases que no aparezcan aquí.
+
+
+
+## Bárbaro
+Id: clases-barbaro
+- Característica principal: Fuerza
+- Dado de puntos de golpe: 1d12 por nivel de bárbaro
+- Competencias en tiradas de salvación: Fuerza y Constitución
+- Competencias en habilidades: Elige dos: Atletismo, Intimida ción, Naturaleza, Percepción, Supervivencia o Trato con animales
+- Competencias con armas: Armas sencillas y marciales
+- Entrenamiento con armaduras: Armaduras ligeras y medias y escudos
+- Equipo inicial: Elige A o B: (A) hacha a dos manos, 4 hachas de mano, pa quete de explorador y 15 po, o (B) 75 po
+- Rasgos de clase:
+  - Nivel 1: Defensa sin armadura
+  - Nivel 1: Furia
+  - Nivel 1: Maestría con armas
+  - Nivel 2: Ataque temerario
+  - Nivel 2: Sentir el peligro
+  - Nivel 3: Conocimiento primigenio
+  - Nivel 3: Subclase de bárbaro
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Ataque adicional
+  - Nivel 5: Movimiento rápido
+  - Nivel 7: Instinto salvaje
+  - Nivel 7: Salto instintivo
+  - Nivel 9: Golpe brutal
+  - Nivel 11: Furia implacable
+  - Nivel 13: Golpe brutal mejorado
+  - Nivel 15: Furia persistente
+  - Nivel 17: Golpe brutal mejorado
+  - Nivel 18: Poderío indómito
+  - Nivel 19: Don épico
+  - Nivel 20: Campeón primordial
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de bárbaro: Senda del berserker
+  - Nivel 3: Frenesí
+  - Nivel 6: Furia irracional
+  - Nivel 10: Represalia
+  - Nivel 14: Presencia intimidante
+
+## Bardo
+Id: clases-bardo
+- Característica principal: Carisma
+- Dado de puntos de golpe: 1d8 por nivel de bardo
+- Competencias en tiradas de salvación: Destreza y Carisma
+- Competencias en habilidades: Elige tres cualesquiera (consulta el capítulo “Cómo jugar”)
+- Competencias con armas: Armas sencillas
+- Competencias con herramientas: Elige tres instrumentos musicales (consulta el capítulo “Equipo”)
+- Entrenamiento con armaduras: Armaduras ligeras
+- Equipo inicial: Elige A o B: (A) armadura de cuero, 2 dagas, instrumento musical de tu elección, pa quete de artista y 19 po, o (B) 90 po Rasgos de bardo Bonificador por competencia Dado bárdico Conjuros preparados Espacios de conjuro por cada nivel de conjuro Nivel Rasgos de clase Trucos +2 Inspiración bárdica, Lan zamiento de conjuros d6 — — — — — — — — +2 Aprendiz de mucho, Pericia d6 — — — — — — — — +2 Subclase de bardo d6 — — — — — — — +2 Mejora de característica d6 — — — — — — — +3 Fuente de inspiración d8 — — — — — — +3 Rasgo de subclase d8 — — — — — — +3 Contraencantamiento d8 — — — — — +3 Mejora de característica d8 — — — — — +4 Pericia d8 — — — — +4 Secretos mágicos d10 — — — — +4 — d10 — — — +4 Mejora de característica d10 — — — +5 — d10 — — +5 Rasgo de subclase d10 — — +5 — d12 — +5 Mejora de característica d12 — +6 — d12 +6 Inspiración superior d12 +6 Don épico d12 +6 Palabras de creación d12
+- Rasgos de clase:
+  - Nivel 1: Inspiración bárdica
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 2: Aprendiz de mucho
+  - Nivel 2: Pericia
+  - Nivel 3: Subclase de bardo
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Fuente de inspiración
+  - Nivel 7: Contraencantamiento
+  - Nivel 10: Secretos mágicos
+  - Nivel 18: Inspiración superior
+  - Nivel 19: Don épico
+  - Nivel 20: Palabras de creación
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de bardo: Colegio del conocimiento
+  - Nivel 3: Competencias adicionales
+  - Nivel 3: Palabras cortantes
+  - Nivel 6: Descubrimientos mágicos
+  - Nivel 14: Habilidad sin parangón
+
+## Brujo
+Id: clases-brujo
+- Característica principal: Carisma
+- Dado de puntos de golpe: 1d8 por nivel de brujo
+- Competencias en tiradas de salvación: Sabiduría y Carisma
+- Competencias en habilidades: Elige dos: Conocimiento arcano, Engaño, Historia, Intimidación, In vestigación, Naturaleza o Religión
+- Competencias con armas: Amas sencillas
+- Entrenamiento con armaduras: Armaduras ligeras
+- Equipo inicial: Elige A o B: (A) armadura de cuero, hoz, 2 dagas, canalizador arcano (orbe), libro (de conoci miento oculto), paquete de eru dito y 15 po, o (B) 100 po Rasgos de brujo Nivel Bonificador por competencia Rasgos de clase Invocaciones sobrenaturales Trucos Conjuros preparados Espacios de conjuro Nivel de los espacios +2 Invocaciones sobrenaturales, Magia del pacto +2 Astucia mágica +2 Subclase de brujo +2 Mejora de característica +3 — +3 Rasgo de subclase +3 — +3 Mejora de característica +4 Contactar patrón +4 Rasgo de subclase +4 Arcanum místico (conjuro de nivel 6) +4 Mejora de característica +5 Arcanum místico (conjuro de nivel 7) +5 Rasgo de subclase +5 Arcanum místico (conjuro de nivel 8) +5 Mejora de característica +6 Arcanum místico (conjuro de nivel 9) +6 — +6 Don épico +6 Maestro sobrenatural
+- Rasgos de clase:
+  - Nivel 1: Invocaciones sobrenaturales
+  - Nivel 1: Magia del pacto
+  - Nivel 2: Astucia mágica
+  - Nivel 3: Subclase de brujo
+  - Nivel 4: Mejora de característica
+  - Nivel 9: Contactar patrón
+  - Nivel 11: Arcanum místico
+  - Nivel 19: Don épico
+  - Nivel 20: Maestro sobrenatural
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+  - Armadura de sombras
+  - Castigo arcano
+  - Descarga agónica
+  - Descarga ahuyentadora
+  - Devorador de vida
+  - Don de las profundidades
+  - Don de los protectores
+  - Filo sediento
+  - Hoja devoradora
+  - Inversión del amo de las cadenas
+  - Lanza sobrenatural
+  - Lecciones de los primeros
+  - Maestro de las formas innumerables
+  - Máscara de los mil rostros
+  - Mente sobrenatural
+  - Mirada de las dos mentes
+  - Pacto de la cadena
+  - Pacto del filo
+  - Pacto del grimorio
+  - Paso ascendente
+  - Salto sobrenatural
+  - Susurros del sepulcro
+  - Uno con las sombras
+  - Vigor infernal
+  - Visión bruja
+  - Visiones brumosas
+  - Visiones de reinos remotos
+  - Vista del diablo
+- Subclase de ejemplo: Subclase de brujo: Patrón infernal
+  - Nivel 3: Bendición del oscuro
+  - Nivel 3: Conjuros del infernal
+  - Nivel 6: La suerte del oscuro
+  - Nivel 10: Resistencia infernal
+  - Nivel 14: Arrastrar por el infierno
+
+## Clérigo
+Id: clases-clerigo
+- Característica principal: Sabiduría
+- Dado de puntos de golpe: 1d8 por nivel de clérigo
+- Competencias en tiradas de salvación: Sabiduría y Carisma
+- Competencias en habilidades: Elige dos: Historia, Medicina, Perspicacia, Persuasión o Religión
+- Competencias con armas: Amas sencillas
+- Entrenamiento con armaduras: Armaduras ligeras y medias y escudos
+- Equipo inicial: Elige A o B: (A) camisa de ma lla, escudo, maza, paquete de sacerdote, símbolo sagrado y 7 po, o (B) 110 po
+- Rasgos de clase:
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 1: Orden divina
+  - Nivel 2: Canalizar divinidad
+  - Nivel 3: Subclase de clérigo
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Abrasar muertos vivientes
+  - Nivel 7: Golpes benditos
+  - Nivel 10: Intercesión divina
+  - Nivel 14: Golpes benditos mejorados
+  - Nivel 19: Don épico
+  - Nivel 20: Intercesión divina mayor
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de clérigo: Dominio de la vida
+  - Nivel 3: Conjuros del dominio de la vida
+  - Nivel 3: Discípulo de la vida
+  - Nivel 3: Preservar vida
+  - Nivel 6: Sanador bendito
+  - Nivel 17: Sanación suprema
+
+## Druida
+Id: clases-druida
+- Característica principal: Sabiduría
+- Dado de puntos de golpe: 1d8 por nivel de druida
+- Competencias en tiradas de salvación: Inteligencia y Sabiduría
+- Competencias en habilidades: Elige dos: Conocimiento arcano, Medicina, Naturaleza, Percep ción, Perspicacia, Religión, Su pervivencia o Trato con animales
+- Competencias con armas: Armas sencillas
+- Competencias con herramientas: Útiles de herborista
+- Entrenamiento con armaduras: Armaduras ligeras y escudos
+- Equipo inicial: Elige A o B: (A) armadura de cuero, escudo, hoz, canalizador druídico (bastón), paquete de explorador, útiles de herborista y 9 po, o (B) 50 po
+- Rasgos de clase:
+  - Nivel 1: Druídico
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 1: Orden primigenia
+  - Nivel 2: Compañero salvaje
+  - Nivel 2: Forma salvaje
+  - Nivel 3: Subclase de druida
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Resurgimiento salvaje
+  - Nivel 7: Furia elemental
+  - Nivel 15: Furia elemental mejorada
+  - Nivel 18: Conjurar como bestia
+  - Nivel 19: Don épico
+  - Nivel 20: Archidruida
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de druida: Círculo de la tierra
+  - Nivel 3: Ayuda de la tierra
+  - Nivel 3: Conjuros del círculo de la tierra
+  - Nivel 6: Recuperación natural
+  - Nivel 10: Protección de la naturaleza
+  - Nivel 14: Santuario de la naturaleza
+
+## Explorador
+Id: clases-explorador
+- Característica principal: Destreza y Sabiduría
+- Dado de puntos de golpe: 1d10 por nivel de explorador
+- Competencias en tiradas de salvación: Fuerza y Destreza
+- Competencias en habilidades: Elige tres: Atletismo, Investiga ción, Naturaleza, Percepción, Perspicacia, Sigilo, Superviven cia o Trato con animales
+- Competencias con armas: Armas sencillas y marciales
+- Entrenamiento con armaduras: Armaduras ligeras y medias y escudos
+- Equipo inicial: Elige A o B: (A) armadura de cuero tachonado, cimitarra, espada corta, arco largo, 20 flechas, aljaba, canalizador druídico (rama de muérdago), paquete de explorador y 7 po, o (B) 150 po Rasgos de explorador Bonificador por competencia Enemigo predilecto Conjuros preparados Espacios de conjuro por cada nivel de conjuro Nivel Rasgos de clase +2 Lanzamiento de conjuros, Enemigo predilecto, Maestría con armas — — — — +2 Estilo de combate, Explorador hábil — — — — +2 Subclase de explorador — — — — +2 Mejora de característica — — — — +3 Ataque adicional — — — +3 Errante — — — +3 Rasgo de subclase — — — +3 Mejora de característica — — — +4 Pericia — — +4 Infatigable — — +4 Rasgo de subclase — — +4 Mejora de característica — — +5 Cazador persistente — +5 Velo de la naturaleza — +5 Rasgo de subclase — +5 Mejora de característica — +6 Cazador preciso +6 Sentidos salvajes +6 Don épico +6 Azote de enemigos
+- Rasgos de clase:
+  - Nivel 1: Enemigo predilecto
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 1: Maestría con armas
+  - Nivel 2: Estilo de combate
+  - Nivel 2: Explorador hábil
+  - Nivel 3: Subclase de explorador
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Ataque adicional
+  - Nivel 6: Errante
+  - Nivel 9: Pericia
+  - Nivel 10: Infatigable
+  - Nivel 13: Cazador persistente
+  - Nivel 14: Velo de la naturaleza
+  - Nivel 17: Cazador preciso
+  - Nivel 18: Sentidos salvajes
+  - Nivel 19: Don épico
+  - Nivel 20: Azote de enemigos
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de explorador: Cazador
+  - Nivel 3: El cazador y la presa
+  - Nivel 3: Sabiduría del cazador
+  - Nivel 7: Tácticas defensivas
+  - Nivel 11: El cazador experto y la presa
+  - Nivel 15: Defensa de cazador experto
+
+## Guerrero
+Id: clases-guerrero
+- Característica principal: Fuerza o Destreza
+- Dado de puntos de golpe: 1d10 por nivel de guerrero
+- Competencias en tiradas de salvación: Fuerza y Constitución
+- Competencias en habilidades: Elige dos: Acrobacias, Atletismo, Historia, Intimidación, Percep ción, Perspicacia, Persuasión, Su pervivencia o Trato con animales
+- Competencias con armas: Armas sencillas y marciales
+- Entrenamiento con armaduras: Armaduras ligeras, medias y pe sadas y escudos
+- Equipo inicial: Elige A, B o C: (A) cota de malla, espadón, mangual, 8 jabalinas, paquete de explorador de maz morras y 4 po; (B) armadura de cuero tachonado, cimitarra, es pada corta, arco largo, 20 flechas, aljaba, paquete de explorador de mazmorras y 11 po, o (C) 155 po
+- Rasgos de clase:
+  - Nivel 1: Estilo de combate
+  - Nivel 1: Maestría con armas
+  - Nivel 1: Tomar aliento
+  - Nivel 2: Acción súbita
+  - Nivel 2: Mente táctica
+  - Nivel 3: Subclase de guerrero
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Ataque adicional
+  - Nivel 5: Desplazamiento táctico
+  - Nivel 9: Indómito
+  - Nivel 9: Maestro táctico
+  - Nivel 11: Dos ataques adicionales
+  - Nivel 13: Ataques estudiados
+  - Nivel 19: Don épico
+  - Nivel 20: Tres ataques adicionales
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de guerrero: Campeón
+  - Nivel 3: Atleta sobresaliente
+  - Nivel 3: Crítico mejorado
+  - Nivel 7: Estilo de combate adicional
+  - Nivel 10: Guerrero heroico
+  - Nivel 15: Crítico superior
+  - Nivel 18: Superviviente
+
+## Hechicero
+Id: clases-hechicero
+- Característica principal: Carisma
+- Dado de puntos de golpe: 1d6 por nivel de hechicero
+- Competencias en tiradas de salvación: Constitución y Carisma
+- Competencias en habilidades: Elige dos: Conocimiento ar cano, Engaño, Intimidación, Perspicacia, Persuasión o Religión
+- Competencias con armas: Amas sencillas
+- Entrenamiento con armaduras: Ninguna
+- Equipo inicial: Elige A o B: (A) lanza, 2 dagas, canalizador arcano (cristal), paquete de explorador de mazmorras y 28 po, o (B) 50 po
+- Rasgos de clase:
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 1: Hechicería innata
+  - Nivel 2: Fuente de magia
+  - Nivel 2: Metamagia
+  - Nivel 3: Subclase de hechicero
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Recuperación mágica
+  - Nivel 7: Encarnación mágica
+  - Nivel 19: Don épico
+  - Nivel 20: Apoteosis arcana
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+  - Conjuro acelerado
+  - Conjuro buscador
+  - Conjuro cuidadoso
+  - Conjuro distante
+  - Conjuro extendido
+  - Conjuro gemelo
+  - Conjuro intensificado
+  - Conjuro potenciado
+  - Conjuro sutil
+  - Conjuro transmutado
+- Subclase de ejemplo: Subclase de hechicero: Hechicería dracónica
+  - Nivel 3: Conjuros dracónicos
+  - Nivel 3: Resistencia dracónica
+  - Nivel 6: Afinidad elemental
+  - Nivel 14: Alas de dragón
+  - Nivel 18: Compañero dragón
+
+## Mago
+Id: clases-mago
+- Característica principal: Inteligencia
+- Dado de puntos de golpe: 1d6 por nivel de mago
+- Competencias en tiradas de salvación: Inteligencia y Sabiduría
+- Competencias en habilidades: Elige dos: Conocimiento ar cano, Historia, Investigación, Medicina, Naturaleza, Perspi cacia o Religión
+- Competencias con armas: Amas sencillas
+- Entrenamiento con armaduras: Ninguna
+- Equipo inicial: Elige A o B: (A) 2 dagas, canali zador arcano (bastón), libro de conjuros, paquete de erudito, túnica y 5 po, o (B) 55 po
+- Rasgos de clase:
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 1: Adepto en rituales
+  - Nivel 1: Recuperación arcana
+  - Nivel 2: Académico
+  - Nivel 3: Subclase de mago
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Memorizar conjuro
+  - Nivel 18: Maestría sobre conjuros
+  - Nivel 19: Don épico
+  - Nivel 20: Conjuros característicos
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de mago: Evocador
+  - Nivel 3: Experto en evocación
+  - Nivel 3: Truco potente
+  - Nivel 6: Esculpir conjuros
+  - Nivel 10: Evocación potenciada
+  - Nivel 14: Sobrecanalizar
+
+## Monje
+Id: clases-monje
+- Característica principal: Destreza y Sabiduría
+- Dado de puntos de golpe: 1d8 por nivel de monje
+- Competencias en tiradas de salvación: Fuerza y Destreza
+- Competencias en habilidades: Elige dos: Acrobacias, Atle tismo, Historia, Perspicacia, Religión o Sigilo
+- Competencias con armas: Armas sencillas, además de marciales que tengan la pro piedad “ligera”
+- Competencias con herramientas: Elige un tipo de herramientas de artesano o instrumento musical (consulta el capítulo “Equipo”)
+- Entrenamiento con armaduras: Ninguna
+- Equipo inicial: Elige A o B: (A) lanza, 5 dagas, herramientas de artesano o instrumento musical que has elegido para la competencia con herramientas, paquete de explorador y 11 po, o (B) 50 po Rasgos de monje Nivel Bonificador por competencia Rasgos de clase Artes marciales Puntos de concentración Movimiento sin armadura +2 Artes marciales, Defensa sin armadura 1d6 — — +2 Concentración de monje, Metabolismo asombroso, Movimiento sin armadura 1d6 +3 m +2 Desviar ataques, subclase de monje 1d6 +3 m +2 Caída lenta, Mejora de característica 1d6 +3 m +3 Ataque adicional, Golpe aturdidor 1d8 +3 m +3 Golpes potenciados, rasgo de subclase 1d8 +4,5 m +3 Evasión 1d8 +4,5 m +3 Mejora de característica 1d8 +4,5 m +4 Movimiento acrobático 1d8 +4,5 m +4 Autorrestablecimiento, Concentración agudizada 1d8 +6 m +4 Rasgo de subclase 1d10 +6 m +4 Mejora de característica 1d10 +6 m +5 Desviar energía 1d10 +6 m +5 Superviviente disciplinado 1d10 +7,5 m +5 Concentración perfecta 1d10 +7,5 m +5 Mejora de característica 1d10 +7,5 m +6 Rasgo de subclase 1d12 +7,5 m +6 Defensa superior 1d12 +9 m +6 Don épico 1d12 +9 m +6 Cuerpo y mente 1d12 +9 m
+- Rasgos de clase:
+  - Nivel 1: Artes marciales
+  - Nivel 1: Defensa sin armadura
+  - Nivel 2: Concentración de monje
+  - Nivel 2: Metabolismo asombroso
+  - Nivel 2: Movimiento sin armadura
+  - Nivel 3: Desviar ataques
+  - Nivel 3: Subclase de monje
+  - Nivel 4: Caída lenta
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Ataque adicional
+  - Nivel 5: Golpe aturdidor
+  - Nivel 6: Golpes potenciados
+  - Nivel 7: Evasión
+  - Nivel 9: Movimiento acrobático
+  - Nivel 10: Autorrestablecimiento
+  - Nivel 10: Concentración agudizada
+  - Nivel 13: Desviar energía
+  - Nivel 14: Superviviente disciplinado
+  - Nivel 15: Concentración perfecta
+  - Nivel 18: Defensa superior
+  - Nivel 19: Don épico
+  - Nivel 20: Cuerpo y mente
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de monje: Guerrero de la mano abierta
+  - Nivel 3: Técnica de la mano abierta
+  - Nivel 6: Plenitud de cuerpo
+  - Nivel 11: Paso veloz
+  - Nivel 17: Palma estremecedora
+
+## Paladín
+Id: clases-paladin
+- Característica principal: Fuerza y Carisma
+- Dado de puntos de golpe: 1d10 por nivel de Paladín
+- Competencias en tiradas de salvación: Sabiduría y Carisma
+- Competencias en habilidades: Elige dos: Atletismo, Intimida ción, Medicina, Perspicacia, Persuasión o Religión
+- Competencias con armas: Armas sencillas y marciales
+- Entrenamiento con armaduras: Armaduras ligeras, medias y pesadas y escudos
+- Equipo inicial: Elige A o B: (A) cota de malla, escudo, espada larga, 6 jabali nas, símbolo sagrado, paquete de sacerdote y 9 po, o (B) 150 po
+- Rasgos de clase:
+  - Nivel 1: Imponer las manos
+  - Nivel 1: Lanzamiento de conjuros
+  - Nivel 1: Maestría con armas
+  - Nivel 2: Castigo de paladín
+  - Nivel 2: Estilo de combate
+  - Nivel 3: Canalizar divinidad
+  - Nivel 3: Subclase de paladín
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Ataque adicional
+  - Nivel 5: Corcel fiel
+  - Nivel 6: Aura de protección
+  - Nivel 9: Abjurar de los enemigos
+  - Nivel 10: Aura de coraje
+  - Nivel 11: Golpes radiantes
+  - Nivel 14: Toque reparador
+  - Nivel 18: Expansión de aura
+  - Nivel 19: Don épico
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de paladín: Juramento de entrega
+  - Nivel 3: Arma sagrada
+  - Nivel 3: Conjuros del juramento de entrega
+  - Nivel 7: Aura de entrega
+  - Nivel 15: Castigo protector
+  - Nivel 20: Halo sagrado
+
+## Pícaro
+Id: clases-picaro
+- Característica principal: Destreza
+- Dado de puntos de golpe: 1d8 por nivel de pícaro
+- Competencias en tiradas de salvación: Destreza e Inteligencia
+- Competencias en habilidades: Elige cuatro: Acrobacias, Atletismo, Engaño, Intimidación, Investiga ción, Juego de manos, Percepción, Perspicacia, Persuasión o Sigilo
+- Competencias con armas: Armas sencillas, además de mar ciales que tengan las propieda des “ligera” o “sutil”
+- Competencias con herramientas: Herramientas de ladrón
+- Entrenamiento con armaduras: Armaduras ligeras
+- Equipo inicial: Elige A o B: (A) armadura de cuero, 2 dagas, espada corta, arco corto, 20 flechas, aljaba, herramientas de ladrón, paquete de ladrón y 8 po, o (B) 100 po
+- Rasgos de clase:
+  - Nivel 1: Ataque furtivo
+  - Nivel 1: Jerga de ladrones
+  - Nivel 1: Maestría con armas
+  - Nivel 1: Pericia
+  - Nivel 2: Acción astuta
+  - Nivel 3: Puntería certera
+  - Nivel 3: Subclase de pícaro
+  - Nivel 4: Mejora de característica
+  - Nivel 5: Golpe astuto
+  - Nivel 5: Esquiva asombrosa
+  - Nivel 7: Evasión
+  - Nivel 7: Talentos fiables
+  - Nivel 11: Golpe astuto mejorado
+  - Nivel 14: Golpes taimados
+  - Nivel 15: Mente escurridiza
+  - Nivel 18: Elusivo
+  - Nivel 19: Don épico
+  - Nivel 20: Golpe de suerte
+- Apartados:
+  - Como personaje de nivel 1
+  - Como personaje multiclase
+- Subclase de ejemplo: Subclase de pícaro: Ladrón
+  - Nivel 3: Manos rápidas
+  - Nivel 3: Balconero
+  - Nivel 9: Sigilo supremo
+  - Nivel 13: Usar objetos mágicos
+  - Nivel 17: Reflejos de ladrón

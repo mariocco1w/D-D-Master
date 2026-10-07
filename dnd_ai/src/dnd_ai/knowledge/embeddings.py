@@ -5,7 +5,7 @@ from typing import Sequence
 
 from sentence_transformers import SentenceTransformer
 
-from .config import EMBEDDING_MODEL
+from ..config import EMBEDDING_MODEL
 
 _model_cache: SentenceTransformer | None = None
 
